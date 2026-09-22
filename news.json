@@ -1,10 +1,435 @@
 {
-  "updated": "2026-09-22T18:00:00+00:00",
-  "count": 3,
-  "sources": ["The Hacker News","BleepingComputer","Krebs on Security","Dark Reading","SecurityWeek","The Record","CISA Advisories"],
+  "updated": "2026-09-22T20:06:49.983667+00:00",
+  "count": 70,
+  "sources": [
+    "The Hacker News",
+    "BleepingComputer",
+    "Krebs on Security",
+    "Dark Reading",
+    "SecurityWeek",
+    "The Record",
+    "CISA Advisories"
+  ],
   "items": [
-    {"title":"Sample headline — the live feed replaces this on first run","url":"https://github.com/RochaCrypt/cyber-pulse","source":"The Hacker News","date":"2026-09-22T17:30:00+00:00"},
-    {"title":"Run the GitHub Action to populate real cybersecurity news","url":"https://github.com/RochaCrypt/cyber-pulse","source":"BleepingComputer","date":"2026-09-22T16:00:00+00:00"},
-    {"title":"Headlines link back to each original source","url":"https://github.com/RochaCrypt/cyber-pulse","source":"Krebs on Security","date":"2026-09-22T15:00:00+00:00"}
+    {
+      "title": "[Virtual Event] Cybersecurity Outlook 2027",
+      "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+      "source": "Dark Reading",
+      "date": "2026-12-03T16:00:00+00:00"
+    },
+    {
+      "title": "Canadian regulator opens probe of IDScan for allegedly violating data privacy laws",
+      "url": "https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach",
+      "source": "The Record",
+      "date": "2026-09-22T19:52:00+00:00"
+    },
+    {
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T19:13:29+00:00"
+    },
+    {
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T18:29:39+00:00"
+    },
+    {
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T18:04:39+00:00"
+    },
+    {
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T18:03:10+00:00"
+    },
+    {
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T17:58:15+00:00"
+    },
+    {
+      "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+      "url": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+      "source": "SecurityWeek",
+      "date": "2026-09-22T17:58:00+00:00"
+    },
+    {
+      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
+      "source": "Dark Reading",
+      "date": "2026-09-22T17:32:49+00:00"
+    },
+    {
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T17:17:41+00:00"
+    },
+    {
+      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
+      "url": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
+      "source": "Dark Reading",
+      "date": "2026-09-22T17:12:26+00:00"
+    },
+    {
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T17:03:31+00:00"
+    },
+    {
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T16:41:12+00:00"
+    },
+    {
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T16:32:47+00:00"
+    },
+    {
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T16:14:04+00:00"
+    },
+    {
+      "title": "Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals",
+      "url": "https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens",
+      "source": "The Record",
+      "date": "2026-09-22T15:51:00+00:00"
+    },
+    {
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T15:00:00+00:00"
+    },
+    {
+      "title": "Cyera Raises $400 Million at $12+ Billion Valuation",
+      "url": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
+      "source": "SecurityWeek",
+      "date": "2026-09-22T14:29:34+00:00"
+    },
+    {
+      "title": "Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/",
+      "source": "SecurityWeek",
+      "date": "2026-09-22T13:26:51+00:00"
+    },
+    {
+      "title": "AI is set to help cyber attackers much more than defenders, says UK official",
+      "url": "https://therecord.media/ai-set-to-help-attackers-more-than-defenders",
+      "source": "The Record",
+      "date": "2026-09-22T13:05:00+00:00"
+    },
+    {
+      "title": "Russia's internet shutdowns disrupt warnings about incoming drone attacks",
+      "url": "https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks",
+      "source": "The Record",
+      "date": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T12:57:07+00:00"
+    },
+    {
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T12:48:06+00:00"
+    },
+    {
+      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+      "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T12:30:00+00:00"
+    },
+    {
+      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+      "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T12:29:00+00:00"
+    },
+    {
+      "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis",
+      "url": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
+      "source": "SecurityWeek",
+      "date": "2026-09-22T12:24:30+00:00"
+    },
+    {
+      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
+      "url": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
+      "source": "Dark Reading",
+      "date": "2026-09-22T12:00:00+00:00"
+    },
+    {
+      "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
+      "url": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+      "source": "SecurityWeek",
+      "date": "2026-09-22T11:55:20+00:00"
+    },
+    {
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T11:45:00+00:00"
+    },
+    {
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T11:38:40+00:00"
+    },
+    {
+      "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
+      "url": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+      "source": "SecurityWeek",
+      "date": "2026-09-22T11:33:59+00:00"
+    },
+    {
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T11:17:41+00:00"
+    },
+    {
+      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
+      "url": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+      "source": "SecurityWeek",
+      "date": "2026-09-22T10:22:27+00:00"
+    },
+    {
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T09:55:11+00:00"
+    },
+    {
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T09:38:18+00:00"
+    },
+    {
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T08:53:09+00:00"
+    },
+    {
+      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
+      "url": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
+      "source": "SecurityWeek",
+      "date": "2026-09-22T08:37:06+00:00"
+    },
+    {
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T07:52:03+00:00"
+    },
+    {
+      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T06:33:57+00:00"
+    },
+    {
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "source": "The Hacker News",
+      "date": "2026-09-22T06:03:14+00:00"
+    },
+    {
+      "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
+      "url": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
+      "source": "SecurityWeek",
+      "date": "2026-09-22T02:01:24+00:00"
+    },
+    {
+      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
+      "url": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+      "source": "Dark Reading",
+      "date": "2026-09-21T21:39:59+00:00"
+    },
+    {
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "source": "BleepingComputer",
+      "date": "2026-09-21T21:18:49+00:00"
+    },
+    {
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "source": "BleepingComputer",
+      "date": "2026-09-21T20:12:17+00:00"
+    },
+    {
+      "title": "ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "source": "Dark Reading",
+      "date": "2026-09-21T20:07:56+00:00"
+    },
+    {
+      "title": "EU data regulator fines Google more than $460 million for location data violations",
+      "url": "https://therecord.media/google-europe-location-data-fine",
+      "source": "The Record",
+      "date": "2026-09-21T19:15:00+00:00"
+    },
+    {
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "source": "Dark Reading",
+      "date": "2026-09-21T19:11:26+00:00"
+    },
+    {
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "source": "BleepingComputer",
+      "date": "2026-09-21T18:23:11+00:00"
+    },
+    {
+      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+      "source": "BleepingComputer",
+      "date": "2026-09-21T17:54:49+00:00"
+    },
+    {
+      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+      "url": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+      "source": "SecurityWeek",
+      "date": "2026-09-21T17:19:53+00:00"
+    },
+    {
+      "title": "Google fined €403 million over location data privacy violations",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "source": "BleepingComputer",
+      "date": "2026-09-21T15:41:22+00:00"
+    },
+    {
+      "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
+      "url": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
+      "source": "Dark Reading",
+      "date": "2026-09-21T14:47:19+00:00"
+    },
+    {
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "source": "BleepingComputer",
+      "date": "2026-09-21T14:42:37+00:00"
+    },
+    {
+      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "source": "Dark Reading",
+      "date": "2026-09-18T20:24:51+00:00"
+    },
+    {
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "source": "Dark Reading",
+      "date": "2026-09-18T19:26:47+00:00"
+    },
+    {
+      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+      "source": "Dark Reading",
+      "date": "2026-09-18T19:23:48+00:00"
+    },
+    {
+      "title": "MFA Won't Save You From OAuth Consent Abuse",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+      "source": "Dark Reading",
+      "date": "2026-09-18T18:15:20+00:00"
+    },
+    {
+      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+      "source": "Dark Reading",
+      "date": "2026-09-18T07:00:00+00:00"
+    },
+    {
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "source": "Dark Reading",
+      "date": "2026-09-17T21:23:50+00:00"
+    },
+    {
+      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
+      "source": "Dark Reading",
+      "date": "2026-09-17T19:15:38+00:00"
+    },
+    {
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "source": "Krebs on Security",
+      "date": "2026-09-16T18:14:22+00:00"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "source": "Krebs on Security",
+      "date": "2026-09-08T21:44:22+00:00"
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Krebs on Security",
+      "date": "2026-09-01T22:40:28+00:00"
+    },
+    {
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "source": "Krebs on Security",
+      "date": "2026-08-27T11:04:15+00:00"
+    },
+    {
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "source": "Krebs on Security",
+      "date": "2026-08-14T11:24:35+00:00"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "source": "Krebs on Security",
+      "date": "2026-08-11T21:28:35+00:00"
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "source": "Krebs on Security",
+      "date": "2026-08-06T17:00:56+00:00"
+    },
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Krebs on Security",
+      "date": "2026-07-30T16:49:00+00:00"
+    },
+    {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "source": "Krebs on Security",
+      "date": "2026-07-22T01:10:38+00:00"
+    },
+    {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "source": "Krebs on Security",
+      "date": "2026-07-14T19:22:42+00:00"
+    }
   ]
 }
