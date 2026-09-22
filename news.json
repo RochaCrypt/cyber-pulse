@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T20:06:49.983667+00:00",
+  "updated": "2026-09-22T23:31:23.328243+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,10 +12,34 @@
   ],
   "items": [
     {
-      "title": "[Virtual Event] Cybersecurity Outlook 2027",
-      "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T21:45:45+00:00"
+    },
+    {
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T21:40:37+00:00"
+    },
+    {
+      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+      "url": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
       "source": "Dark Reading",
-      "date": "2026-12-03T16:00:00+00:00"
+      "date": "2026-09-22T21:12:37+00:00"
+    },
+    {
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "source": "BleepingComputer",
+      "date": "2026-09-22T20:35:24+00:00"
+    },
+    {
+      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+      "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+      "source": "Dark Reading",
+      "date": "2026-09-22T20:02:02+00:00"
     },
     {
       "title": "Canadian regulator opens probe of IDScan for allegedly violating data privacy laws",
@@ -300,34 +324,16 @@
       "date": "2026-09-21T18:23:11+00:00"
     },
     {
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "source": "BleepingComputer",
-      "date": "2026-09-21T17:54:49+00:00"
-    },
-    {
       "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
       "url": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
       "source": "SecurityWeek",
       "date": "2026-09-21T17:19:53+00:00"
     },
     {
-      "title": "Google fined €403 million over location data privacy violations",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "source": "BleepingComputer",
-      "date": "2026-09-21T15:41:22+00:00"
-    },
-    {
       "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
       "url": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
       "source": "Dark Reading",
       "date": "2026-09-21T14:47:19+00:00"
-    },
-    {
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "source": "BleepingComputer",
-      "date": "2026-09-21T14:42:37+00:00"
     },
     {
       "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
       "source": "Dark Reading",
       "date": "2026-09-17T21:23:50+00:00"
-    },
-    {
-      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
-      "source": "Dark Reading",
-      "date": "2026-09-17T19:15:38+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
