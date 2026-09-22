@@ -1,0 +1,10 @@
+{
+  "updated": "2026-09-22T18:00:00+00:00",
+  "count": 3,
+  "sources": ["The Hacker News","BleepingComputer","Krebs on Security","Dark Reading","SecurityWeek","The Record","CISA Advisories"],
+  "items": [
+    {"title":"Sample headline — the live feed replaces this on first run","url":"https://github.com/RochaCrypt/cyber-pulse","source":"The Hacker News","date":"2026-09-22T17:30:00+00:00"},
+    {"title":"Run the GitHub Action to populate real cybersecurity news","url":"https://github.com/RochaCrypt/cyber-pulse","source":"BleepingComputer","date":"2026-09-22T16:00:00+00:00"},
+    {"title":"Headlines link back to each original source","url":"https://github.com/RochaCrypt/cyber-pulse","source":"Krebs on Security","date":"2026-09-22T15:00:00+00:00"}
+  ]
+}
