@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T16:20:53.379348+00:00",
+  "updated": "2026-09-23T21:15:00.754641+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,78 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
+      "url": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+      "source": "Dark Reading",
+      "date": "2026-09-23T21:03:01+00:00"
+    },
+    {
+      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+      "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+      "source": "Dark Reading",
+      "date": "2026-09-23T20:53:38+00:00"
+    },
+    {
+      "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
+      "url": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
+      "source": "The Record",
+      "date": "2026-09-23T20:07:00+00:00"
+    },
+    {
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "source": "BleepingComputer",
+      "date": "2026-09-23T19:53:54+00:00"
+    },
+    {
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+      "url": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "source": "SecurityWeek",
+      "date": "2026-09-23T19:32:49+00:00"
+    },
+    {
+      "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
+      "url": "https://therecord.media/trump-harris-election-meddling-russia",
+      "source": "The Record",
+      "date": "2026-09-23T19:30:00+00:00"
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "source": "BleepingComputer",
+      "date": "2026-09-23T18:31:22+00:00"
+    },
+    {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "source": "The Hacker News",
+      "date": "2026-09-23T18:06:30+00:00"
+    },
+    {
+      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+      "url": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+      "source": "SecurityWeek",
+      "date": "2026-09-23T18:05:58+00:00"
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "source": "The Hacker News",
+      "date": "2026-09-23T16:53:10+00:00"
+    },
+    {
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "source": "BleepingComputer",
+      "date": "2026-09-23T16:20:54+00:00"
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "source": "The Hacker News",
+      "date": "2026-09-23T16:06:41+00:00"
+    },
     {
       "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
       "url": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
@@ -64,12 +136,6 @@
       "url": "https://therecord.media/latvia-hacker-arrest-cyberattack",
       "source": "The Record",
       "date": "2026-09-23T12:45:00+00:00"
-    },
-    {
-      "title": "Burnham announces plan for new UK center to fight disinformation",
-      "url": "https://therecord.media/uk-disinformation-russia-center",
-      "source": "The Record",
-      "date": "2026-09-23T12:30:00+00:00"
     },
     {
       "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
@@ -180,22 +246,10 @@
       "date": "2026-09-23T07:17:23+00:00"
     },
     {
-      "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
-      "url": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
-      "source": "SecurityWeek",
-      "date": "2026-09-23T07:13:49+00:00"
-    },
-    {
       "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
       "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
       "source": "The Hacker News",
       "date": "2026-09-23T07:04:40+00:00"
-    },
-    {
-      "title": "Check Point Patches Exploited Management Server Zero-Day",
-      "url": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
-      "source": "SecurityWeek",
-      "date": "2026-09-23T06:14:03+00:00"
     },
     {
       "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
@@ -246,12 +300,6 @@
       "date": "2026-09-22T19:59:24+00:00"
     },
     {
-      "title": "Canadian regulator opens probe of IDScan for allegedly violating data privacy laws",
-      "url": "https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach",
-      "source": "The Record",
-      "date": "2026-09-22T19:52:00+00:00"
-    },
-    {
       "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
       "source": "BleepingComputer",
@@ -276,12 +324,6 @@
       "date": "2026-09-22T18:03:10+00:00"
     },
     {
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "source": "The Hacker News",
-      "date": "2026-09-22T17:58:15+00:00"
-    },
-    {
       "title": "Reducing shadow IT visibility gaps with Wazuh",
       "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
       "source": "BleepingComputer",
@@ -292,36 +334,6 @@
       "url": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
       "source": "Dark Reading",
       "date": "2026-09-22T17:12:26+00:00"
-    },
-    {
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "source": "The Hacker News",
-      "date": "2026-09-22T17:03:31+00:00"
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "source": "The Hacker News",
-      "date": "2026-09-22T16:41:12+00:00"
-    },
-    {
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-09-22T16:32:47+00:00"
-    },
-    {
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "source": "BleepingComputer",
-      "date": "2026-09-22T15:00:00+00:00"
-    },
-    {
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "source": "BleepingComputer",
-      "date": "2026-09-22T12:57:07+00:00"
     },
     {
       "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
@@ -358,18 +370,6 @@
       "url": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
       "source": "Dark Reading",
       "date": "2026-09-21T14:47:19+00:00"
-    },
-    {
-      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
-      "source": "Dark Reading",
-      "date": "2026-09-18T20:24:51+00:00"
-    },
-    {
-      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-      "source": "Dark Reading",
-      "date": "2026-09-18T19:26:47+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
