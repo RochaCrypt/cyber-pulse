@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T16:42:59.564234+00:00",
+  "updated": "2026-09-24T21:16:30.486149+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,72 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+      "source": "Dark Reading",
+      "date": "2026-09-24T21:04:03+00:00"
+    },
+    {
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "source": "BleepingComputer",
+      "date": "2026-09-24T20:53:35+00:00"
+    },
+    {
+      "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
+      "url": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+      "source": "SecurityWeek",
+      "date": "2026-09-24T20:35:21+00:00"
+    },
+    {
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+      "source": "Dark Reading",
+      "date": "2026-09-24T20:32:50+00:00"
+    },
+    {
+      "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges",
+      "url": "https://therecord.media/russia-forensics-technology-doj",
+      "source": "The Record",
+      "date": "2026-09-24T20:30:00+00:00"
+    },
+    {
+      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
+      "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+      "source": "The Record",
+      "date": "2026-09-24T20:15:00+00:00"
+    },
+    {
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "source": "BleepingComputer",
+      "date": "2026-09-24T20:10:48+00:00"
+    },
+    {
+      "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation",
+      "url": "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
+      "source": "The Record",
+      "date": "2026-09-24T18:57:00+00:00"
+    },
+    {
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "source": "The Hacker News",
+      "date": "2026-09-24T18:10:18+00:00"
+    },
+    {
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-09-24T17:52:43+00:00"
+    },
+    {
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "source": "BleepingComputer",
+      "date": "2026-09-24T17:47:44+00:00"
+    },
     {
       "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
       "url": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
@@ -88,12 +154,6 @@
       "url": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
       "source": "SecurityWeek",
       "date": "2026-09-24T12:48:14+00:00"
-    },
-    {
-      "title": "OpenAI agent breached Australian government health website, Albanese says",
-      "url": "https://therecord.media/openai-australia-health-breach",
-      "source": "The Record",
-      "date": "2026-09-24T12:30:00+00:00"
     },
     {
       "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
@@ -174,12 +234,6 @@
       "date": "2026-09-24T08:14:47+00:00"
     },
     {
-      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
-      "url": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
-      "source": "SecurityWeek",
-      "date": "2026-09-24T07:12:26+00:00"
-    },
-    {
       "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
       "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
       "source": "The Hacker News",
@@ -228,22 +282,10 @@
       "date": "2026-09-23T20:53:38+00:00"
     },
     {
-      "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
-      "url": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
-      "source": "The Record",
-      "date": "2026-09-23T20:07:00+00:00"
-    },
-    {
       "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
       "source": "BleepingComputer",
       "date": "2026-09-23T19:53:54+00:00"
-    },
-    {
-      "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
-      "url": "https://therecord.media/trump-harris-election-meddling-russia",
-      "source": "The Record",
-      "date": "2026-09-23T19:30:00+00:00"
     },
     {
       "title": "Hackers start exploiting critical WordPress flaw for code execution",
@@ -300,40 +342,10 @@
       "date": "2026-09-23T14:17:58+00:00"
     },
     {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "source": "BleepingComputer",
-      "date": "2026-09-23T14:01:11+00:00"
-    },
-    {
       "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
       "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
       "source": "The Hacker News",
       "date": "2026-09-23T13:52:46+00:00"
-    },
-    {
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "source": "BleepingComputer",
-      "date": "2026-09-23T12:29:53+00:00"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "source": "The Hacker News",
-      "date": "2026-09-23T12:16:00+00:00"
-    },
-    {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "source": "The Hacker News",
-      "date": "2026-09-23T11:47:19+00:00"
-    },
-    {
-      "title": "Microsoft: September Windows updates break Always On VPN connections",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-      "source": "BleepingComputer",
-      "date": "2026-09-23T11:18:13+00:00"
     },
     {
       "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
@@ -358,18 +370,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
       "source": "Dark Reading",
       "date": "2026-09-22T19:59:24+00:00"
-    },
-    {
-      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
-      "url": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
-      "source": "Dark Reading",
-      "date": "2026-09-22T17:12:26+00:00"
-    },
-    {
-      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
-      "url": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
-      "source": "Dark Reading",
-      "date": "2026-09-22T12:00:00+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
