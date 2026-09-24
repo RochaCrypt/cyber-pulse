@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T03:43:02.042889+00:00",
+  "updated": "2026-09-24T11:18:50.641960+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,84 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators",
+      "url": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
+      "source": "SecurityWeek",
+      "date": "2026-09-24T11:05:16+00:00"
+    },
+    {
+      "title": "Begin at the End: How to Enable Agentic Remediation",
+      "url": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
+      "source": "SecurityWeek",
+      "date": "2026-09-24T11:00:00+00:00"
+    },
+    {
+      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "source": "BleepingComputer",
+      "date": "2026-09-24T10:42:37+00:00"
+    },
+    {
+      "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
+      "url": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
+      "source": "SecurityWeek",
+      "date": "2026-09-24T10:40:40+00:00"
+    },
+    {
+      "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
+      "url": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
+      "source": "SecurityWeek",
+      "date": "2026-09-24T09:56:04+00:00"
+    },
+    {
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "source": "BleepingComputer",
+      "date": "2026-09-24T09:38:53+00:00"
+    },
+    {
+      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+      "source": "The Hacker News",
+      "date": "2026-09-24T09:14:21+00:00"
+    },
+    {
+      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+      "url": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-09-24T08:38:29+00:00"
+    },
+    {
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-09-24T08:14:47+00:00"
+    },
+    {
+      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+      "url": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+      "source": "SecurityWeek",
+      "date": "2026-09-24T07:12:26+00:00"
+    },
+    {
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "source": "The Hacker News",
+      "date": "2026-09-24T07:07:25+00:00"
+    },
+    {
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "source": "The Hacker News",
+      "date": "2026-09-24T06:32:03+00:00"
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "source": "The Hacker News",
+      "date": "2026-09-24T05:36:18+00:00"
+    },
     {
       "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
       "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
@@ -48,7 +126,7 @@
       "date": "2026-09-23T19:53:54+00:00"
     },
     {
-      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
       "url": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
       "source": "SecurityWeek",
       "date": "2026-09-23T19:32:49+00:00"
@@ -186,12 +264,6 @@
       "date": "2026-09-23T11:40:59+00:00"
     },
     {
-      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
-      "url": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-      "source": "SecurityWeek",
-      "date": "2026-09-23T11:23:30+00:00"
-    },
-    {
       "title": "Microsoft: September Windows updates break Always On VPN connections",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
       "source": "BleepingComputer",
@@ -202,30 +274,6 @@
       "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
       "source": "The Hacker News",
       "date": "2026-09-23T11:12:18+00:00"
-    },
-    {
-      "title": "Chrome 154 Patches 108 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-09-23T10:36:07+00:00"
-    },
-    {
-      "title": "A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk",
-      "url": "https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/",
-      "source": "SecurityWeek",
-      "date": "2026-09-23T10:20:36+00:00"
-    },
-    {
-      "title": "Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm",
-      "url": "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/",
-      "source": "SecurityWeek",
-      "date": "2026-09-23T10:00:00+00:00"
-    },
-    {
-      "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
-      "url": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
-      "source": "SecurityWeek",
-      "date": "2026-09-23T08:33:06+00:00"
     },
     {
       "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
@@ -246,40 +294,16 @@
       "date": "2026-09-23T08:20:05+00:00"
     },
     {
-      "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
-      "url": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
-      "source": "SecurityWeek",
-      "date": "2026-09-23T07:34:18+00:00"
-    },
-    {
       "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer",
       "date": "2026-09-23T07:17:23+00:00"
     },
     {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "source": "The Hacker News",
-      "date": "2026-09-23T07:04:40+00:00"
-    },
-    {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "source": "The Hacker News",
-      "date": "2026-09-23T05:30:09+00:00"
-    },
-    {
       "title": "Rogue external MFA providers can steal passwords during logins",
       "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
       "source": "BleepingComputer",
       "date": "2026-09-22T21:45:45+00:00"
-    },
-    {
-      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
-      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
-      "source": "BleepingComputer",
-      "date": "2026-09-22T21:40:37+00:00"
     },
     {
       "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
@@ -294,12 +318,6 @@
       "date": "2026-09-22T20:55:53+00:00"
     },
     {
-      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-      "source": "BleepingComputer",
-      "date": "2026-09-22T20:35:24+00:00"
-    },
-    {
       "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
       "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
       "source": "Dark Reading",
@@ -310,24 +328,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
       "source": "Dark Reading",
       "date": "2026-09-22T19:59:24+00:00"
-    },
-    {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-09-22T19:13:29+00:00"
-    },
-    {
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "source": "The Hacker News",
-      "date": "2026-09-22T18:29:39+00:00"
-    },
-    {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "source": "The Hacker News",
-      "date": "2026-09-22T18:03:10+00:00"
     },
     {
       "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
