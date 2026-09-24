@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T21:15:00.754641+00:00",
+  "updated": "2026-09-24T03:43:02.042889+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-09-23T22:46:01+00:00"
+    },
+    {
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "source": "BleepingComputer",
+      "date": "2026-09-23T21:25:13+00:00"
+    },
     {
       "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
       "url": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
@@ -312,22 +324,10 @@
       "date": "2026-09-22T18:29:39+00:00"
     },
     {
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "source": "BleepingComputer",
-      "date": "2026-09-22T18:04:39+00:00"
-    },
-    {
       "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
       "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
       "source": "The Hacker News",
       "date": "2026-09-22T18:03:10+00:00"
-    },
-    {
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "source": "BleepingComputer",
-      "date": "2026-09-22T17:17:41+00:00"
     },
     {
       "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
