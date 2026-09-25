@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T15:03:20.423430+00:00",
+  "updated": "2026-09-25T19:52:15.015781+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,60 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
+      "url": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
+      "source": "The Record",
+      "date": "2026-09-25T19:35:00+00:00"
+    },
+    {
+      "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
+      "source": "Dark Reading",
+      "date": "2026-09-25T18:39:32+00:00"
+    },
+    {
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "source": "BleepingComputer",
+      "date": "2026-09-25T18:13:33+00:00"
+    },
+    {
+      "title": "What We Missed: Google Gemini Joins the AI Escape Party",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
+      "source": "Dark Reading",
+      "date": "2026-09-25T17:56:23+00:00"
+    },
+    {
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-09-25T17:24:20+00:00"
+    },
+    {
+      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+      "source": "BleepingComputer",
+      "date": "2026-09-25T16:00:00+00:00"
+    },
+    {
+      "title": "Crypto CEO accuses North Korea of stealing $387 million from Bitget platform",
+      "url": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
+      "source": "The Record",
+      "date": "2026-09-25T15:15:00+00:00"
+    },
+    {
+      "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
+      "url": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
+      "source": "SecurityWeek",
+      "date": "2026-09-25T15:07:31+00:00"
+    },
+    {
+      "title": "Cyberattack hits Welsh police force, may have affected staff data",
+      "url": "https://therecord.media/wales-cyberattack-police-breach",
+      "source": "The Record",
+      "date": "2026-09-25T15:00:00+00:00"
+    },
     {
       "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
@@ -24,10 +78,28 @@
       "date": "2026-09-25T14:51:10+00:00"
     },
     {
+      "title": "Stopping IT Worker Scams Requires Revamped HR Process",
+      "url": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
+      "source": "Dark Reading",
+      "date": "2026-09-25T14:46:13+00:00"
+    },
+    {
+      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+      "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+      "source": "The Hacker News",
+      "date": "2026-09-25T14:44:41+00:00"
+    },
+    {
       "title": "North Korea Suspected in $351 Million Bitget Crypto Heist",
       "url": "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
       "source": "SecurityWeek",
       "date": "2026-09-25T14:16:18+00:00"
+    },
+    {
+      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+      "source": "The Hacker News",
+      "date": "2026-09-25T13:18:06+00:00"
     },
     {
       "title": "Microsoft plans to deprecate Windows Deployment Services",
@@ -156,22 +228,10 @@
       "date": "2026-09-24T20:30:00+00:00"
     },
     {
-      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
-      "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
-      "source": "The Record",
-      "date": "2026-09-24T20:15:00+00:00"
-    },
-    {
       "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
       "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
       "source": "BleepingComputer",
       "date": "2026-09-24T20:10:48+00:00"
-    },
-    {
-      "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation",
-      "url": "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
-      "source": "The Record",
-      "date": "2026-09-24T18:57:00+00:00"
     },
     {
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
@@ -222,7 +282,7 @@
       "date": "2026-09-24T14:29:06+00:00"
     },
     {
-      "title": "How to Build A SASE Framework for Modern Cybersecurity",
+      "title": "How to Build a SASE Framework for Modern Cybersecurity",
       "url": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
       "source": "Dark Reading",
       "date": "2026-09-24T14:02:43+00:00"
@@ -240,12 +300,6 @@
       "date": "2026-09-24T13:30:00+00:00"
     },
     {
-      "title": "Kyiv internet providers report major outages after Russian attacks damage data centers",
-      "url": "https://therecord.media/kyiv-internet-providers-report-outages-after-russian-strikes",
-      "source": "The Record",
-      "date": "2026-09-24T13:30:00+00:00"
-    },
-    {
       "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
       "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
       "source": "BleepingComputer",
@@ -256,12 +310,6 @@
       "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
       "source": "Dark Reading",
       "date": "2026-09-24T13:00:00+00:00"
-    },
-    {
-      "title": "AI-Powered Campaign Targets Hundreds of Online Retailers",
-      "url": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
-      "source": "SecurityWeek",
-      "date": "2026-09-24T12:48:14+00:00"
     },
     {
       "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
@@ -282,46 +330,16 @@
       "date": "2026-09-24T11:00:00+00:00"
     },
     {
-      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-      "source": "BleepingComputer",
-      "date": "2026-09-24T10:42:37+00:00"
-    },
-    {
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "source": "BleepingComputer",
-      "date": "2026-09-24T09:38:53+00:00"
-    },
-    {
       "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
       "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
       "source": "The Hacker News",
       "date": "2026-09-24T09:14:21+00:00"
     },
     {
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "source": "BleepingComputer",
-      "date": "2026-09-24T08:14:47+00:00"
-    },
-    {
       "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
       "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
       "source": "The Hacker News",
       "date": "2026-09-24T07:07:25+00:00"
-    },
-    {
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "source": "The Hacker News",
-      "date": "2026-09-24T06:32:03+00:00"
-    },
-    {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "source": "The Hacker News",
-      "date": "2026-09-24T05:36:18+00:00"
     },
     {
       "title": "SASE Converges Network &amp; Security Into One Cloud Solution",
@@ -352,24 +370,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
       "source": "Dark Reading",
       "date": "2026-09-23T14:47:09+00:00"
-    },
-    {
-      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
-      "url": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
-      "source": "Dark Reading",
-      "date": "2026-09-22T21:12:37+00:00"
-    },
-    {
-      "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
-      "url": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
-      "source": "Dark Reading",
-      "date": "2026-09-22T20:55:53+00:00"
-    },
-    {
-      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
-      "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
-      "source": "Dark Reading",
-      "date": "2026-09-22T20:02:02+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
