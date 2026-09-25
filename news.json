@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T09:56:11.382236+00:00",
+  "updated": "2026-09-25T15:03:20.423430+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,84 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+      "source": "BleepingComputer",
+      "date": "2026-09-25T14:54:33+00:00"
+    },
+    {
+      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+      "source": "BleepingComputer",
+      "date": "2026-09-25T14:51:10+00:00"
+    },
+    {
+      "title": "North Korea Suspected in $351 Million Bitget Crypto Heist",
+      "url": "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
+      "source": "SecurityWeek",
+      "date": "2026-09-25T14:16:18+00:00"
+    },
+    {
+      "title": "Microsoft plans to deprecate Windows Deployment Services",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+      "source": "BleepingComputer",
+      "date": "2026-09-25T12:40:59+00:00"
+    },
+    {
+      "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
+      "url": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-09-25T12:39:12+00:00"
+    },
+    {
+      "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court",
+      "url": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
+      "source": "SecurityWeek",
+      "date": "2026-09-25T12:16:27+00:00"
+    },
+    {
+      "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
+      "url": "https://therecord.media/openai-australia-breach-cyber",
+      "source": "The Record",
+      "date": "2026-09-25T12:00:00+00:00"
+    },
+    {
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "source": "BleepingComputer",
+      "date": "2026-09-25T11:35:14+00:00"
+    },
+    {
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "source": "The Hacker News",
+      "date": "2026-09-25T11:30:00+00:00"
+    },
+    {
+      "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
+      "url": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
+      "source": "SecurityWeek",
+      "date": "2026-09-25T10:53:32+00:00"
+    },
+    {
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "source": "The Hacker News",
+      "date": "2026-09-25T10:35:55+00:00"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "source": "BleepingComputer",
+      "date": "2026-09-25T10:30:38+00:00"
+    },
+    {
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-09-25T10:14:02+00:00"
+    },
     {
       "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
       "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
@@ -174,12 +252,6 @@
       "date": "2026-09-24T13:27:57+00:00"
     },
     {
-      "title": "Astrana latest healthcare tech firm to report data breach to SEC",
-      "url": "https://therecord.media/astrana-cyberattack-sec-ransomware",
-      "source": "The Record",
-      "date": "2026-09-24T13:15:00+00:00"
-    },
-    {
       "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
       "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
       "source": "Dark Reading",
@@ -204,27 +276,9 @@
       "date": "2026-09-24T12:05:27+00:00"
     },
     {
-      "title": "Island Raises $400 Million at $6.4 Billion Valuation",
-      "url": "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/",
-      "source": "SecurityWeek",
-      "date": "2026-09-24T11:39:09+00:00"
-    },
-    {
-      "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators",
-      "url": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
-      "source": "SecurityWeek",
-      "date": "2026-09-24T11:05:16+00:00"
-    },
-    {
       "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
       "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
       "source": "The Hacker News",
-      "date": "2026-09-24T11:00:00+00:00"
-    },
-    {
-      "title": "Begin at the End: How to Enable Agentic Remediation",
-      "url": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
-      "source": "SecurityWeek",
       "date": "2026-09-24T11:00:00+00:00"
     },
     {
@@ -232,12 +286,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
       "source": "BleepingComputer",
       "date": "2026-09-24T10:42:37+00:00"
-    },
-    {
-      "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
-      "url": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
-      "source": "SecurityWeek",
-      "date": "2026-09-24T10:40:40+00:00"
     },
     {
       "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
@@ -276,22 +324,10 @@
       "date": "2026-09-24T05:36:18+00:00"
     },
     {
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-09-23T22:46:01+00:00"
-    },
-    {
       "title": "SASE Converges Network &amp; Security Into One Cloud Solution",
       "url": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
       "source": "Dark Reading",
       "date": "2026-09-23T22:29:10+00:00"
-    },
-    {
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "source": "BleepingComputer",
-      "date": "2026-09-23T21:25:13+00:00"
     },
     {
       "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
@@ -304,42 +340,6 @@
       "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
       "source": "Dark Reading",
       "date": "2026-09-23T20:53:38+00:00"
-    },
-    {
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "source": "BleepingComputer",
-      "date": "2026-09-23T19:53:54+00:00"
-    },
-    {
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "source": "BleepingComputer",
-      "date": "2026-09-23T18:31:22+00:00"
-    },
-    {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "source": "The Hacker News",
-      "date": "2026-09-23T18:06:30+00:00"
-    },
-    {
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "source": "The Hacker News",
-      "date": "2026-09-23T16:53:10+00:00"
-    },
-    {
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "source": "BleepingComputer",
-      "date": "2026-09-23T16:20:54+00:00"
-    },
-    {
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "source": "The Hacker News",
-      "date": "2026-09-23T16:06:41+00:00"
     },
     {
       "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
