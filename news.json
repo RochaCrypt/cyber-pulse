@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T03:58:28.426818+00:00",
+  "updated": "2026-09-25T09:56:11.382236+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,42 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
+      "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+      "source": "SecurityWeek",
+      "date": "2026-09-25T09:27:51+00:00"
+    },
+    {
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "source": "BleepingComputer",
+      "date": "2026-09-25T08:33:44+00:00"
+    },
+    {
+      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
+      "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
+      "source": "Dark Reading",
+      "date": "2026-09-25T07:00:00+00:00"
+    },
+    {
+      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
+      "url": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+      "source": "SecurityWeek",
+      "date": "2026-09-25T06:57:40+00:00"
+    },
+    {
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "source": "The Hacker News",
+      "date": "2026-09-25T04:49:22+00:00"
+    },
+    {
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "source": "The Hacker News",
+      "date": "2026-09-25T04:46:34+00:00"
+    },
     {
       "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
       "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
@@ -204,12 +240,6 @@
       "date": "2026-09-24T10:40:40+00:00"
     },
     {
-      "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
-      "url": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
-      "source": "SecurityWeek",
-      "date": "2026-09-24T09:56:04+00:00"
-    },
-    {
       "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
       "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
       "source": "BleepingComputer",
@@ -220,12 +250,6 @@
       "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
       "source": "The Hacker News",
       "date": "2026-09-24T09:14:21+00:00"
-    },
-    {
-      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
-      "url": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-09-24T08:38:29+00:00"
     },
     {
       "title": "Microsoft fixes bug that broke Windows File History backup feature",
@@ -330,24 +354,6 @@
       "date": "2026-09-23T14:47:09+00:00"
     },
     {
-      "title": "InfraTrust report warns network management systems under attack",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "source": "BleepingComputer",
-      "date": "2026-09-23T14:35:26+00:00"
-    },
-    {
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "source": "The Hacker News",
-      "date": "2026-09-23T14:17:58+00:00"
-    },
-    {
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "source": "The Hacker News",
-      "date": "2026-09-23T13:52:46+00:00"
-    },
-    {
       "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
       "url": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
       "source": "Dark Reading",
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
       "source": "Dark Reading",
       "date": "2026-09-22T20:02:02+00:00"
-    },
-    {
-      "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
-      "url": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
-      "source": "Dark Reading",
-      "date": "2026-09-22T19:59:24+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
