@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T18:23:24.246295+00:00",
+  "updated": "2026-09-26T21:52:38.395728+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-09-26T19:03:34+00:00"
+    },
+    {
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "source": "The Hacker News",
+      "date": "2026-09-26T18:22:52+00:00"
+    },
     {
       "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
       "url": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
@@ -264,12 +276,6 @@
       "date": "2026-09-25T09:27:51+00:00"
     },
     {
-      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T08:33:44+00:00"
-    },
-    {
       "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
       "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
       "source": "Dark Reading",
@@ -316,12 +322,6 @@
       "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
       "source": "The Hacker News",
       "date": "2026-09-24T17:52:43+00:00"
-    },
-    {
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "source": "The Hacker News",
-      "date": "2026-09-24T15:27:32+00:00"
     },
     {
       "title": "3 Cyber Threats That Defined the Summer of 2026",
