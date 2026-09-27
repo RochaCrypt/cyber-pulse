@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:49:43.559424+00:00",
+  "updated": "2026-09-27T17:33:16.922203+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,24 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "source": "BleepingComputer",
+      "date": "2026-09-27T16:02:37+00:00"
+    },
+    {
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "source": "BleepingComputer",
+      "date": "2026-09-27T14:13:31+00:00"
+    },
+    {
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "source": "BleepingComputer",
+      "date": "2026-09-27T13:38:40+00:00"
+    },
     {
       "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
       "url": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
@@ -222,12 +240,6 @@
       "date": "2026-09-25T13:18:06+00:00"
     },
     {
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T12:40:59+00:00"
-    },
-    {
       "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
       "url": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
       "source": "SecurityWeek",
@@ -246,12 +258,6 @@
       "date": "2026-09-25T12:00:00+00:00"
     },
     {
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T11:35:14+00:00"
-    },
-    {
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
       "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
       "source": "The Hacker News",
@@ -268,12 +274,6 @@
       "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
       "source": "The Hacker News",
       "date": "2026-09-25T10:35:55+00:00"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T10:30:38+00:00"
     },
     {
       "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
