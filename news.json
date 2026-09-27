@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T06:19:57.215662+00:00",
+  "updated": "2026-09-27T12:49:43.559424+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+      "url": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-09-27T09:23:09+00:00"
+    },
+    {
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "source": "The Hacker News",
+      "date": "2026-09-27T07:47:57+00:00"
+    },
     {
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
@@ -282,12 +294,6 @@
       "date": "2026-09-25T07:00:00+00:00"
     },
     {
-      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
-      "url": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-      "source": "SecurityWeek",
-      "date": "2026-09-25T06:57:40+00:00"
-    },
-    {
       "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
       "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
       "source": "The Hacker News",
@@ -316,12 +322,6 @@
       "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
       "source": "The Hacker News",
       "date": "2026-09-24T18:10:18+00:00"
-    },
-    {
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-09-24T17:52:43+00:00"
     },
     {
       "title": "3 Cyber Threats That Defined the Summer of 2026",
