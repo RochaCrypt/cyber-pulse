@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T17:33:16.922203+00:00",
+  "updated": "2026-09-27T20:59:14.425122+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -142,6 +142,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
       "source": "BleepingComputer",
       "date": "2026-09-25T20:57:55+00:00"
+    },
+    {
+      "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+      "url": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+      "source": "Dark Reading",
+      "date": "2026-09-25T20:28:10+00:00"
     },
     {
       "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
@@ -370,12 +376,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
       "source": "Dark Reading",
       "date": "2026-09-23T16:01:00+00:00"
-    },
-    {
-      "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
-      "url": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
-      "source": "Dark Reading",
-      "date": "2026-09-23T14:47:09+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
