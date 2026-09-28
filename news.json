@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T11:28:59.303226+00:00",
+  "updated": "2026-09-28T19:20:19.179375+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,132 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
+      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "source": "BleepingComputer",
+      "date": "2026-09-28T18:50:59+00:00"
+    },
+    {
+      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
+      "source": "Dark Reading",
+      "date": "2026-09-28T18:44:22+00:00"
+    },
+    {
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T18:20:38+00:00"
+    },
+    {
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T17:42:18+00:00"
+    },
+    {
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T17:38:33+00:00"
+    },
+    {
+      "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
+      "url": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
+      "source": "SecurityWeek",
+      "date": "2026-09-28T17:30:00+00:00"
+    },
+    {
+      "title": "New Mexico jury finds Meta deceived consumers about data privacy practices",
+      "url": "https://therecord.media/facebook-new-mexico-privacy",
+      "source": "The Record",
+      "date": "2026-09-28T17:15:00+00:00"
+    },
+    {
+      "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
+      "url": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
+      "source": "Dark Reading",
+      "date": "2026-09-28T16:51:25+00:00"
+    },
+    {
+      "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs",
+      "url": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
+      "source": "The Record",
+      "date": "2026-09-28T16:19:00+00:00"
+    },
+    {
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "source": "BleepingComputer",
+      "date": "2026-09-28T15:49:27+00:00"
+    },
+    {
+      "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
+      "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
+      "source": "Dark Reading",
+      "date": "2026-09-28T15:33:21+00:00"
+    },
+    {
+      "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
+      "url": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
+      "source": "SecurityWeek",
+      "date": "2026-09-28T15:15:00+00:00"
+    },
+    {
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "source": "Krebs on Security",
+      "date": "2026-09-28T15:08:57+00:00"
+    },
+    {
+      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T14:00:53+00:00"
+    },
+    {
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "source": "BleepingComputer",
+      "date": "2026-09-28T14:00:10+00:00"
+    },
+    {
+      "title": "Cyberattack on Polish medical software provider exposes patient data",
+      "url": "https://therecord.media/poland-cyberattack-medical-medyc",
+      "source": "The Record",
+      "date": "2026-09-28T13:30:00+00:00"
+    },
+    {
+      "title": "Former US soldier gets nearly six-year sentence for hacking, extorting telecoms",
+      "url": "https://therecord.media/hacker-telecom-army-sentenced",
+      "source": "The Record",
+      "date": "2026-09-28T12:45:00+00:00"
+    },
+    {
+      "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon",
+      "url": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
+      "source": "SecurityWeek",
+      "date": "2026-09-28T12:36:16+00:00"
+    },
+    {
+      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T11:58:00+00:00"
+    },
+    {
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T11:46:00+00:00"
+    },
+    {
+      "title": "DC Health Agency Exposes 400,000 Beneficiary Records",
+      "url": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
+      "source": "SecurityWeek",
+      "date": "2026-09-28T11:29:29+00:00"
+    },
     {
       "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
       "url": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
@@ -120,12 +246,6 @@
       "date": "2026-09-26T18:22:52+00:00"
     },
     {
-      "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
-      "url": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
-      "source": "SecurityWeek",
-      "date": "2026-09-26T18:09:28+00:00"
-    },
-    {
       "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
       "source": "BleepingComputer",
@@ -150,12 +270,6 @@
       "date": "2026-09-26T12:28:41+00:00"
     },
     {
-      "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
-      "url": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
-      "source": "SecurityWeek",
-      "date": "2026-09-26T12:00:00+00:00"
-    },
-    {
       "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
       "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
       "source": "The Hacker News",
@@ -166,12 +280,6 @@
       "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
       "source": "The Hacker News",
       "date": "2026-09-26T10:30:00+00:00"
-    },
-    {
-      "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
-      "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
-      "source": "SecurityWeek",
-      "date": "2026-09-26T10:15:41+00:00"
     },
     {
       "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
@@ -198,19 +306,7 @@
       "date": "2026-09-25T21:44:40+00:00"
     },
     {
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T21:41:07+00:00"
-    },
-    {
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T20:57:55+00:00"
-    },
-    {
-      "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+      "title": "Why the CISO-CFO Relationship Is a Key to Cybersecurity Success",
       "url": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
       "source": "Dark Reading",
       "date": "2026-09-25T20:28:10+00:00"
@@ -222,22 +318,10 @@
       "date": "2026-09-25T20:19:00+00:00"
     },
     {
-      "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
-      "url": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
-      "source": "The Record",
-      "date": "2026-09-25T19:35:00+00:00"
-    },
-    {
       "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
       "source": "Dark Reading",
       "date": "2026-09-25T18:39:32+00:00"
-    },
-    {
-      "title": "Elementor WordPress flaw lets attackers create admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T18:13:33+00:00"
     },
     {
       "title": "What We Missed: Google Gemini Joins the AI Escape Party",
@@ -246,76 +330,16 @@
       "date": "2026-09-25T17:56:23+00:00"
     },
     {
-      "title": "Crypto CEO accuses North Korea of stealing $387 million from Bitget platform",
-      "url": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
-      "source": "The Record",
-      "date": "2026-09-25T15:15:00+00:00"
-    },
-    {
-      "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
-      "url": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
-      "source": "SecurityWeek",
-      "date": "2026-09-25T15:07:31+00:00"
-    },
-    {
-      "title": "Cyberattack hits Welsh police force, may have affected staff data",
-      "url": "https://therecord.media/wales-cyberattack-police-breach",
-      "source": "The Record",
-      "date": "2026-09-25T15:00:00+00:00"
-    },
-    {
       "title": "Stopping IT Worker Scams Requires Revamped HR Process",
       "url": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
       "source": "Dark Reading",
       "date": "2026-09-25T14:46:13+00:00"
     },
     {
-      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
-      "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-      "source": "The Hacker News",
-      "date": "2026-09-25T14:44:41+00:00"
-    },
-    {
-      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
-      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
-      "source": "The Hacker News",
-      "date": "2026-09-25T13:18:06+00:00"
-    },
-    {
-      "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
-      "url": "https://therecord.media/openai-australia-breach-cyber",
-      "source": "The Record",
-      "date": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "title": "The SOC Doesn't Need to Start Over with Every Alert",
-      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "source": "The Hacker News",
-      "date": "2026-09-25T11:30:00+00:00"
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "source": "The Hacker News",
-      "date": "2026-09-25T10:35:55+00:00"
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "source": "The Hacker News",
-      "date": "2026-09-25T10:14:02+00:00"
-    },
-    {
       "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
       "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
       "source": "Dark Reading",
       "date": "2026-09-25T07:00:00+00:00"
-    },
-    {
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "source": "The Hacker News",
-      "date": "2026-09-25T04:49:22+00:00"
     },
     {
       "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
@@ -358,24 +382,6 @@
       "url": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
       "source": "Dark Reading",
       "date": "2026-09-23T22:29:10+00:00"
-    },
-    {
-      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
-      "url": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
-      "source": "Dark Reading",
-      "date": "2026-09-23T21:03:01+00:00"
-    },
-    {
-      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
-      "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-      "source": "Dark Reading",
-      "date": "2026-09-23T20:53:38+00:00"
-    },
-    {
-      "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
-      "url": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
-      "source": "Dark Reading",
-      "date": "2026-09-23T16:01:00+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -424,12 +430,6 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "source": "Krebs on Security",
       "date": "2026-07-30T16:49:00+00:00"
-    },
-    {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "source": "Krebs on Security",
-      "date": "2026-07-22T01:10:38+00:00"
     }
   ]
 }
