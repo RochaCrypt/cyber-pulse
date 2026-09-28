@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T04:03:47.404612+00:00",
+  "updated": "2026-09-28T11:28:59.303226+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,66 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
+      "url": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
+      "source": "SecurityWeek",
+      "date": "2026-09-28T10:56:46+00:00"
+    },
+    {
+      "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections",
+      "url": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
+      "source": "SecurityWeek",
+      "date": "2026-09-28T10:40:01+00:00"
+    },
+    {
+      "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
+      "url": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
+      "source": "SecurityWeek",
+      "date": "2026-09-28T10:27:01+00:00"
+    },
+    {
+      "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability",
+      "url": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
+      "source": "SecurityWeek",
+      "date": "2026-09-28T09:44:27+00:00"
+    },
+    {
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "source": "BleepingComputer",
+      "date": "2026-09-28T09:25:29+00:00"
+    },
+    {
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T09:08:21+00:00"
+    },
+    {
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "source": "BleepingComputer",
+      "date": "2026-09-28T07:30:15+00:00"
+    },
+    {
+      "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
+      "url": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
+      "source": "SecurityWeek",
+      "date": "2026-09-28T07:29:51+00:00"
+    },
+    {
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T07:21:49+00:00"
+    },
+    {
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "source": "BleepingComputer",
+      "date": "2026-09-28T06:24:19+00:00"
+    },
     {
       "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
@@ -186,18 +246,6 @@
       "date": "2026-09-25T17:56:23+00:00"
     },
     {
-      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T17:24:20+00:00"
-    },
-    {
-      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T16:00:00+00:00"
-    },
-    {
       "title": "Crypto CEO accuses North Korea of stealing $387 million from Bitget platform",
       "url": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
       "source": "The Record",
@@ -216,12 +264,6 @@
       "date": "2026-09-25T15:00:00+00:00"
     },
     {
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "source": "BleepingComputer",
-      "date": "2026-09-25T14:54:33+00:00"
-    },
-    {
       "title": "Stopping IT Worker Scams Requires Revamped HR Process",
       "url": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
       "source": "Dark Reading",
@@ -234,28 +276,10 @@
       "date": "2026-09-25T14:44:41+00:00"
     },
     {
-      "title": "North Korea Suspected in $351 Million Bitget Crypto Heist",
-      "url": "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
-      "source": "SecurityWeek",
-      "date": "2026-09-25T14:16:18+00:00"
-    },
-    {
       "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
       "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
       "source": "The Hacker News",
       "date": "2026-09-25T13:18:06+00:00"
-    },
-    {
-      "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
-      "url": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-09-25T12:39:12+00:00"
-    },
-    {
-      "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court",
-      "url": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
-      "source": "SecurityWeek",
-      "date": "2026-09-25T12:16:27+00:00"
     },
     {
       "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
@@ -270,12 +294,6 @@
       "date": "2026-09-25T11:30:00+00:00"
     },
     {
-      "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
-      "url": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
-      "source": "SecurityWeek",
-      "date": "2026-09-25T10:53:32+00:00"
-    },
-    {
       "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
       "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
       "source": "The Hacker News",
@@ -286,12 +304,6 @@
       "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
       "source": "The Hacker News",
       "date": "2026-09-25T10:14:02+00:00"
-    },
-    {
-      "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
-      "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
-      "source": "SecurityWeek",
-      "date": "2026-09-25T09:27:51+00:00"
     },
     {
       "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
@@ -306,12 +318,6 @@
       "date": "2026-09-25T04:49:22+00:00"
     },
     {
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "source": "The Hacker News",
-      "date": "2026-09-25T04:46:34+00:00"
-    },
-    {
       "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
       "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
       "source": "Dark Reading",
@@ -322,12 +328,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
       "source": "Dark Reading",
       "date": "2026-09-24T20:32:50+00:00"
-    },
-    {
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "source": "The Hacker News",
-      "date": "2026-09-24T18:10:18+00:00"
     },
     {
       "title": "3 Cyber Threats That Defined the Summer of 2026",
