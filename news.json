@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T19:20:19.179375+00:00",
+  "updated": "2026-09-29T00:13:27.740161+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,7 +12,49 @@
   ],
   "items": [
     {
-      "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
+      "title": "One Packet Can Crash OT Servers in Industrial Sectors",
+      "url": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
+      "source": "Dark Reading",
+      "date": "2026-09-28T21:13:04+00:00"
+    },
+    {
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "source": "BleepingComputer",
+      "date": "2026-09-28T20:56:47+00:00"
+    },
+    {
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "source": "BleepingComputer",
+      "date": "2026-09-28T20:31:16+00:00"
+    },
+    {
+      "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
+      "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+      "source": "Dark Reading",
+      "date": "2026-09-28T20:23:58+00:00"
+    },
+    {
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "source": "BleepingComputer",
+      "date": "2026-09-28T19:49:10+00:00"
+    },
+    {
+      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
+      "url": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
+      "source": "The Record",
+      "date": "2026-09-28T19:30:00+00:00"
+    },
+    {
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T19:18:01+00:00"
+    },
+    {
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
       "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
       "source": "BleepingComputer",
       "date": "2026-09-28T18:50:59+00:00"
@@ -22,6 +64,12 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
       "source": "Dark Reading",
       "date": "2026-09-28T18:44:22+00:00"
+    },
+    {
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "source": "The Hacker News",
+      "date": "2026-09-28T18:35:42+00:00"
     },
     {
       "title": "IAM for AI agents: A Practical Enterprise Framework",
@@ -252,24 +300,6 @@
       "date": "2026-09-26T16:26:58+00:00"
     },
     {
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "source": "BleepingComputer",
-      "date": "2026-09-26T15:50:38+00:00"
-    },
-    {
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "source": "BleepingComputer",
-      "date": "2026-09-26T14:19:46+00:00"
-    },
-    {
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "source": "BleepingComputer",
-      "date": "2026-09-26T12:28:41+00:00"
-    },
-    {
       "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
       "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
       "source": "The Hacker News",
@@ -288,18 +318,6 @@
       "date": "2026-09-26T09:55:22+00:00"
     },
     {
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "source": "The Hacker News",
-      "date": "2026-09-26T08:49:53+00:00"
-    },
-    {
-      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "source": "The Hacker News",
-      "date": "2026-09-26T07:48:33+00:00"
-    },
-    {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
       "source": "Krebs on Security",
@@ -310,12 +328,6 @@
       "url": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
       "source": "Dark Reading",
       "date": "2026-09-25T20:28:10+00:00"
-    },
-    {
-      "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
-      "url": "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
-      "source": "The Record",
-      "date": "2026-09-25T20:19:00+00:00"
     },
     {
       "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
@@ -370,18 +382,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile",
       "source": "Dark Reading",
       "date": "2026-09-24T13:30:00+00:00"
-    },
-    {
-      "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
-      "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
-      "source": "Dark Reading",
-      "date": "2026-09-24T13:00:00+00:00"
-    },
-    {
-      "title": "SASE Converges Network &amp; Security Into One Cloud Solution",
-      "url": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
-      "source": "Dark Reading",
-      "date": "2026-09-23T22:29:10+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
