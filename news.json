@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T19:08:30.122908+00:00",
+  "updated": "2026-09-29T23:28:30.407064+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,60 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+      "source": "Dark Reading",
+      "date": "2026-09-29T21:31:29+00:00"
+    },
+    {
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T21:30:08+00:00"
+    },
+    {
+      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+      "source": "Dark Reading",
+      "date": "2026-09-29T21:08:42+00:00"
+    },
+    {
+      "title": "US Air Force members given over 6 years in prison for cyber theft of more than $2 million",
+      "url": "https://therecord.media/us-air-force-members-given-6-year-sentence-cyber",
+      "source": "The Record",
+      "date": "2026-09-29T21:01:00+00:00"
+    },
+    {
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T20:59:39+00:00"
+    },
+    {
+      "title": "Controversial spyware firm Paragon to go public by end of year",
+      "url": "https://therecord.media/controversial-spyware-firm-paragon-to-go-public",
+      "source": "The Record",
+      "date": "2026-09-29T20:35:00+00:00"
+    },
+    {
+      "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+      "url": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T20:14:44+00:00"
+    },
+    {
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T20:09:55+00:00"
+    },
+    {
+      "title": "OpenAI apologizes for agents breaching Australian government websites without authorization",
+      "url": "https://therecord.media/openai-apologizes-australia-medicare-breach",
+      "source": "The Record",
+      "date": "2026-09-29T19:48:00+00:00"
+    },
     {
       "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
@@ -168,12 +222,6 @@
       "date": "2026-09-29T11:15:59+00:00"
     },
     {
-      "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
-      "url": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T11:01:55+00:00"
-    },
-    {
       "title": "Kiteworks patches critical flaw, brings customer systems online",
       "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
       "source": "BleepingComputer",
@@ -246,22 +294,10 @@
       "date": "2026-09-28T19:49:10+00:00"
     },
     {
-      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
-      "url": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
-      "source": "The Record",
-      "date": "2026-09-28T19:30:00+00:00"
-    },
-    {
       "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
       "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
       "source": "The Hacker News",
       "date": "2026-09-28T19:18:01+00:00"
-    },
-    {
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "source": "BleepingComputer",
-      "date": "2026-09-28T18:50:59+00:00"
     },
     {
       "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
@@ -294,28 +330,10 @@
       "date": "2026-09-28T17:38:33+00:00"
     },
     {
-      "title": "New Mexico jury finds Meta deceived consumers about data privacy practices",
-      "url": "https://therecord.media/facebook-new-mexico-privacy",
-      "source": "The Record",
-      "date": "2026-09-28T17:15:00+00:00"
-    },
-    {
       "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
       "url": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
       "source": "Dark Reading",
       "date": "2026-09-28T16:51:25+00:00"
-    },
-    {
-      "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs",
-      "url": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
-      "source": "The Record",
-      "date": "2026-09-28T16:19:00+00:00"
-    },
-    {
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "source": "BleepingComputer",
-      "date": "2026-09-28T15:49:27+00:00"
     },
     {
       "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
@@ -334,12 +352,6 @@
       "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
       "source": "The Hacker News",
       "date": "2026-09-28T14:00:53+00:00"
-    },
-    {
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "source": "BleepingComputer",
-      "date": "2026-09-28T14:00:10+00:00"
     },
     {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
@@ -370,18 +382,6 @@
       "url": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
       "source": "Dark Reading",
       "date": "2026-09-25T14:46:13+00:00"
-    },
-    {
-      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
-      "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-      "source": "Dark Reading",
-      "date": "2026-09-25T07:00:00+00:00"
-    },
-    {
-      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
-      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-      "source": "Dark Reading",
-      "date": "2026-09-24T21:04:03+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
