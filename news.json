@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T06:37:08.410699+00:00",
+  "updated": "2026-09-29T13:47:44.448056+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,10 +12,112 @@
   ],
   "items": [
     {
-      "title": "Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’",
+      "title": "Reco Raises $55 Million for Agentic Security",
+      "url": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T13:20:53+00:00"
+    },
+    {
+      "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
+      "url": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T13:03:35+00:00"
+    },
+    {
+      "title": "Russian pizza chain with 1,500 locations confirms cyberattack following hacker claims",
+      "url": "https://therecord.media/russian-pizza-chain-dodo-confirms-data-breach",
+      "source": "The Record",
+      "date": "2026-09-29T12:34:00+00:00"
+    },
+    {
+      "title": "Arizona Supreme Court says hackers stole residents’ personal data",
+      "url": "https://therecord.media/arizona-supreme-court-says-hackers-stole-data",
+      "source": "The Record",
+      "date": "2026-09-29T12:27:00+00:00"
+    },
+    {
+      "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
+      "url": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T12:25:12+00:00"
+    },
+    {
+      "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
+      "url": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T11:41:53+00:00"
+    },
+    {
+      "title": "Four Cyber Threats Harboring Big Plans for the Future",
+      "url": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T11:30:00+00:00"
+    },
+    {
+      "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
+      "url": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T11:15:59+00:00"
+    },
+    {
+      "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
+      "url": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T11:01:55+00:00"
+    },
+    {
+      "title": "Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft",
+      "url": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T09:46:13+00:00"
+    },
+    {
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T09:04:06+00:00"
+    },
+    {
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "source": "The Hacker News",
+      "date": "2026-09-29T08:35:10+00:00"
+    },
+    {
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T07:33:12+00:00"
+    },
+    {
+      "title": "Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’",
       "url": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
       "source": "SecurityWeek",
       "date": "2026-09-29T06:18:27+00:00"
+    },
+    {
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "source": "The Hacker News",
+      "date": "2026-09-29T06:08:25+00:00"
+    },
+    {
+      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+      "source": "The Hacker News",
+      "date": "2026-09-29T05:12:32+00:00"
+    },
+    {
+      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+      "source": "The Hacker News",
+      "date": "2026-09-29T04:45:20+00:00"
     },
     {
       "title": "One Packet Can Crash OT Servers in Industrial Sectors",
@@ -132,12 +234,6 @@
       "date": "2026-09-28T15:33:21+00:00"
     },
     {
-      "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
-      "url": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
-      "source": "SecurityWeek",
-      "date": "2026-09-28T15:15:00+00:00"
-    },
-    {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
       "source": "Krebs on Security",
@@ -156,24 +252,6 @@
       "date": "2026-09-28T14:00:10+00:00"
     },
     {
-      "title": "Cyberattack on Polish medical software provider exposes patient data",
-      "url": "https://therecord.media/poland-cyberattack-medical-medyc",
-      "source": "The Record",
-      "date": "2026-09-28T13:30:00+00:00"
-    },
-    {
-      "title": "Former US soldier gets nearly six-year sentence for hacking, extorting telecoms",
-      "url": "https://therecord.media/hacker-telecom-army-sentenced",
-      "source": "The Record",
-      "date": "2026-09-28T12:45:00+00:00"
-    },
-    {
-      "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon",
-      "url": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
-      "source": "SecurityWeek",
-      "date": "2026-09-28T12:36:16+00:00"
-    },
-    {
       "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
       "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
       "source": "The Hacker News",
@@ -184,36 +262,6 @@
       "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
       "source": "The Hacker News",
       "date": "2026-09-28T11:46:00+00:00"
-    },
-    {
-      "title": "DC Health Agency Exposes 400,000 Beneficiary Records",
-      "url": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
-      "source": "SecurityWeek",
-      "date": "2026-09-28T11:29:29+00:00"
-    },
-    {
-      "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
-      "url": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
-      "source": "SecurityWeek",
-      "date": "2026-09-28T10:56:46+00:00"
-    },
-    {
-      "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections",
-      "url": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
-      "source": "SecurityWeek",
-      "date": "2026-09-28T10:40:01+00:00"
-    },
-    {
-      "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
-      "url": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
-      "source": "SecurityWeek",
-      "date": "2026-09-28T10:27:01+00:00"
-    },
-    {
-      "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability",
-      "url": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
-      "source": "SecurityWeek",
-      "date": "2026-09-28T09:44:27+00:00"
     },
     {
       "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
@@ -232,12 +280,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
       "source": "BleepingComputer",
       "date": "2026-09-28T07:30:15+00:00"
-    },
-    {
-      "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
-      "url": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
-      "source": "SecurityWeek",
-      "date": "2026-09-28T07:29:51+00:00"
     },
     {
       "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
@@ -270,52 +312,10 @@
       "date": "2026-09-27T14:13:31+00:00"
     },
     {
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "source": "BleepingComputer",
-      "date": "2026-09-27T13:38:40+00:00"
-    },
-    {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
       "source": "The Hacker News",
       "date": "2026-09-27T07:47:57+00:00"
-    },
-    {
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-09-26T19:03:34+00:00"
-    },
-    {
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-      "source": "The Hacker News",
-      "date": "2026-09-26T18:22:52+00:00"
-    },
-    {
-      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-      "source": "BleepingComputer",
-      "date": "2026-09-26T16:26:58+00:00"
-    },
-    {
-      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-      "source": "The Hacker News",
-      "date": "2026-09-26T11:46:40+00:00"
-    },
-    {
-      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-      "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-      "source": "The Hacker News",
-      "date": "2026-09-26T10:30:00+00:00"
-    },
-    {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "source": "The Hacker News",
-      "date": "2026-09-26T09:55:22+00:00"
     },
     {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
