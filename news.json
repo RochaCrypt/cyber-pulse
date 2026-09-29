@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T13:47:44.448056+00:00",
+  "updated": "2026-09-29T19:08:30.122908+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,108 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T18:37:12+00:00"
+    },
+    {
+      "title": "Former US Air Force members sent to prison over BEC attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T18:09:39+00:00"
+    },
+    {
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "source": "The Hacker News",
+      "date": "2026-09-29T17:47:01+00:00"
+    },
+    {
+      "title": "Windows 11 2026 Update released, here's everything you need to know",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T17:37:40+00:00"
+    },
+    {
+      "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
+      "url": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T17:24:04+00:00"
+    },
+    {
+      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+      "source": "The Hacker News",
+      "date": "2026-09-29T17:20:17+00:00"
+    },
+    {
+      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+      "source": "The Hacker News",
+      "date": "2026-09-29T17:20:08+00:00"
+    },
+    {
+      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T17:10:11+00:00"
+    },
+    {
+      "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
+      "url": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
+      "source": "Dark Reading",
+      "date": "2026-09-29T17:02:16+00:00"
+    },
+    {
+      "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+      "url": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T17:00:00+00:00"
+    },
+    {
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T15:39:19+00:00"
+    },
+    {
+      "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
+      "url": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
+      "source": "Dark Reading",
+      "date": "2026-09-29T15:12:39+00:00"
+    },
+    {
+      "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
+      "url": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T14:38:07+00:00"
+    },
+    {
+      "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
+      "source": "Dark Reading",
+      "date": "2026-09-29T14:19:43+00:00"
+    },
+    {
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "source": "The Hacker News",
+      "date": "2026-09-29T14:13:20+00:00"
+    },
+    {
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "source": "BleepingComputer",
+      "date": "2026-09-29T14:01:11+00:00"
+    },
+    {
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "source": "The Hacker News",
+      "date": "2026-09-29T13:45:10+00:00"
+    },
     {
       "title": "Reco Raises $55 Million for Agentic Security",
       "url": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
@@ -72,12 +174,6 @@
       "date": "2026-09-29T11:01:55+00:00"
     },
     {
-      "title": "Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft",
-      "url": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T09:46:13+00:00"
-    },
-    {
       "title": "Kiteworks patches critical flaw, brings customer systems online",
       "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
       "source": "BleepingComputer",
@@ -96,12 +192,6 @@
       "date": "2026-09-29T07:33:12+00:00"
     },
     {
-      "title": "Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’",
-      "url": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T06:18:27+00:00"
-    },
-    {
       "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
       "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
       "source": "The Hacker News",
@@ -118,6 +208,12 @@
       "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
       "source": "The Hacker News",
       "date": "2026-09-29T04:45:20+00:00"
+    },
+    {
+      "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
+      "url": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
+      "source": "Dark Reading",
+      "date": "2026-09-28T22:02:46+00:00"
     },
     {
       "title": "One Packet Can Crash OT Servers in Industrial Sectors",
@@ -198,12 +294,6 @@
       "date": "2026-09-28T17:38:33+00:00"
     },
     {
-      "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
-      "url": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
-      "source": "SecurityWeek",
-      "date": "2026-09-28T17:30:00+00:00"
-    },
-    {
       "title": "New Mexico jury finds Meta deceived consumers about data privacy practices",
       "url": "https://therecord.media/facebook-new-mexico-privacy",
       "source": "The Record",
@@ -252,72 +342,6 @@
       "date": "2026-09-28T14:00:10+00:00"
     },
     {
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T11:58:00+00:00"
-    },
-    {
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T11:46:00+00:00"
-    },
-    {
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "source": "BleepingComputer",
-      "date": "2026-09-28T09:25:29+00:00"
-    },
-    {
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T09:08:21+00:00"
-    },
-    {
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-      "source": "BleepingComputer",
-      "date": "2026-09-28T07:30:15+00:00"
-    },
-    {
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T07:21:49+00:00"
-    },
-    {
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "source": "BleepingComputer",
-      "date": "2026-09-28T06:24:19+00:00"
-    },
-    {
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "source": "BleepingComputer",
-      "date": "2026-09-27T23:40:39+00:00"
-    },
-    {
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "source": "BleepingComputer",
-      "date": "2026-09-27T16:02:37+00:00"
-    },
-    {
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "source": "BleepingComputer",
-      "date": "2026-09-27T14:13:31+00:00"
-    },
-    {
-      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "source": "The Hacker News",
-      "date": "2026-09-27T07:47:57+00:00"
-    },
-    {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
       "source": "Krebs on Security",
@@ -358,30 +382,6 @@
       "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
       "source": "Dark Reading",
       "date": "2026-09-24T21:04:03+00:00"
-    },
-    {
-      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
-      "source": "Dark Reading",
-      "date": "2026-09-24T20:32:50+00:00"
-    },
-    {
-      "title": "3 Cyber Threats That Defined the Summer of 2026",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-      "source": "Dark Reading",
-      "date": "2026-09-24T14:44:12+00:00"
-    },
-    {
-      "title": "How to Build a SASE Framework for Modern Cybersecurity",
-      "url": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
-      "source": "Dark Reading",
-      "date": "2026-09-24T14:02:43+00:00"
-    },
-    {
-      "title": "Ghost Service Accounts Enable M365 Data Theft in Chile",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile",
-      "source": "Dark Reading",
-      "date": "2026-09-24T13:30:00+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
