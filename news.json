@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T00:13:27.740161+00:00",
+  "updated": "2026-09-29T06:37:08.410699+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’",
+      "url": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
+      "source": "SecurityWeek",
+      "date": "2026-09-29T06:18:27+00:00"
+    },
     {
       "title": "One Packet Can Crash OT Servers in Industrial Sectors",
       "url": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
@@ -268,12 +274,6 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
       "source": "BleepingComputer",
       "date": "2026-09-27T13:38:40+00:00"
-    },
-    {
-      "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
-      "url": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-09-27T09:23:09+00:00"
     },
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
