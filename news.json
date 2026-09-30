@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T04:20:52.961673+00:00",
+  "updated": "2026-09-30T10:55:50.194887+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,42 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
+      "url": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
+      "source": "SecurityWeek",
+      "date": "2026-09-30T10:20:02+00:00"
+    },
+    {
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T08:24:35+00:00"
+    },
+    {
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T08:09:28+00:00"
+    },
+    {
+      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
+      "source": "Dark Reading",
+      "date": "2026-09-30T07:00:00+00:00"
+    },
+    {
+      "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
+      "url": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
+      "source": "SecurityWeek",
+      "date": "2026-09-30T06:55:50+00:00"
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T05:30:30+00:00"
+    },
     {
       "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
       "url": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
@@ -210,22 +246,10 @@
       "date": "2026-09-29T12:25:12+00:00"
     },
     {
-      "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
-      "url": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T12:00:00+00:00"
-    },
-    {
       "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
       "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
       "source": "BleepingComputer",
       "date": "2026-09-29T11:41:53+00:00"
-    },
-    {
-      "title": "Four Cyber Threats Harboring Big Plans for the Future",
-      "url": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T11:30:00+00:00"
     },
     {
       "title": "Kiteworks patches critical flaw, brings customer systems online",
@@ -318,18 +342,6 @@
       "date": "2026-09-28T18:20:38+00:00"
     },
     {
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T17:42:18+00:00"
-    },
-    {
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T17:38:33+00:00"
-    },
-    {
       "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
       "url": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
       "source": "Dark Reading",
@@ -346,12 +358,6 @@
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
       "source": "Krebs on Security",
       "date": "2026-09-28T15:08:57+00:00"
-    },
-    {
-      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T14:00:53+00:00"
     },
     {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
@@ -376,12 +382,6 @@
       "url": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
       "source": "Dark Reading",
       "date": "2026-09-25T17:56:23+00:00"
-    },
-    {
-      "title": "Stopping IT Worker Scams Requires Revamped HR Process",
-      "url": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
-      "source": "Dark Reading",
-      "date": "2026-09-25T14:46:13+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
