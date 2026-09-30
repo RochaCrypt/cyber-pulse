@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:43:19.247257+00:00",
+  "updated": "2026-09-30T21:14:31.849166+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,60 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T20:34:01+00:00"
+    },
+    {
+      "title": "Automakers routinely share personally identifiable connected-car data with third parties, report says",
+      "url": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
+      "source": "The Record",
+      "date": "2026-09-30T20:32:00+00:00"
+    },
+    {
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T19:49:15+00:00"
+    },
+    {
+      "title": "After reports on suicide deaths, Pentagon puts Cyber Command on notice",
+      "url": "https://therecord.media/cyber-command-suicide-deaths-pentagon-memo",
+      "source": "The Record",
+      "date": "2026-09-30T19:35:00+00:00"
+    },
+    {
+      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
+      "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+      "source": "The Record",
+      "date": "2026-09-30T19:00:00+00:00"
+    },
+    {
+      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
+      "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+      "source": "Dark Reading",
+      "date": "2026-09-30T18:56:56+00:00"
+    },
+    {
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T18:08:34+00:00"
+    },
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T16:46:29+00:00"
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T16:32:59+00:00"
+    },
     {
       "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
@@ -198,22 +252,10 @@
       "date": "2026-09-29T21:08:42+00:00"
     },
     {
-      "title": "US Air Force members given over 6 years in prison for cyber theft of more than $2 million",
-      "url": "https://therecord.media/us-air-force-members-given-6-year-sentence-cyber",
-      "source": "The Record",
-      "date": "2026-09-29T21:01:00+00:00"
-    },
-    {
       "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
       "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
       "source": "BleepingComputer",
       "date": "2026-09-29T20:59:39+00:00"
-    },
-    {
-      "title": "Controversial spyware firm Paragon to go public by end of year",
-      "url": "https://therecord.media/controversial-spyware-firm-paragon-to-go-public",
-      "source": "The Record",
-      "date": "2026-09-29T20:35:00+00:00"
     },
     {
       "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
@@ -226,12 +268,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
       "source": "BleepingComputer",
       "date": "2026-09-29T20:09:55+00:00"
-    },
-    {
-      "title": "OpenAI apologizes for agents breaching Australian government websites without authorization",
-      "url": "https://therecord.media/openai-apologizes-australia-medicare-breach",
-      "source": "The Record",
-      "date": "2026-09-29T19:48:00+00:00"
     },
     {
       "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
@@ -252,12 +288,6 @@
       "date": "2026-09-29T17:47:01+00:00"
     },
     {
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "source": "BleepingComputer",
-      "date": "2026-09-29T17:37:40+00:00"
-    },
-    {
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
       "source": "The Hacker News",
@@ -270,22 +300,10 @@
       "date": "2026-09-29T17:20:08+00:00"
     },
     {
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "source": "BleepingComputer",
-      "date": "2026-09-29T17:10:11+00:00"
-    },
-    {
       "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
       "url": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
       "source": "Dark Reading",
       "date": "2026-09-29T17:02:16+00:00"
-    },
-    {
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "source": "BleepingComputer",
-      "date": "2026-09-29T15:39:19+00:00"
     },
     {
       "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
@@ -310,18 +328,6 @@
       "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
       "source": "The Hacker News",
       "date": "2026-09-29T13:45:10+00:00"
-    },
-    {
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "source": "The Hacker News",
-      "date": "2026-09-29T08:35:10+00:00"
-    },
-    {
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "source": "The Hacker News",
-      "date": "2026-09-29T06:08:25+00:00"
     },
     {
       "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
@@ -376,12 +382,6 @@
       "url": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
       "source": "Dark Reading",
       "date": "2026-09-25T20:28:10+00:00"
-    },
-    {
-      "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
-      "source": "Dark Reading",
-      "date": "2026-09-25T18:39:32+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
