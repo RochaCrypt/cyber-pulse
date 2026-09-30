@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T10:55:50.194887+00:00",
+  "updated": "2026-09-30T16:43:19.247257+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,126 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T15:49:29+00:00"
+    },
+    {
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T15:24:54+00:00"
+    },
+    {
+      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
+      "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
+      "source": "Dark Reading",
+      "date": "2026-09-30T15:02:25+00:00"
+    },
+    {
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T15:00:15+00:00"
+    },
+    {
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T14:46:40+00:00"
+    },
+    {
+      "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+      "url": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+      "source": "SecurityWeek",
+      "date": "2026-09-30T14:05:58+00:00"
+    },
+    {
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T14:01:11+00:00"
+    },
+    {
+      "title": "Mobile malware warning from Ukrainian researchers includes iPhone exploit kit",
+      "url": "https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android",
+      "source": "The Record",
+      "date": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T13:37:15+00:00"
+    },
+    {
+      "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
+      "url": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
+      "source": "SecurityWeek",
+      "date": "2026-09-30T13:16:56+00:00"
+    },
+    {
+      "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+      "url": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-09-30T12:48:20+00:00"
+    },
+    {
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T12:25:10+00:00"
+    },
+    {
+      "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-09-30T12:16:52+00:00"
+    },
+    {
+      "title": "Russian FSB-linked hackers scale up phishing attacks against Ukraine supporters",
+      "url": "https://therecord.media/russia-hackers-ukraine-blizzard",
+      "source": "The Record",
+      "date": "2026-09-30T12:00:00+00:00"
+    },
+    {
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T11:58:00+00:00"
+    },
+    {
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T11:30:00+00:00"
+    },
+    {
+      "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
+      "url": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+      "source": "SecurityWeek",
+      "date": "2026-09-30T11:19:00+00:00"
+    },
+    {
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T11:11:46+00:00"
+    },
+    {
+      "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
+      "url": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-09-30T10:59:30+00:00"
+    },
+    {
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "source": "The Hacker News",
+      "date": "2026-09-30T10:45:00+00:00"
+    },
     {
       "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
       "url": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
@@ -138,12 +258,6 @@
       "date": "2026-09-29T17:37:40+00:00"
     },
     {
-      "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
-      "url": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T17:24:04+00:00"
-    },
-    {
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
       "source": "The Hacker News",
@@ -168,12 +282,6 @@
       "date": "2026-09-29T17:02:16+00:00"
     },
     {
-      "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
-      "url": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T17:00:00+00:00"
-    },
-    {
       "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
       "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
       "source": "BleepingComputer",
@@ -184,12 +292,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
       "source": "Dark Reading",
       "date": "2026-09-29T15:12:39+00:00"
-    },
-    {
-      "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
-      "url": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T14:38:07+00:00"
     },
     {
       "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
@@ -204,58 +306,10 @@
       "date": "2026-09-29T14:13:20+00:00"
     },
     {
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "source": "BleepingComputer",
-      "date": "2026-09-29T14:01:11+00:00"
-    },
-    {
       "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
       "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
       "source": "The Hacker News",
       "date": "2026-09-29T13:45:10+00:00"
-    },
-    {
-      "title": "Reco Raises $55 Million for Agentic Security",
-      "url": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T13:20:53+00:00"
-    },
-    {
-      "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
-      "url": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T13:03:35+00:00"
-    },
-    {
-      "title": "Russian pizza chain with 1,500 locations confirms cyberattack following hacker claims",
-      "url": "https://therecord.media/russian-pizza-chain-dodo-confirms-data-breach",
-      "source": "The Record",
-      "date": "2026-09-29T12:34:00+00:00"
-    },
-    {
-      "title": "Arizona Supreme Court says hackers stole residents’ personal data",
-      "url": "https://therecord.media/arizona-supreme-court-says-hackers-stole-data",
-      "source": "The Record",
-      "date": "2026-09-29T12:27:00+00:00"
-    },
-    {
-      "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
-      "url": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T12:25:12+00:00"
-    },
-    {
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "source": "BleepingComputer",
-      "date": "2026-09-29T11:41:53+00:00"
-    },
-    {
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "source": "BleepingComputer",
-      "date": "2026-09-29T09:04:06+00:00"
     },
     {
       "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
@@ -264,28 +318,10 @@
       "date": "2026-09-29T08:35:10+00:00"
     },
     {
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-09-29T07:33:12+00:00"
-    },
-    {
       "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
       "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
       "source": "The Hacker News",
       "date": "2026-09-29T06:08:25+00:00"
-    },
-    {
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "source": "The Hacker News",
-      "date": "2026-09-29T05:12:32+00:00"
-    },
-    {
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "source": "The Hacker News",
-      "date": "2026-09-29T04:45:20+00:00"
     },
     {
       "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
@@ -300,46 +336,16 @@
       "date": "2026-09-28T21:13:04+00:00"
     },
     {
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "source": "BleepingComputer",
-      "date": "2026-09-28T20:56:47+00:00"
-    },
-    {
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "source": "BleepingComputer",
-      "date": "2026-09-28T20:31:16+00:00"
-    },
-    {
       "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
       "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
       "source": "Dark Reading",
       "date": "2026-09-28T20:23:58+00:00"
     },
     {
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T19:18:01+00:00"
-    },
-    {
       "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
       "url": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
       "source": "Dark Reading",
       "date": "2026-09-28T18:44:22+00:00"
-    },
-    {
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T18:35:42+00:00"
-    },
-    {
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "source": "The Hacker News",
-      "date": "2026-09-28T18:20:38+00:00"
     },
     {
       "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
@@ -376,12 +382,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
       "source": "Dark Reading",
       "date": "2026-09-25T18:39:32+00:00"
-    },
-    {
-      "title": "What We Missed: Google Gemini Joins the AI Escape Party",
-      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
-      "source": "Dark Reading",
-      "date": "2026-09-25T17:56:23+00:00"
     },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
