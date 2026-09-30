@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T23:28:30.407064+00:00",
+  "updated": "2026-09-30T04:20:52.961673+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
+      "url": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+      "source": "SecurityWeek",
+      "date": "2026-09-30T01:48:21+00:00"
+    },
+    {
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "source": "BleepingComputer",
+      "date": "2026-09-30T00:40:57+00:00"
+    },
     {
       "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
@@ -216,12 +228,6 @@
       "date": "2026-09-29T11:30:00+00:00"
     },
     {
-      "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
-      "url": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
-      "source": "SecurityWeek",
-      "date": "2026-09-29T11:15:59+00:00"
-    },
-    {
       "title": "Kiteworks patches critical flaw, brings customer systems online",
       "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
       "source": "BleepingComputer",
@@ -286,12 +292,6 @@
       "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
       "source": "Dark Reading",
       "date": "2026-09-28T20:23:58+00:00"
-    },
-    {
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "source": "BleepingComputer",
-      "date": "2026-09-28T19:49:10+00:00"
     },
     {
       "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
