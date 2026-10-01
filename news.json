@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T01:05:41.629814+00:00",
+  "updated": "2026-10-01T08:24:14.192203+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,7 +12,43 @@
   ],
   "items": [
     {
-      "title": "FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers",
+      "title": "Google Launches Gemini 4 Argon With Guardrail-Free Access for Vetted Defenders",
+      "url": "https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/",
+      "source": "SecurityWeek",
+      "date": "2026-10-01T07:52:26+00:00"
+    },
+    {
+      "title": "Metamask discloses security incident affecting its infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "source": "BleepingComputer",
+      "date": "2026-10-01T07:33:57+00:00"
+    },
+    {
+      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+      "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "source": "The Hacker News",
+      "date": "2026-10-01T05:54:41+00:00"
+    },
+    {
+      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+      "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+      "source": "The Hacker News",
+      "date": "2026-10-01T05:21:10+00:00"
+    },
+    {
+      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "source": "The Hacker News",
+      "date": "2026-10-01T05:10:09+00:00"
+    },
+    {
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "source": "The Hacker News",
+      "date": "2026-10-01T04:35:34+00:00"
+    },
+    {
+      "title": "FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers",
       "url": "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
       "source": "SecurityWeek",
       "date": "2026-09-30T23:43:51+00:00"
@@ -240,12 +276,6 @@
       "date": "2026-09-30T05:30:30+00:00"
     },
     {
-      "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
-      "url": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
-      "source": "SecurityWeek",
-      "date": "2026-09-30T01:48:21+00:00"
-    },
-    {
       "title": "Microsoft is rolling out Linux container support to WSL",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
       "source": "BleepingComputer",
@@ -288,28 +318,10 @@
       "date": "2026-09-29T18:37:12+00:00"
     },
     {
-      "title": "Former US Air Force members sent to prison over BEC attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-09-29T18:09:39+00:00"
-    },
-    {
       "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
       "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
       "source": "The Hacker News",
       "date": "2026-09-29T17:47:01+00:00"
-    },
-    {
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "source": "The Hacker News",
-      "date": "2026-09-29T17:20:17+00:00"
-    },
-    {
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "source": "The Hacker News",
-      "date": "2026-09-29T17:20:08+00:00"
     },
     {
       "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
@@ -328,18 +340,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
       "source": "Dark Reading",
       "date": "2026-09-29T14:19:43+00:00"
-    },
-    {
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "source": "The Hacker News",
-      "date": "2026-09-29T14:13:20+00:00"
-    },
-    {
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "source": "The Hacker News",
-      "date": "2026-09-29T13:45:10+00:00"
     },
     {
       "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
