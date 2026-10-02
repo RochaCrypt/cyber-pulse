@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T01:19:15.368815+00:00",
+  "updated": "2026-10-02T08:00:07.115440+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+      "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-10-02T05:49:50+00:00"
+    },
     {
       "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
@@ -298,12 +304,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
       "source": "Dark Reading",
       "date": "2026-09-30T15:02:25+00:00"
-    },
-    {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "source": "The Hacker News",
-      "date": "2026-09-30T15:00:15+00:00"
     },
     {
       "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
