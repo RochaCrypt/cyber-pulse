@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T21:34:58.356866+00:00",
+  "updated": "2026-10-02T01:19:15.368815+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-01T22:42:49+00:00"
+    },
+    {
+      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+      "source": "Dark Reading",
+      "date": "2026-10-01T21:37:50+00:00"
+    },
     {
       "title": "Autonomous AI agents tried to hack US, Canadian government websites",
       "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
@@ -306,12 +318,6 @@
       "date": "2026-09-30T14:01:11+00:00"
     },
     {
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "source": "BleepingComputer",
-      "date": "2026-09-30T13:37:15+00:00"
-    },
-    {
       "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
       "source": "Dark Reading",
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
       "source": "Dark Reading",
       "date": "2026-09-28T20:23:58+00:00"
-    },
-    {
-      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
-      "source": "Dark Reading",
-      "date": "2026-09-28T18:44:22+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
