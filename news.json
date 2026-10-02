@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T14:41:26.755380+00:00",
+  "updated": "2026-10-02T19:46:47.197658+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,78 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
+      "url": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
+      "source": "The Record",
+      "date": "2026-10-02T19:30:00+00:00"
+    },
+    {
+      "title": "Frontline Education breach exposes school district employee data",
+      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "source": "BleepingComputer",
+      "date": "2026-10-02T19:01:40+00:00"
+    },
+    {
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-02T18:33:01+00:00"
+    },
+    {
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-10-02T17:33:31+00:00"
+    },
+    {
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "source": "The Hacker News",
+      "date": "2026-10-02T17:33:16+00:00"
+    },
+    {
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "source": "The Hacker News",
+      "date": "2026-10-02T17:02:12+00:00"
+    },
+    {
+      "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
+      "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
+      "source": "Dark Reading",
+      "date": "2026-10-02T16:56:30+00:00"
+    },
+    {
+      "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
+      "url": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
+      "source": "Dark Reading",
+      "date": "2026-10-02T16:27:54+00:00"
+    },
+    {
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "source": "BleepingComputer",
+      "date": "2026-10-02T16:20:05+00:00"
+    },
+    {
+      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
+      "url": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
+      "source": "Dark Reading",
+      "date": "2026-10-02T16:01:22+00:00"
+    },
+    {
+      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
+      "url": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+      "source": "Dark Reading",
+      "date": "2026-10-02T15:51:33+00:00"
+    },
+    {
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "source": "BleepingComputer",
+      "date": "2026-10-02T15:20:53+00:00"
+    },
     {
       "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
       "url": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
@@ -156,12 +228,6 @@
       "date": "2026-10-01T19:25:00+00:00"
     },
     {
-      "title": "Researchers find Chinese hacking campaigns targeting AI firms, Asian governments",
-      "url": "https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan",
-      "source": "The Record",
-      "date": "2026-10-01T18:16:00+00:00"
-    },
-    {
       "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
       "url": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
       "source": "SecurityWeek",
@@ -258,34 +324,10 @@
       "date": "2026-10-01T07:49:36+00:00"
     },
     {
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "source": "BleepingComputer",
-      "date": "2026-10-01T07:33:57+00:00"
-    },
-    {
       "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
       "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
       "source": "The Hacker News",
       "date": "2026-10-01T05:54:41+00:00"
-    },
-    {
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "source": "The Hacker News",
-      "date": "2026-10-01T05:21:10+00:00"
-    },
-    {
-      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "source": "The Hacker News",
-      "date": "2026-10-01T05:10:09+00:00"
-    },
-    {
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-      "source": "The Hacker News",
-      "date": "2026-10-01T04:35:34+00:00"
     },
     {
       "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
@@ -300,28 +342,10 @@
       "date": "2026-09-30T20:51:15+00:00"
     },
     {
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "source": "BleepingComputer",
-      "date": "2026-09-30T20:34:01+00:00"
-    },
-    {
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-09-30T19:49:15+00:00"
-    },
-    {
       "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
       "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
       "source": "Dark Reading",
       "date": "2026-09-30T18:56:56+00:00"
-    },
-    {
-      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "source": "BleepingComputer",
-      "date": "2026-09-30T18:08:34+00:00"
     },
     {
       "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
@@ -346,30 +370,6 @@
       "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
       "source": "Dark Reading",
       "date": "2026-09-29T21:08:42+00:00"
-    },
-    {
-      "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
-      "url": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
-      "source": "Dark Reading",
-      "date": "2026-09-29T17:02:16+00:00"
-    },
-    {
-      "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
-      "url": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
-      "source": "Dark Reading",
-      "date": "2026-09-29T15:12:39+00:00"
-    },
-    {
-      "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
-      "source": "Dark Reading",
-      "date": "2026-09-29T14:19:43+00:00"
-    },
-    {
-      "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
-      "url": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
-      "source": "Dark Reading",
-      "date": "2026-09-28T22:02:46+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
