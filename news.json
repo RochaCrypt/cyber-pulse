@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T19:46:47.197658+00:00",
+  "updated": "2026-10-02T23:34:55.703795+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
+      "url": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
+      "source": "The Record",
+      "date": "2026-10-02T20:30:00+00:00"
+    },
+    {
+      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+      "source": "Dark Reading",
+      "date": "2026-10-02T20:18:37+00:00"
+    },
     {
       "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
       "url": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
@@ -222,12 +234,6 @@
       "date": "2026-10-01T19:32:47+00:00"
     },
     {
-      "title": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
-      "url": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
-      "source": "The Record",
-      "date": "2026-10-01T19:25:00+00:00"
-    },
-    {
       "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
       "url": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
       "source": "SecurityWeek",
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
       "source": "Dark Reading",
       "date": "2026-09-29T21:31:29+00:00"
-    },
-    {
-      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
-      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
-      "source": "Dark Reading",
-      "date": "2026-09-29T21:08:42+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
