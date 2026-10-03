@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T19:02:32.789403+00:00",
+  "updated": "2026-10-03T22:43:02.699815+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+      "source": "BleepingComputer",
+      "date": "2026-10-03T19:09:38+00:00"
+    },
     {
       "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
       "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
@@ -322,12 +328,6 @@
       "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
       "source": "The Hacker News",
       "date": "2026-10-01T11:45:00+00:00"
-    },
-    {
-      "title": "Microsoft enables Windows settings backup by default for orgs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-      "source": "BleepingComputer",
-      "date": "2026-10-01T11:14:28+00:00"
     },
     {
       "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
