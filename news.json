@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:15:08.103158+00:00",
+  "updated": "2026-10-04T22:48:39.970355+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-04T21:58:01+00:00"
+    },
     {
       "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
       "url": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
@@ -322,12 +328,6 @@
       "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
       "source": "The Hacker News",
       "date": "2026-10-01T14:37:35+00:00"
-    },
-    {
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "source": "BleepingComputer",
-      "date": "2026-10-01T14:25:14+00:00"
     },
     {
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
