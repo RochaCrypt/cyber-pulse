@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T09:24:36.934710+00:00",
+  "updated": "2026-10-04T15:10:28.867782+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
+      "url": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
+      "source": "SecurityWeek",
+      "date": "2026-10-04T14:57:25+00:00"
+    },
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "source": "BleepingComputer",
+      "date": "2026-10-04T10:53:21+00:00"
+    },
     {
       "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
       "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
@@ -294,12 +306,6 @@
       "date": "2026-10-01T19:32:47+00:00"
     },
     {
-      "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
-      "url": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-01T18:00:00+00:00"
-    },
-    {
       "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
       "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
       "source": "The Hacker News",
@@ -322,12 +328,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
       "source": "BleepingComputer",
       "date": "2026-10-01T14:25:14+00:00"
-    },
-    {
-      "title": "The Day-One Hole in Zero Trust Architecture",
-      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-      "source": "BleepingComputer",
-      "date": "2026-10-01T14:01:11+00:00"
     },
     {
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
