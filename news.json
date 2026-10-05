@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T08:29:10.560993+00:00",
+  "updated": "2026-10-05T17:59:43.353772+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,10 +12,166 @@
   ],
   "items": [
     {
+      "title": "US, Australia warn of latest Citrix vulnerability after NetScaler advisory",
+      "url": "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
+      "source": "The Record",
+      "date": "2026-10-05T17:22:00+00:00"
+    },
+    {
+      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+      "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T17:19:53+00:00"
+    },
+    {
+      "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
+      "url": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
+      "source": "The Record",
+      "date": "2026-10-05T17:00:00+00:00"
+    },
+    {
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "source": "The Hacker News",
+      "date": "2026-10-05T16:21:52+00:00"
+    },
+    {
+      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
+      "source": "Dark Reading",
+      "date": "2026-10-05T15:52:59+00:00"
+    },
+    {
+      "title": "University of Illinois Chicago affected by ransomware attack on medical school",
+      "url": "https://therecord.media/ransomware-university-illinois-chicago",
+      "source": "The Record",
+      "date": "2026-10-05T15:30:00+00:00"
+    },
+    {
+      "title": "Denmark population registry data breach affects 8.8 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T15:21:10+00:00"
+    },
+    {
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T14:53:06+00:00"
+    },
+    {
+      "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
+      "url": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
+      "source": "SecurityWeek",
+      "date": "2026-10-05T14:26:00+00:00"
+    },
+    {
+      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T14:22:12+00:00"
+    },
+    {
+      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+      "source": "The Hacker News",
+      "date": "2026-10-05T14:20:43+00:00"
+    },
+    {
+      "title": "Belarusian hacktivists spent two years inside Russian healthcare network, researchers say",
+      "url": "https://therecord.media/belarusian-hacktivists-two-years-Russian-healthcare-network",
+      "source": "The Record",
+      "date": "2026-10-05T13:55:00+00:00"
+    },
+    {
+      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T13:33:42+00:00"
+    },
+    {
+      "title": "Japanese media group Nikkei discloses intrusions targeting employees and users",
+      "url": "https://therecord.media/nikkei-cyberattack-japan-data",
+      "source": "The Record",
+      "date": "2026-10-05T13:15:00+00:00"
+    },
+    {
+      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T13:01:45+00:00"
+    },
+    {
+      "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
+      "url": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
+      "source": "Dark Reading",
+      "date": "2026-10-05T13:00:00+00:00"
+    },
+    {
+      "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
+      "url": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
+      "source": "SecurityWeek",
+      "date": "2026-10-05T13:00:00+00:00"
+    },
+    {
+      "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
+      "url": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
+      "source": "SecurityWeek",
+      "date": "2026-10-05T12:35:15+00:00"
+    },
+    {
+      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+      "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+      "source": "The Hacker News",
+      "date": "2026-10-05T11:55:00+00:00"
+    },
+    {
+      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+      "source": "The Hacker News",
+      "date": "2026-10-05T11:46:25+00:00"
+    },
+    {
+      "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
+      "url": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
+      "source": "SecurityWeek",
+      "date": "2026-10-05T11:00:05+00:00"
+    },
+    {
+      "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
+      "url": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
+      "source": "SecurityWeek",
+      "date": "2026-10-05T10:42:19+00:00"
+    },
+    {
+      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+      "source": "The Hacker News",
+      "date": "2026-10-05T10:38:50+00:00"
+    },
+    {
+      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T10:28:45+00:00"
+    },
+    {
+      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T09:37:56+00:00"
+    },
+    {
       "title": "Google halts open-source bug bounty program amid AI spam surge",
       "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
       "source": "BleepingComputer",
       "date": "2026-10-05T08:27:46+00:00"
+    },
+    {
+      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+      "source": "The Hacker News",
+      "date": "2026-10-05T08:09:23+00:00"
     },
     {
       "title": "Alleged ShinyHunters Leader Arrested in Jordan",
@@ -114,34 +270,16 @@
       "date": "2026-10-03T11:00:00+00:00"
     },
     {
-      "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
-      "url": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
-      "source": "The Record",
-      "date": "2026-10-02T20:30:00+00:00"
-    },
-    {
       "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
       "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
       "source": "Dark Reading",
       "date": "2026-10-02T20:18:37+00:00"
     },
     {
-      "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
-      "url": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
-      "source": "The Record",
-      "date": "2026-10-02T19:30:00+00:00"
-    },
-    {
       "title": "Frontline Education breach exposes school district employee data",
       "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
       "source": "BleepingComputer",
       "date": "2026-10-02T19:01:40+00:00"
-    },
-    {
-      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-02T18:33:01+00:00"
     },
     {
       "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
@@ -174,12 +312,6 @@
       "date": "2026-10-02T16:27:54+00:00"
     },
     {
-      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-      "source": "BleepingComputer",
-      "date": "2026-10-02T16:20:05+00:00"
-    },
-    {
       "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
       "url": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
       "source": "Dark Reading",
@@ -192,46 +324,10 @@
       "date": "2026-10-02T15:51:33+00:00"
     },
     {
-      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-      "source": "BleepingComputer",
-      "date": "2026-10-02T15:20:53+00:00"
-    },
-    {
-      "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
-      "url": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
-      "source": "SecurityWeek",
-      "date": "2026-10-02T14:30:00+00:00"
-    },
-    {
-      "title": "Mississippi mayor says ransomware incident led city to shut down systems",
-      "url": "https://therecord.media/vicksburg-mississippi-government-ransomware-attack",
-      "source": "The Record",
-      "date": "2026-10-02T14:06:00+00:00"
-    },
-    {
-      "title": "'Warlock' ransomware used in attacks on critical infrastructure in Portuguese, Spanish-speaking countries",
-      "url": "https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks",
-      "source": "The Record",
-      "date": "2026-10-02T14:05:00+00:00"
-    },
-    {
-      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
-      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-      "source": "BleepingComputer",
-      "date": "2026-10-02T14:00:10+00:00"
-    },
-    {
       "title": "Vulnerability Backlogs Are an Ownership Problem",
       "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
       "source": "Dark Reading",
       "date": "2026-10-02T14:00:00+00:00"
-    },
-    {
-      "title": "macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor",
-      "url": "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
-      "source": "SecurityWeek",
-      "date": "2026-10-02T13:15:00+00:00"
     },
     {
       "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
@@ -240,94 +336,10 @@
       "date": "2026-10-02T13:00:00+00:00"
     },
     {
-      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-      "source": "BleepingComputer",
-      "date": "2026-10-02T12:37:40+00:00"
-    },
-    {
-      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
-      "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-      "source": "The Hacker News",
-      "date": "2026-10-02T12:23:15+00:00"
-    },
-    {
-      "title": "Crypto Scammers Hijack Microsoft’s Official X Account",
-      "url": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
-      "source": "SecurityWeek",
-      "date": "2026-10-02T11:46:10+00:00"
-    },
-    {
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "url": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-      "source": "The Hacker News",
-      "date": "2026-10-02T11:30:00+00:00"
-    },
-    {
-      "title": "In Rare Move, Alleged Iranian State Hacker Extradited to US",
-      "url": "https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/",
-      "source": "SecurityWeek",
-      "date": "2026-10-02T11:14:34+00:00"
-    },
-    {
-      "title": "Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks",
-      "url": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-02T09:34:41+00:00"
-    },
-    {
-      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "source": "BleepingComputer",
-      "date": "2026-10-02T09:29:56+00:00"
-    },
-    {
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "source": "The Hacker News",
-      "date": "2026-10-02T08:01:30+00:00"
-    },
-    {
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "source": "The Hacker News",
-      "date": "2026-10-02T05:49:50+00:00"
-    },
-    {
-      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-01T22:42:49+00:00"
-    },
-    {
       "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
       "source": "Dark Reading",
       "date": "2026-10-01T21:37:50+00:00"
-    },
-    {
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "source": "BleepingComputer",
-      "date": "2026-10-01T20:52:50+00:00"
-    },
-    {
-      "title": "Iranian accused of hacking American universities extradited from Montenegro",
-      "url": "https://therecord.media/iran-montenegro-hacker-extradition",
-      "source": "The Record",
-      "date": "2026-10-01T20:15:00+00:00"
-    },
-    {
-      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "source": "The Hacker News",
-      "date": "2026-10-01T16:55:57+00:00"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "source": "The Hacker News",
-      "date": "2026-10-01T16:45:38+00:00"
     },
     {
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
@@ -358,18 +370,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
       "source": "Dark Reading",
       "date": "2026-09-30T15:02:25+00:00"
-    },
-    {
-      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
-      "source": "Dark Reading",
-      "date": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
-      "source": "Dark Reading",
-      "date": "2026-09-29T21:31:29+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
