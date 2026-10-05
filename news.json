@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T01:39:56.767291+00:00",
+  "updated": "2026-10-05T08:29:10.560993+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,30 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Google halts open-source bug bounty program amid AI spam surge",
+      "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T08:27:46+00:00"
+    },
+    {
+      "title": "Alleged ShinyHunters Leader Arrested in Jordan",
+      "url": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
+      "source": "SecurityWeek",
+      "date": "2026-10-05T07:16:53+00:00"
+    },
+    {
+      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-05T06:40:19+00:00"
+    },
+    {
+      "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
+      "url": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
+      "source": "SecurityWeek",
+      "date": "2026-10-05T05:14:48+00:00"
+    },
     {
       "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
@@ -258,18 +282,6 @@
       "date": "2026-10-02T09:29:56+00:00"
     },
     {
-      "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
-      "url": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
-      "source": "SecurityWeek",
-      "date": "2026-10-02T08:38:46+00:00"
-    },
-    {
-      "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
-      "url": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
-      "source": "SecurityWeek",
-      "date": "2026-10-02T08:07:33+00:00"
-    },
-    {
       "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
       "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
       "source": "The Hacker News",
@@ -306,12 +318,6 @@
       "date": "2026-10-01T20:15:00+00:00"
     },
     {
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "source": "BleepingComputer",
-      "date": "2026-10-01T19:32:47+00:00"
-    },
-    {
       "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
       "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
       "source": "The Hacker News",
@@ -322,12 +328,6 @@
       "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
       "source": "The Hacker News",
       "date": "2026-10-01T16:45:38+00:00"
-    },
-    {
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-      "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-      "source": "The Hacker News",
-      "date": "2026-10-01T14:37:35+00:00"
     },
     {
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
