@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:59:43.353772+00:00",
+  "updated": "2026-10-06T06:07:47.501163+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,48 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T06:00:30+00:00"
+    },
+    {
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T05:22:55+00:00"
+    },
+    {
+      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T22:46:33+00:00"
+    },
+    {
+      "title": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
+      "url": "https://therecord.media/wikimedia-foundation-openai-agents-report",
+      "source": "The Record",
+      "date": "2026-10-05T21:26:00+00:00"
+    },
+    {
+      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+      "url": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
+      "source": "Dark Reading",
+      "date": "2026-10-05T21:25:08+00:00"
+    },
+    {
+      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+      "source": "BleepingComputer",
+      "date": "2026-10-05T20:20:05+00:00"
+    },
+    {
+      "title": "Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement",
+      "url": "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
+      "source": "The Record",
+      "date": "2026-10-05T19:15:00+00:00"
+    },
     {
       "title": "US, Australia warn of latest Citrix vulnerability after NetScaler advisory",
       "url": "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
@@ -78,22 +120,10 @@
       "date": "2026-10-05T14:20:43+00:00"
     },
     {
-      "title": "Belarusian hacktivists spent two years inside Russian healthcare network, researchers say",
-      "url": "https://therecord.media/belarusian-hacktivists-two-years-Russian-healthcare-network",
-      "source": "The Record",
-      "date": "2026-10-05T13:55:00+00:00"
-    },
-    {
       "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
       "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
       "source": "BleepingComputer",
       "date": "2026-10-05T13:33:42+00:00"
-    },
-    {
-      "title": "Japanese media group Nikkei discloses intrusions targeting employees and users",
-      "url": "https://therecord.media/nikkei-cyberattack-japan-data",
-      "source": "The Record",
-      "date": "2026-10-05T13:15:00+00:00"
     },
     {
       "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
@@ -246,12 +276,6 @@
       "date": "2026-10-03T14:36:33+00:00"
     },
     {
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "source": "BleepingComputer",
-      "date": "2026-10-03T14:35:20+00:00"
-    },
-    {
       "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
       "url": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
       "source": "SecurityWeek",
@@ -276,28 +300,10 @@
       "date": "2026-10-02T20:18:37+00:00"
     },
     {
-      "title": "Frontline Education breach exposes school district employee data",
-      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "source": "BleepingComputer",
-      "date": "2026-10-02T19:01:40+00:00"
-    },
-    {
       "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
       "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
       "source": "The Hacker News",
       "date": "2026-10-02T17:33:31+00:00"
-    },
-    {
-      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-      "source": "The Hacker News",
-      "date": "2026-10-02T17:33:16+00:00"
-    },
-    {
-      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-      "source": "The Hacker News",
-      "date": "2026-10-02T17:02:12+00:00"
     },
     {
       "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
       "source": "Dark Reading",
       "date": "2026-09-30T18:56:56+00:00"
-    },
-    {
-      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
-      "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
-      "source": "Dark Reading",
-      "date": "2026-09-30T15:02:25+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
