@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:07:47.501163+00:00",
+  "updated": "2026-10-06T13:58:42.647026+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,6 +12,102 @@
   ],
   "items": [
     {
+      "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware",
+      "url": "https://therecord.media/clickfix-campaign-ukraine-lunex-stealer",
+      "source": "The Record",
+      "date": "2026-10-06T13:17:00+00:00"
+    },
+    {
+      "title": "FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware",
+      "url": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
+      "source": "SecurityWeek",
+      "date": "2026-10-06T12:47:57+00:00"
+    },
+    {
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T11:57:00+00:00"
+    },
+    {
+      "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
+      "url": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
+      "source": "SecurityWeek",
+      "date": "2026-10-06T11:48:59+00:00"
+    },
+    {
+      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+      "source": "BleepingComputer",
+      "date": "2026-10-06T11:31:48+00:00"
+    },
+    {
+      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+      "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T11:26:25+00:00"
+    },
+    {
+      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+      "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T11:02:30+00:00"
+    },
+    {
+      "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026",
+      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
+      "source": "SecurityWeek",
+      "date": "2026-10-06T11:01:35+00:00"
+    },
+    {
+      "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+      "url": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
+      "source": "SecurityWeek",
+      "date": "2026-10-06T10:34:25+00:00"
+    },
+    {
+      "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
+      "url": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+      "source": "SecurityWeek",
+      "date": "2026-10-06T09:38:30+00:00"
+    },
+    {
+      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+      "source": "BleepingComputer",
+      "date": "2026-10-06T09:25:50+00:00"
+    },
+    {
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+      "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T09:21:47+00:00"
+    },
+    {
+      "title": "Social Engineering Detection Moves Into the Live Conversation",
+      "url": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
+      "source": "SecurityWeek",
+      "date": "2026-10-06T08:38:14+00:00"
+    },
+    {
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "source": "BleepingComputer",
+      "date": "2026-10-06T08:19:24+00:00"
+    },
+    {
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T06:58:56+00:00"
+    },
+    {
+      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T06:56:57+00:00"
+    },
+    {
       "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
       "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
       "source": "The Hacker News",
@@ -22,6 +118,12 @@
       "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
       "source": "The Hacker News",
       "date": "2026-10-06T05:22:55+00:00"
+    },
+    {
+      "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
+      "url": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
+      "source": "The Record",
+      "date": "2026-10-06T04:00:00+00:00"
     },
     {
       "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
@@ -66,12 +168,6 @@
       "date": "2026-10-05T17:19:53+00:00"
     },
     {
-      "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
-      "url": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
-      "source": "The Record",
-      "date": "2026-10-05T17:00:00+00:00"
-    },
-    {
       "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
       "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
       "source": "The Hacker News",
@@ -82,12 +178,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
       "source": "Dark Reading",
       "date": "2026-10-05T15:52:59+00:00"
-    },
-    {
-      "title": "University of Illinois Chicago affected by ransomware attack on medical school",
-      "url": "https://therecord.media/ransomware-university-illinois-chicago",
-      "source": "The Record",
-      "date": "2026-10-05T15:30:00+00:00"
     },
     {
       "title": "Denmark population registry data breach affects 8.8 million people",
@@ -168,12 +258,6 @@
       "date": "2026-10-05T11:00:05+00:00"
     },
     {
-      "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
-      "url": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
-      "source": "SecurityWeek",
-      "date": "2026-10-05T10:42:19+00:00"
-    },
-    {
       "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
       "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
       "source": "The Hacker News",
@@ -204,22 +288,10 @@
       "date": "2026-10-05T08:09:23+00:00"
     },
     {
-      "title": "Alleged ShinyHunters Leader Arrested in Jordan",
-      "url": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
-      "source": "SecurityWeek",
-      "date": "2026-10-05T07:16:53+00:00"
-    },
-    {
       "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
       "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
       "source": "The Hacker News",
       "date": "2026-10-05T06:40:19+00:00"
-    },
-    {
-      "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
-      "url": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
-      "source": "SecurityWeek",
-      "date": "2026-10-05T05:14:48+00:00"
     },
     {
       "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
@@ -228,82 +300,10 @@
       "date": "2026-10-04T21:58:01+00:00"
     },
     {
-      "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
-      "url": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-      "source": "SecurityWeek",
-      "date": "2026-10-04T14:57:25+00:00"
-    },
-    {
-      "title": "Anthropic asks Claude users to share voice data for AI model training",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-      "source": "BleepingComputer",
-      "date": "2026-10-04T10:53:21+00:00"
-    },
-    {
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "source": "The Hacker News",
-      "date": "2026-10-04T07:22:05+00:00"
-    },
-    {
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-10-04T07:20:32+00:00"
-    },
-    {
-      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "source": "BleepingComputer",
-      "date": "2026-10-03T23:12:34+00:00"
-    },
-    {
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "source": "BleepingComputer",
-      "date": "2026-10-03T19:09:38+00:00"
-    },
-    {
-      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "source": "The Hacker News",
-      "date": "2026-10-03T14:38:46+00:00"
-    },
-    {
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-03T14:36:33+00:00"
-    },
-    {
-      "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
-      "url": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
-      "source": "SecurityWeek",
-      "date": "2026-10-03T11:45:00+00:00"
-    },
-    {
-      "title": "Fortra Patches Critical Vulnerabilities in BoKS",
-      "url": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-03T11:34:00+00:00"
-    },
-    {
-      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "source": "The Hacker News",
-      "date": "2026-10-03T11:00:00+00:00"
-    },
-    {
       "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
       "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
       "source": "Dark Reading",
       "date": "2026-10-02T20:18:37+00:00"
-    },
-    {
-      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-10-02T17:33:31+00:00"
     },
     {
       "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
