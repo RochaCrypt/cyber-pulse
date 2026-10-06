@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T19:25:19.159471+00:00",
+  "updated": "2026-10-06T23:37:05.629219+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,10 +12,40 @@
   ],
   "items": [
     {
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "source": "BleepingComputer",
+      "date": "2026-10-06T21:00:27+00:00"
+    },
+    {
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "source": "Dark Reading",
+      "date": "2026-10-06T20:32:58+00:00"
+    },
+    {
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+      "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "source": "Dark Reading",
+      "date": "2026-10-06T20:30:27+00:00"
+    },
+    {
       "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
       "source": "BleepingComputer",
       "date": "2026-10-06T19:21:53+00:00"
+    },
+    {
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T18:38:55+00:00"
+    },
+    {
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "url": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "source": "The Hacker News",
+      "date": "2026-10-06T18:24:25+00:00"
     },
     {
       "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
@@ -264,12 +294,6 @@
       "date": "2026-10-05T14:20:43+00:00"
     },
     {
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-      "source": "BleepingComputer",
-      "date": "2026-10-05T13:33:42+00:00"
-    },
-    {
       "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
       "url": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
       "source": "Dark Reading",
@@ -304,18 +328,6 @@
       "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
       "source": "The Hacker News",
       "date": "2026-10-05T10:38:50+00:00"
-    },
-    {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "source": "The Hacker News",
-      "date": "2026-10-05T08:09:23+00:00"
-    },
-    {
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "source": "The Hacker News",
-      "date": "2026-10-05T06:40:19+00:00"
     },
     {
       "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
@@ -358,18 +370,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
       "source": "Dark Reading",
       "date": "2026-10-02T13:00:00+00:00"
-    },
-    {
-      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
-      "source": "Dark Reading",
-      "date": "2026-10-01T21:37:50+00:00"
-    },
-    {
-      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-      "source": "Dark Reading",
-      "date": "2026-10-01T13:00:00+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
