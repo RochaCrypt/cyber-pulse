@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:37:05.629219+00:00",
+  "updated": "2026-10-07T04:41:18.219401+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
+      "url": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
+      "source": "SecurityWeek",
+      "date": "2026-10-07T01:32:58+00:00"
+    },
     {
       "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
@@ -304,12 +310,6 @@
       "url": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
       "source": "SecurityWeek",
       "date": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-      "url": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-      "source": "SecurityWeek",
-      "date": "2026-10-05T12:35:15+00:00"
     },
     {
       "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
