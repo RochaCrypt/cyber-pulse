@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T11:48:40.698314+00:00",
+  "updated": "2026-10-08T18:31:07.981145+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,126 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
+      "source": "Dark Reading",
+      "date": "2026-10-08T18:01:50+00:00"
+    },
+    {
+      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+      "source": "BleepingComputer",
+      "date": "2026-10-08T17:10:55+00:00"
+    },
+    {
+      "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
+      "url": "https://therecord.media/ransomware-recovery-charges-doj",
+      "source": "The Record",
+      "date": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "title": "ASOS: Hackers tricked way into employee account before sending rogue push notification",
+      "url": "https://therecord.media/asos-says-hackers-tricked-employee-access-push-notification",
+      "source": "The Record",
+      "date": "2026-10-08T16:57:00+00:00"
+    },
+    {
+      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "source": "The Hacker News",
+      "date": "2026-10-08T15:45:56+00:00"
+    },
+    {
+      "title": "Crypto thief who splurged on gold grills sentenced in London",
+      "url": "https://therecord.media/cryptocurrency-sim-swap-london",
+      "source": "The Record",
+      "date": "2026-10-08T15:45:00+00:00"
+    },
+    {
+      "title": "Cisco Patches a Dozen Critical Vulnerabilities",
+      "url": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-10-08T15:28:06+00:00"
+    },
+    {
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "source": "The Hacker News",
+      "date": "2026-10-08T15:26:56+00:00"
+    },
+    {
+      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "source": "BleepingComputer",
+      "date": "2026-10-08T15:26:33+00:00"
+    },
+    {
+      "title": "Leaked chats show Russian extortion gang sending ‘agents’ into US law firms",
+      "url": "https://therecord.media/leaked-chats-show-russian-extortion-gang-sending-agents-to-law-firms",
+      "source": "The Record",
+      "date": "2026-10-08T14:46:00+00:00"
+    },
+    {
+      "title": "Security Awareness Training Isn’t Dead, but It Needs a Rethink",
+      "url": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
+      "source": "SecurityWeek",
+      "date": "2026-10-08T14:30:00+00:00"
+    },
+    {
+      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+      "source": "The Hacker News",
+      "date": "2026-10-08T14:12:34+00:00"
+    },
+    {
+      "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
+      "url": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
+      "source": "SecurityWeek",
+      "date": "2026-10-08T14:04:44+00:00"
+    },
+    {
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "source": "BleepingComputer",
+      "date": "2026-10-08T14:00:10+00:00"
+    },
+    {
+      "title": "Hackers target two South Korean megachurches, potentially exposing congregant data",
+      "url": "https://therecord.media/south-korea-hackers-megachurches",
+      "source": "The Record",
+      "date": "2026-10-08T13:55:56+00:00"
+    },
+    {
+      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+      "source": "BleepingComputer",
+      "date": "2026-10-08T13:18:36+00:00"
+    },
+    {
+      "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
+      "url": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
+      "source": "SecurityWeek",
+      "date": "2026-10-08T12:46:21+00:00"
+    },
+    {
+      "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
+      "url": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-10-08T12:37:32+00:00"
+    },
+    {
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+      "source": "BleepingComputer",
+      "date": "2026-10-08T12:08:16+00:00"
+    },
+    {
+      "title": "Writing the Next Chapter",
+      "url": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+      "source": "Dark Reading",
+      "date": "2026-10-08T12:00:00+00:00"
+    },
     {
       "title": "ASOS links data breach to social engineering attack, credential theft",
       "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
@@ -126,12 +246,6 @@
       "date": "2026-10-07T20:50:13+00:00"
     },
     {
-      "title": "US posts $10 million reward for accused Chinese ‘Hafnium’ hacker",
-      "url": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
-      "source": "The Record",
-      "date": "2026-10-07T19:50:00+00:00"
-    },
-    {
       "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
       "source": "Dark Reading",
@@ -142,18 +256,6 @@
       "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
       "source": "The Hacker News",
       "date": "2026-10-07T18:48:17+00:00"
-    },
-    {
-      "title": "$11 million plan for psychological support at Cyber Command gets fresh boost from lawmakers",
-      "url": "https://therecord.media/cyber-command-mental-health-support-program-bipartisan-letters",
-      "source": "The Record",
-      "date": "2026-10-07T18:35:00+00:00"
-    },
-    {
-      "title": "Arizona courts say hackers stole info on more than 1.3 million people",
-      "url": "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
-      "source": "The Record",
-      "date": "2026-10-07T18:31:00+00:00"
     },
     {
       "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
@@ -192,24 +294,6 @@
       "date": "2026-10-07T15:04:08+00:00"
     },
     {
-      "title": "Oklahoma judge’s Flock ruling shows the power of Supreme Court’s digital evidence decision",
-      "url": "https://therecord.media/oklahoma-flock-ruing-supreme-court-chatrie-decision",
-      "source": "The Record",
-      "date": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
-      "url": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
-      "source": "SecurityWeek",
-      "date": "2026-10-07T14:15:20+00:00"
-    },
-    {
-      "title": "Cyber experts call on CISA to create mandatory federal OT rules",
-      "url": "https://therecord.media/cyber-experts-call-on-cisa-require-ot-security",
-      "source": "The Record",
-      "date": "2026-10-07T14:03:00+00:00"
-    },
-    {
       "title": "Ransomware has a new target. Is your backup ready?",
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
       "source": "BleepingComputer",
@@ -222,28 +306,10 @@
       "date": "2026-10-07T13:48:45+00:00"
     },
     {
-      "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
-      "url": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
-      "source": "SecurityWeek",
-      "date": "2026-10-07T13:47:12+00:00"
-    },
-    {
-      "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
-      "url": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
-      "source": "SecurityWeek",
-      "date": "2026-10-07T13:06:10+00:00"
-    },
-    {
       "title": "Hackers exploit critical Atlassian flaw after public PoC release",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
       "source": "BleepingComputer",
       "date": "2026-10-07T12:49:01+00:00"
-    },
-    {
-      "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
-      "url": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
-      "source": "SecurityWeek",
-      "date": "2026-10-07T12:37:24+00:00"
     },
     {
       "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
@@ -258,54 +324,6 @@
       "date": "2026-10-07T11:56:56+00:00"
     },
     {
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "source": "The Hacker News",
-      "date": "2026-10-07T11:49:26+00:00"
-    },
-    {
-      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-      "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-      "source": "The Hacker News",
-      "date": "2026-10-07T11:42:24+00:00"
-    },
-    {
-      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-      "source": "BleepingComputer",
-      "date": "2026-10-07T11:37:07+00:00"
-    },
-    {
-      "title": "Chrome 155 Update Patches 247 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-10-07T10:51:57+00:00"
-    },
-    {
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "source": "BleepingComputer",
-      "date": "2026-10-07T10:35:15+00:00"
-    },
-    {
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "source": "BleepingComputer",
-      "date": "2026-10-07T10:27:52+00:00"
-    },
-    {
-      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-      "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "source": "The Hacker News",
-      "date": "2026-10-07T08:07:38+00:00"
-    },
-    {
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "source": "BleepingComputer",
-      "date": "2026-10-06T21:00:27+00:00"
-    },
-    {
       "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
       "source": "Dark Reading",
@@ -316,12 +334,6 @@
       "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
       "source": "Dark Reading",
       "date": "2026-10-06T20:30:27+00:00"
-    },
-    {
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "source": "BleepingComputer",
-      "date": "2026-10-06T19:21:53+00:00"
     },
     {
       "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
@@ -364,18 +376,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
       "source": "Dark Reading",
       "date": "2026-10-02T20:18:37+00:00"
-    },
-    {
-      "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
-      "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
-      "source": "Dark Reading",
-      "date": "2026-10-02T16:56:30+00:00"
-    },
-    {
-      "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
-      "url": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
-      "source": "Dark Reading",
-      "date": "2026-10-02T16:27:54+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
