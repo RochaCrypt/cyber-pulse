@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T23:39:24.206467+00:00",
+  "updated": "2026-10-09T04:55:06.110349+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
+      "url": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
+      "source": "The Record",
+      "date": "2026-10-10T00:55:00+00:00"
+    },
+    {
+      "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
+      "url": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
+      "source": "SecurityWeek",
+      "date": "2026-10-09T04:12:38+00:00"
+    },
     {
       "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
@@ -94,12 +106,6 @@
       "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
       "source": "The Hacker News",
       "date": "2026-10-08T15:45:56+00:00"
-    },
-    {
-      "title": "Crypto thief who splurged on gold grills sentenced in London",
-      "url": "https://therecord.media/cryptocurrency-sim-swap-london",
-      "source": "The Record",
-      "date": "2026-10-08T15:45:00+00:00"
     },
     {
       "title": "Cisco Patches a Dozen Critical Vulnerabilities",
@@ -220,12 +226,6 @@
       "url": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
       "source": "SecurityWeek",
       "date": "2026-10-08T08:23:31+00:00"
-    },
-    {
-      "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices",
-      "url": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
-      "source": "SecurityWeek",
-      "date": "2026-10-08T07:52:33+00:00"
     },
     {
       "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
