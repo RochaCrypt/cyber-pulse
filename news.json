@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T04:55:06.110349+00:00",
+  "updated": "2026-10-09T11:41:02.404272+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -16,6 +16,96 @@
       "url": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
       "source": "The Record",
       "date": "2026-10-10T00:55:00+00:00"
+    },
+    {
+      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+      "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+      "source": "The Hacker News",
+      "date": "2026-10-09T11:30:00+00:00"
+    },
+    {
+      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
+      "source": "BleepingComputer",
+      "date": "2026-10-09T11:14:28+00:00"
+    },
+    {
+      "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+      "url": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
+      "source": "SecurityWeek",
+      "date": "2026-10-09T10:23:42+00:00"
+    },
+    {
+      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
+      "source": "BleepingComputer",
+      "date": "2026-10-09T10:12:24+00:00"
+    },
+    {
+      "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
+      "url": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
+      "source": "SecurityWeek",
+      "date": "2026-10-09T09:55:35+00:00"
+    },
+    {
+      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+      "source": "The Hacker News",
+      "date": "2026-10-09T09:03:24+00:00"
+    },
+    {
+      "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
+      "url": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
+      "source": "SecurityWeek",
+      "date": "2026-10-09T08:36:37+00:00"
+    },
+    {
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "source": "BleepingComputer",
+      "date": "2026-10-09T08:27:42+00:00"
+    },
+    {
+      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+      "source": "The Hacker News",
+      "date": "2026-10-09T08:26:17+00:00"
+    },
+    {
+      "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
+      "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
+      "source": "SecurityWeek",
+      "date": "2026-10-09T08:19:33+00:00"
+    },
+    {
+      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-10-09T08:11:33+00:00"
+    },
+    {
+      "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
+      "url": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
+      "source": "SecurityWeek",
+      "date": "2026-10-09T06:53:53+00:00"
+    },
+    {
+      "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
+      "url": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
+      "source": "SecurityWeek",
+      "date": "2026-10-09T06:39:55+00:00"
+    },
+    {
+      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+      "source": "The Hacker News",
+      "date": "2026-10-09T06:39:29+00:00"
+    },
+    {
+      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+      "source": "BleepingComputer",
+      "date": "2026-10-09T05:41:04+00:00"
     },
     {
       "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
@@ -156,18 +246,6 @@
       "date": "2026-10-08T13:18:36+00:00"
     },
     {
-      "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
-      "url": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
-      "source": "SecurityWeek",
-      "date": "2026-10-08T12:46:21+00:00"
-    },
-    {
-      "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-10-08T12:37:32+00:00"
-    },
-    {
       "title": "Microsoft Teams to get support for third-party deepfake detection tools",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
       "source": "BleepingComputer",
@@ -186,12 +264,6 @@
       "date": "2026-10-08T11:42:46+00:00"
     },
     {
-      "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
-      "url": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
-      "source": "SecurityWeek",
-      "date": "2026-10-08T11:11:28+00:00"
-    },
-    {
       "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
       "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
       "source": "The Hacker News",
@@ -204,28 +276,10 @@
       "date": "2026-10-08T10:29:19+00:00"
     },
     {
-      "title": "TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws",
-      "url": "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
-      "source": "SecurityWeek",
-      "date": "2026-10-08T10:24:04+00:00"
-    },
-    {
       "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
       "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
       "source": "The Hacker News",
       "date": "2026-10-08T09:46:32+00:00"
-    },
-    {
-      "title": "Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme",
-      "url": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
-      "source": "SecurityWeek",
-      "date": "2026-10-08T09:27:55+00:00"
-    },
-    {
-      "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
-      "url": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
-      "source": "SecurityWeek",
-      "date": "2026-10-08T08:23:31+00:00"
     },
     {
       "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
@@ -252,22 +306,10 @@
       "date": "2026-10-08T05:46:20+00:00"
     },
     {
-      "title": "Ransomware recovery CEO charged over secret ransom payments",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-      "source": "BleepingComputer",
-      "date": "2026-10-07T23:04:37+00:00"
-    },
-    {
       "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
       "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
       "source": "Dark Reading",
       "date": "2026-10-07T21:42:55+00:00"
-    },
-    {
-      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-      "source": "BleepingComputer",
-      "date": "2026-10-07T21:28:54+00:00"
     },
     {
       "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
@@ -282,52 +324,10 @@
       "date": "2026-10-07T20:51:25+00:00"
     },
     {
-      "title": "Hackers hijack Google domains after breaching ccTLD registries",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-      "source": "BleepingComputer",
-      "date": "2026-10-07T20:50:13+00:00"
-    },
-    {
       "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
       "source": "Dark Reading",
       "date": "2026-10-07T19:34:08+00:00"
-    },
-    {
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "source": "The Hacker News",
-      "date": "2026-10-07T18:48:17+00:00"
-    },
-    {
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "source": "The Hacker News",
-      "date": "2026-10-07T17:43:20+00:00"
-    },
-    {
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "source": "The Hacker News",
-      "date": "2026-10-07T16:17:44+00:00"
-    },
-    {
-      "title": "Microsoft Outlook to block MSIX attachments starting November",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-07T15:44:22+00:00"
-    },
-    {
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "source": "The Hacker News",
-      "date": "2026-10-07T15:34:53+00:00"
-    },
-    {
-      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-07T15:33:51+00:00"
     },
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
