@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T18:02:33.415189+00:00",
+  "updated": "2026-10-09T23:03:33.702118+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,48 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+      "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+      "source": "SecurityWeek",
+      "date": "2026-10-09T21:07:46+00:00"
+    },
+    {
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "source": "Dark Reading",
+      "date": "2026-10-09T20:58:32+00:00"
+    },
+    {
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-09T20:31:37+00:00"
+    },
+    {
+      "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "source": "Dark Reading",
+      "date": "2026-10-09T19:26:26+00:00"
+    },
+    {
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "source": "The Hacker News",
+      "date": "2026-10-09T19:14:28+00:00"
+    },
+    {
+      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+      "url": "https://therecord.media/japan-germany-ransomware-arrest",
+      "source": "The Record",
+      "date": "2026-10-09T18:45:00+00:00"
+    },
+    {
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "source": "The Hacker News",
+      "date": "2026-10-09T17:45:26+00:00"
+    },
     {
       "title": "What We Missed: FBI Strikes Back at ShinyHunters",
       "url": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
@@ -76,12 +118,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
       "source": "BleepingComputer",
       "date": "2026-10-09T14:01:11+00:00"
-    },
-    {
-      "title": "OpenAI says it disrupted Russian and Iranian influence ops that used ChatGPT",
-      "url": "https://therecord.media/openai-disrupts-russian-iranian-operations-chatgpt",
-      "source": "The Record",
-      "date": "2026-10-09T13:50:00+00:00"
     },
     {
       "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
@@ -288,34 +324,10 @@
       "date": "2026-10-08T17:10:55+00:00"
     },
     {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "source": "The Hacker News",
-      "date": "2026-10-08T15:45:56+00:00"
-    },
-    {
-      "title": "Cisco Patches a Dozen Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-10-08T15:28:06+00:00"
-    },
-    {
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "source": "The Hacker News",
-      "date": "2026-10-08T15:26:56+00:00"
-    },
-    {
       "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
       "source": "BleepingComputer",
       "date": "2026-10-08T15:26:33+00:00"
-    },
-    {
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "source": "BleepingComputer",
-      "date": "2026-10-08T14:00:10+00:00"
     },
     {
       "title": "Writing the Next Chapter",
@@ -364,18 +376,6 @@
       "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
       "source": "Dark Reading",
       "date": "2026-10-06T20:30:27+00:00"
-    },
-    {
-      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
-      "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
-      "source": "Dark Reading",
-      "date": "2026-10-06T17:56:29+00:00"
-    },
-    {
-      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
-      "source": "Dark Reading",
-      "date": "2026-10-06T17:15:24+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
