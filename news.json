@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:40:36.438772+00:00",
+  "updated": "2026-10-10T10:58:19.425641+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "source": "The Hacker News",
+      "date": "2026-10-10T09:18:45+00:00"
+    },
     {
       "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -316,12 +322,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
       "source": "Dark Reading",
       "date": "2026-10-08T18:01:50+00:00"
-    },
-    {
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "source": "The Hacker News",
-      "date": "2026-10-08T17:58:02+00:00"
     },
     {
       "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
