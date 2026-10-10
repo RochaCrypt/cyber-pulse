@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T10:58:19.425641+00:00",
+  "updated": "2026-10-10T16:10:38.193893+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,13 +12,43 @@
   ],
   "items": [
     {
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "source": "BleepingComputer",
+      "date": "2026-10-10T15:07:54+00:00"
+    },
+    {
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-10T14:16:17+00:00"
+    },
+    {
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "source": "BleepingComputer",
+      "date": "2026-10-10T12:30:39+00:00"
+    },
+    {
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "source": "The Hacker News",
+      "date": "2026-10-10T11:00:00+00:00"
+    },
+    {
+      "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+      "url": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+      "source": "SecurityWeek",
+      "date": "2026-10-10T11:00:00+00:00"
+    },
+    {
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
       "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
       "source": "The Hacker News",
       "date": "2026-10-10T09:18:45+00:00"
     },
     {
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "source": "Krebs on Security",
       "date": "2026-10-10T00:17:42+00:00"
@@ -276,12 +306,6 @@
       "date": "2026-10-09T05:41:04+00:00"
     },
     {
-      "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
-      "url": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T04:12:38+00:00"
-    },
-    {
       "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
       "source": "BleepingComputer",
@@ -300,40 +324,16 @@
       "date": "2026-10-08T20:09:45+00:00"
     },
     {
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "source": "BleepingComputer",
-      "date": "2026-10-08T19:20:33+00:00"
-    },
-    {
       "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
       "source": "Dark Reading",
       "date": "2026-10-08T19:08:16+00:00"
     },
     {
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "source": "The Hacker News",
-      "date": "2026-10-08T18:32:21+00:00"
-    },
-    {
       "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
       "source": "Dark Reading",
       "date": "2026-10-08T18:01:50+00:00"
-    },
-    {
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "source": "BleepingComputer",
-      "date": "2026-10-08T17:10:55+00:00"
-    },
-    {
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "source": "BleepingComputer",
-      "date": "2026-10-08T15:26:33+00:00"
     },
     {
       "title": "Writing the Next Chapter",
