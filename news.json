@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T13:48:26.021930+00:00",
+  "updated": "2026-10-11T18:38:39.409622+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "source": "BleepingComputer",
+      "date": "2026-10-11T14:23:46+00:00"
+    },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
       "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
@@ -316,12 +322,6 @@
       "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
       "source": "Dark Reading",
       "date": "2026-10-08T20:39:44+00:00"
-    },
-    {
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "source": "BleepingComputer",
-      "date": "2026-10-08T20:09:45+00:00"
     },
     {
       "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
