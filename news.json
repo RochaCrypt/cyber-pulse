@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:06:58.845161+00:00",
+  "updated": "2026-10-11T06:51:16.256288+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "source": "The Hacker News",
+      "date": "2026-10-11T04:24:34+00:00"
+    },
     {
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
       "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
@@ -112,12 +118,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
       "source": "BleepingComputer",
       "date": "2026-10-09T17:02:29+00:00"
-    },
-    {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T16:29:55+00:00"
     },
     {
       "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
