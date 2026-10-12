@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T02:06:37.621666+00:00",
+  "updated": "2026-10-12T10:20:29.865203+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,30 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "source": "The Hacker News",
+      "date": "2026-10-12T09:02:14+00:00"
+    },
+    {
+      "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
+      "url": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
+      "source": "SecurityWeek",
+      "date": "2026-10-12T08:36:01+00:00"
+    },
+    {
+      "title": "Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch",
+      "url": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
+      "source": "SecurityWeek",
+      "date": "2026-10-12T07:53:28+00:00"
+    },
+    {
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "source": "The Hacker News",
+      "date": "2026-10-12T07:26:12+00:00"
+    },
     {
       "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
       "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
@@ -280,30 +304,6 @@
       "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
       "source": "SecurityWeek",
       "date": "2026-10-09T08:19:33+00:00"
-    },
-    {
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T08:11:33+00:00"
-    },
-    {
-      "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
-      "url": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T06:53:53+00:00"
-    },
-    {
-      "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
-      "url": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T06:39:55+00:00"
-    },
-    {
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T06:39:29+00:00"
     },
     {
       "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
