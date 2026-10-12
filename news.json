@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:20:29.865203+00:00",
+  "updated": "2026-10-12T20:08:30.564606+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,132 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "source": "BleepingComputer",
+      "date": "2026-10-12T19:23:01+00:00"
+    },
+    {
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "source": "BleepingComputer",
+      "date": "2026-10-12T18:51:59+00:00"
+    },
+    {
+      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
+      "source": "Dark Reading",
+      "date": "2026-10-12T18:27:25+00:00"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "source": "BleepingComputer",
+      "date": "2026-10-12T16:27:23+00:00"
+    },
+    {
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "source": "BleepingComputer",
+      "date": "2026-10-12T15:23:34+00:00"
+    },
+    {
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "source": "The Hacker News",
+      "date": "2026-10-12T15:16:26+00:00"
+    },
+    {
+      "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
+      "url": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
+      "source": "SecurityWeek",
+      "date": "2026-10-12T14:25:00+00:00"
+    },
+    {
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "source": "BleepingComputer",
+      "date": "2026-10-12T14:00:10+00:00"
+    },
+    {
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "source": "BleepingComputer",
+      "date": "2026-10-12T13:51:07+00:00"
+    },
+    {
+      "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
+      "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
+      "source": "SecurityWeek",
+      "date": "2026-10-12T13:14:37+00:00"
+    },
+    {
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "source": "BleepingComputer",
+      "date": "2026-10-12T13:09:09+00:00"
+    },
+    {
+      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
+      "url": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
+      "source": "Dark Reading",
+      "date": "2026-10-12T12:30:58+00:00"
+    },
+    {
+      "title": "Ukraine strikes third Yandex data center, disrupting digital services across Russia",
+      "url": "https://therecord.media/ukraine-strikes-third-yandex-data-center",
+      "source": "The Record",
+      "date": "2026-10-12T12:00:00+00:00"
+    },
+    {
+      "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
+      "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
+      "source": "SecurityWeek",
+      "date": "2026-10-12T11:58:39+00:00"
+    },
+    {
+      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "source": "BleepingComputer",
+      "date": "2026-10-12T11:58:33+00:00"
+    },
+    {
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "source": "The Hacker News",
+      "date": "2026-10-12T11:55:00+00:00"
+    },
+    {
+      "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
+      "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
+      "source": "SecurityWeek",
+      "date": "2026-10-12T11:24:50+00:00"
+    },
+    {
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "source": "The Hacker News",
+      "date": "2026-10-12T11:21:48+00:00"
+    },
+    {
+      "title": "iRhythm Data Breach Impacts at Least 360,000 People",
+      "url": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
+      "source": "SecurityWeek",
+      "date": "2026-10-12T11:05:43+00:00"
+    },
+    {
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-10-12T10:36:56+00:00"
+    },
+    {
+      "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
+      "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
+      "source": "SecurityWeek",
+      "date": "2026-10-12T10:32:05+00:00"
+    },
     {
       "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
@@ -34,6 +160,12 @@
       "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
       "source": "The Hacker News",
       "date": "2026-10-12T07:26:12+00:00"
+    },
+    {
+      "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets",
+      "url": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
+      "source": "The Record",
+      "date": "2026-10-11T23:00:00+00:00"
     },
     {
       "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
@@ -168,30 +300,6 @@
       "date": "2026-10-09T16:06:00+00:00"
     },
     {
-      "title": "FBI touts another ShinyHunters arrest in response to data breach",
-      "url": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
-      "source": "The Record",
-      "date": "2026-10-09T15:41:00+00:00"
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T15:38:56+00:00"
-    },
-    {
-      "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
-      "url": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
-      "source": "The Record",
-      "date": "2026-10-09T14:40:00+00:00"
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T14:01:11+00:00"
-    },
-    {
       "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
       "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
       "source": "The Hacker News",
@@ -220,102 +328,6 @@
       "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
       "source": "The Hacker News",
       "date": "2026-10-09T12:47:26+00:00"
-    },
-    {
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T12:32:16+00:00"
-    },
-    {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T12:21:51+00:00"
-    },
-    {
-      "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
-      "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T12:03:50+00:00"
-    },
-    {
-      "title": "Google Domains Impacted by Recent ccTLD Hijacks",
-      "url": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T11:43:14+00:00"
-    },
-    {
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T11:30:00+00:00"
-    },
-    {
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T11:14:28+00:00"
-    },
-    {
-      "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
-      "url": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T10:23:42+00:00"
-    },
-    {
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T10:12:24+00:00"
-    },
-    {
-      "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
-      "url": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T09:55:35+00:00"
-    },
-    {
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T09:03:24+00:00"
-    },
-    {
-      "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
-      "url": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T08:36:37+00:00"
-    },
-    {
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T08:27:42+00:00"
-    },
-    {
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T08:26:17+00:00"
-    },
-    {
-      "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
-      "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T08:19:33+00:00"
-    },
-    {
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T05:41:04+00:00"
-    },
-    {
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "source": "BleepingComputer",
-      "date": "2026-10-08T21:42:51+00:00"
     },
     {
       "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
@@ -370,18 +382,6 @@
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "source": "Krebs on Security",
       "date": "2026-10-07T13:48:45+00:00"
-    },
-    {
-      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
-      "source": "Dark Reading",
-      "date": "2026-10-06T20:32:58+00:00"
-    },
-    {
-      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
-      "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
-      "source": "Dark Reading",
-      "date": "2026-10-06T20:30:27+00:00"
     },
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
