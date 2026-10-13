@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:11:01.814894+00:00",
+  "updated": "2026-10-13T17:58:07.526637+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,7 +12,145 @@
   ],
   "items": [
     {
-      "title": "Cyberattack Prompts Ahold Delhaize to Disconnect Systems",
+      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+      "source": "BleepingComputer",
+      "date": "2026-10-13T17:49:38+00:00"
+    },
+    {
+      "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+      "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T17:14:42+00:00"
+    },
+    {
+      "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+      "url": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "source": "BleepingComputer",
+      "date": "2026-10-13T16:44:18+00:00"
+    },
+    {
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T16:18:18+00:00"
+    },
+    {
+      "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
+      "url": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
+      "source": "The Record",
+      "date": "2026-10-13T16:18:00+00:00"
+    },
+    {
+      "title": "West African scam compounds raided, more than 100 suspected trafficking victims ‘rescued’",
+      "url": "https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us",
+      "source": "The Record",
+      "date": "2026-10-13T16:05:00+00:00"
+    },
+    {
+      "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+      "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T16:01:00+00:00"
+    },
+    {
+      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-13T15:45:50+00:00"
+    },
+    {
+      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
+      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "source": "BleepingComputer",
+      "date": "2026-10-13T15:20:20+00:00"
+    },
+    {
+      "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
+      "url": "https://therecord.media/north-korea-hackers-russia-ukraine",
+      "source": "The Record",
+      "date": "2026-10-13T15:15:00+00:00"
+    },
+    {
+      "title": "The MFA Gaps Attackers are Still Exploiting",
+      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+      "source": "BleepingComputer",
+      "date": "2026-10-13T14:01:11+00:00"
+    },
+    {
+      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+      "source": "BleepingComputer",
+      "date": "2026-10-13T13:51:02+00:00"
+    },
+    {
+      "title": "Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers",
+      "url": "https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos",
+      "source": "The Record",
+      "date": "2026-10-13T13:20:00+00:00"
+    },
+    {
+      "title": "Ledger says hardware implant in cryptocurrency wallets stole recovery phrases",
+      "url": "https://therecord.media/ledger-cryptocurrency-wallet-implant-theft",
+      "source": "The Record",
+      "date": "2026-10-13T13:18:00+00:00"
+    },
+    {
+      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T13:12:32+00:00"
+    },
+    {
+      "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
+      "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T11:58:29+00:00"
+    },
+    {
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T11:57:06+00:00"
+    },
+    {
+      "title": "XWorm RAT Evolves Into Surveillance Platform",
+      "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T11:13:10+00:00"
+    },
+    {
+      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T11:09:10+00:00"
+    },
+    {
+      "title": "AI Turns Familiar Cyberattacks Into a Race Against Time",
+      "url": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T11:00:00+00:00"
+    },
+    {
+      "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
+      "url": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T10:36:05+00:00"
+    },
+    {
+      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+      "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T10:30:00+00:00"
+    },
+    {
+      "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
       "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
       "source": "SecurityWeek",
       "date": "2026-10-13T09:37:12+00:00"
@@ -120,12 +258,6 @@
       "date": "2026-10-12T13:51:07+00:00"
     },
     {
-      "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
-      "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
-      "source": "SecurityWeek",
-      "date": "2026-10-12T13:14:37+00:00"
-    },
-    {
       "title": "GitLab warns of max severity code execution vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "source": "BleepingComputer",
@@ -136,18 +268,6 @@
       "url": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
       "source": "Dark Reading",
       "date": "2026-10-12T12:30:58+00:00"
-    },
-    {
-      "title": "Ukraine strikes third Yandex data center, disrupting digital services across Russia",
-      "url": "https://therecord.media/ukraine-strikes-third-yandex-data-center",
-      "source": "The Record",
-      "date": "2026-10-12T12:00:00+00:00"
-    },
-    {
-      "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
-      "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-      "source": "SecurityWeek",
-      "date": "2026-10-12T11:58:39+00:00"
     },
     {
       "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
@@ -162,22 +282,10 @@
       "date": "2026-10-12T11:55:00+00:00"
     },
     {
-      "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
-      "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
-      "source": "SecurityWeek",
-      "date": "2026-10-12T11:24:50+00:00"
-    },
-    {
       "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
       "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
       "source": "The Hacker News",
       "date": "2026-10-12T11:21:48+00:00"
-    },
-    {
-      "title": "iRhythm Data Breach Impacts at Least 360,000 People",
-      "url": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
-      "source": "SecurityWeek",
-      "date": "2026-10-12T11:05:43+00:00"
     },
     {
       "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
@@ -186,82 +294,16 @@
       "date": "2026-10-12T10:36:56+00:00"
     },
     {
-      "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
-      "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
-      "source": "SecurityWeek",
-      "date": "2026-10-12T10:32:05+00:00"
-    },
-    {
       "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
       "source": "The Hacker News",
       "date": "2026-10-12T09:02:14+00:00"
     },
     {
-      "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
-      "url": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
-      "source": "SecurityWeek",
-      "date": "2026-10-12T08:36:01+00:00"
-    },
-    {
-      "title": "Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch",
-      "url": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
-      "source": "SecurityWeek",
-      "date": "2026-10-12T07:53:28+00:00"
-    },
-    {
       "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
       "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
       "source": "The Hacker News",
       "date": "2026-10-12T07:26:12+00:00"
-    },
-    {
-      "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets",
-      "url": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
-      "source": "The Record",
-      "date": "2026-10-11T23:00:00+00:00"
-    },
-    {
-      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-      "source": "BleepingComputer",
-      "date": "2026-10-11T14:23:46+00:00"
-    },
-    {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "source": "The Hacker News",
-      "date": "2026-10-11T04:24:34+00:00"
-    },
-    {
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "source": "BleepingComputer",
-      "date": "2026-10-10T15:07:54+00:00"
-    },
-    {
-      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-10T14:16:17+00:00"
-    },
-    {
-      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "source": "BleepingComputer",
-      "date": "2026-10-10T12:30:39+00:00"
-    },
-    {
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "source": "The Hacker News",
-      "date": "2026-10-10T11:00:00+00:00"
-    },
-    {
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "source": "The Hacker News",
-      "date": "2026-10-10T09:18:45+00:00"
     },
     {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
@@ -276,34 +318,10 @@
       "date": "2026-10-09T20:58:32+00:00"
     },
     {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T20:31:37+00:00"
-    },
-    {
       "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
       "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
       "source": "Dark Reading",
       "date": "2026-10-09T19:26:26+00:00"
-    },
-    {
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T19:14:28+00:00"
-    },
-    {
-      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
-      "url": "https://therecord.media/japan-germany-ransomware-arrest",
-      "source": "The Record",
-      "date": "2026-10-09T18:45:00+00:00"
-    },
-    {
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T17:45:26+00:00"
     },
     {
       "title": "What We Missed: FBI Strikes Back at ShinyHunters",
@@ -312,28 +330,10 @@
       "date": "2026-10-09T17:21:00+00:00"
     },
     {
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T17:17:23+00:00"
-    },
-    {
       "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
       "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
       "source": "Dark Reading",
       "date": "2026-10-09T16:25:05+00:00"
-    },
-    {
-      "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
-      "url": "https://therecord.media/irhythm-data-breach-reports",
-      "source": "The Record",
-      "date": "2026-10-09T16:06:00+00:00"
-    },
-    {
-      "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
-      "url": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
-      "source": "The Record",
-      "date": "2026-10-09T16:06:00+00:00"
     },
     {
       "title": "Social Engineering AI Agents: The New BEC for 2026",
