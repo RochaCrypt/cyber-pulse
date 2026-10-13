@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T20:08:30.564606+00:00",
+  "updated": "2026-10-13T02:26:28.421814+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,24 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
+      "source": "Dark Reading",
+      "date": "2026-10-12T21:42:42+00:00"
+    },
+    {
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "source": "BleepingComputer",
+      "date": "2026-10-12T20:13:52+00:00"
+    },
+    {
+      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
+      "url": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
+      "source": "Dark Reading",
+      "date": "2026-10-12T20:00:53+00:00"
+    },
     {
       "title": "Yandex confirms service outage as users lose access to cloud files",
       "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
@@ -276,12 +294,6 @@
       "date": "2026-10-09T17:17:23+00:00"
     },
     {
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T17:02:29+00:00"
-    },
-    {
       "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
       "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
       "source": "Dark Reading",
@@ -364,18 +376,6 @@
       "url": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
       "source": "Dark Reading",
       "date": "2026-10-07T21:25:13+00:00"
-    },
-    {
-      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
-      "source": "Dark Reading",
-      "date": "2026-10-07T20:51:25+00:00"
-    },
-    {
-      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
-      "source": "Dark Reading",
-      "date": "2026-10-07T19:34:08+00:00"
     },
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
