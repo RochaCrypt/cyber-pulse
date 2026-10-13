@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T02:26:28.421814+00:00",
+  "updated": "2026-10-13T10:11:01.814894+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,42 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Cyberattack Prompts Ahold Delhaize to Disconnect Systems",
+      "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T09:37:12+00:00"
+    },
+    {
+      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T08:48:41+00:00"
+    },
+    {
+      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+      "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T08:44:01+00:00"
+    },
+    {
+      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T08:43:37+00:00"
+    },
+    {
+      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
+      "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T08:28:51+00:00"
+    },
+    {
+      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T06:00:11+00:00"
+    },
     {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
       "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
@@ -222,12 +258,6 @@
       "date": "2026-10-10T11:00:00+00:00"
     },
     {
-      "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
-      "url": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
-      "source": "SecurityWeek",
-      "date": "2026-10-10T11:00:00+00:00"
-    },
-    {
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
       "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
       "source": "The Hacker News",
@@ -238,12 +268,6 @@
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "source": "Krebs on Security",
       "date": "2026-10-10T00:17:42+00:00"
-    },
-    {
-      "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
-      "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T21:07:46+00:00"
     },
     {
       "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
@@ -312,34 +336,10 @@
       "date": "2026-10-09T16:06:00+00:00"
     },
     {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T13:22:53+00:00"
-    },
-    {
       "title": "Social Engineering AI Agents: The New BEC for 2026",
       "url": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
       "source": "Dark Reading",
       "date": "2026-10-09T13:00:00+00:00"
-    },
-    {
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T12:59:22+00:00"
-    },
-    {
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T12:47:28+00:00"
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T12:47:26+00:00"
     },
     {
       "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
