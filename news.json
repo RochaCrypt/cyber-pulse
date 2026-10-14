@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T01:38:06.508400+00:00",
+  "updated": "2026-10-14T07:10:59.832684+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,36 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
+      "url": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-10-14T06:12:10+00:00"
+    },
+    {
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "source": "The Hacker News",
+      "date": "2026-10-14T05:52:28+00:00"
+    },
+    {
+      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+      "source": "Dark Reading",
+      "date": "2026-10-14T05:00:00+00:00"
+    },
+    {
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "source": "The Hacker News",
+      "date": "2026-10-14T04:34:43+00:00"
+    },
+    {
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "source": "The Hacker News",
+      "date": "2026-10-14T01:59:25+00:00"
+    },
     {
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
@@ -132,7 +162,7 @@
       "date": "2026-10-13T17:28:50+00:00"
     },
     {
-      "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+      "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
       "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
       "source": "SecurityWeek",
       "date": "2026-10-13T17:14:42+00:00"
@@ -252,12 +282,6 @@
       "date": "2026-10-13T10:30:00+00:00"
     },
     {
-      "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
-      "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-      "source": "SecurityWeek",
-      "date": "2026-10-13T09:37:12+00:00"
-    },
-    {
       "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
       "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
       "source": "The Hacker News",
@@ -274,12 +298,6 @@
       "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
       "source": "The Hacker News",
       "date": "2026-10-13T08:43:37+00:00"
-    },
-    {
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13T06:00:11+00:00"
     },
     {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
@@ -312,22 +330,10 @@
       "date": "2026-10-12T18:27:25+00:00"
     },
     {
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "source": "The Hacker News",
-      "date": "2026-10-12T15:16:26+00:00"
-    },
-    {
       "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
       "url": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
       "source": "Dark Reading",
       "date": "2026-10-12T12:30:58+00:00"
-    },
-    {
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "source": "The Hacker News",
-      "date": "2026-10-12T11:55:00+00:00"
     },
     {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
@@ -376,12 +382,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
       "source": "Dark Reading",
       "date": "2026-10-08T19:08:16+00:00"
-    },
-    {
-      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-      "source": "Dark Reading",
-      "date": "2026-10-08T18:01:50+00:00"
     },
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
