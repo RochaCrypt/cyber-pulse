@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T22:35:23.401432+00:00",
+  "updated": "2026-10-14T01:38:06.508400+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,10 +12,28 @@
   ],
   "items": [
     {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "source": "Krebs on Security",
+      "date": "2026-10-13T23:24:53+00:00"
+    },
+    {
+      "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+      "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T23:07:00+00:00"
+    },
+    {
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
       "source": "BleepingComputer",
       "date": "2026-10-13T22:33:02+00:00"
+    },
+    {
+      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+      "source": "Dark Reading",
+      "date": "2026-10-13T22:29:57+00:00"
     },
     {
       "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
@@ -258,12 +276,6 @@
       "date": "2026-10-13T08:43:37+00:00"
     },
     {
-      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-      "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-      "source": "SecurityWeek",
-      "date": "2026-10-13T08:28:51+00:00"
-    },
-    {
       "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
       "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
       "source": "The Hacker News",
@@ -372,12 +384,6 @@
       "date": "2026-10-08T18:01:50+00:00"
     },
     {
-      "title": "Writing the Next Chapter",
-      "url": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-      "source": "Dark Reading",
-      "date": "2026-10-08T12:00:00+00:00"
-    },
-    {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "source": "Krebs on Security",
@@ -424,12 +430,6 @@
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
       "source": "Krebs on Security",
       "date": "2026-08-14T11:24:35+00:00"
-    },
-    {
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "source": "Krebs on Security",
-      "date": "2026-08-11T21:28:35+00:00"
     }
   ]
 }
