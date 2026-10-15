@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T18:02:28.649554+00:00",
+  "updated": "2026-10-15T21:58:18.409509+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,54 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+      "url": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+      "source": "The Record",
+      "date": "2026-10-15T20:46:00+00:00"
+    },
+    {
+      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
+      "url": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+      "source": "Dark Reading",
+      "date": "2026-10-15T20:43:20+00:00"
+    },
+    {
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "source": "BleepingComputer",
+      "date": "2026-10-15T20:25:04+00:00"
+    },
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "source": "The Hacker News",
+      "date": "2026-10-15T20:24:36+00:00"
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "source": "BleepingComputer",
+      "date": "2026-10-15T19:48:43+00:00"
+    },
+    {
+      "title": "Zero-click spyware infecting devices through online ads, researchers say",
+      "url": "https://therecord.media/spyware-citizen-lab-advertising",
+      "source": "The Record",
+      "date": "2026-10-15T19:00:00+00:00"
+    },
+    {
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "source": "The Hacker News",
+      "date": "2026-10-15T18:49:33+00:00"
+    },
+    {
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "source": "BleepingComputer",
+      "date": "2026-10-15T18:20:59+00:00"
+    },
     {
       "title": "Context Is King in the Fight Against Modern Cyberattacks",
       "url": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
@@ -228,22 +276,10 @@
       "date": "2026-10-14T21:20:13+00:00"
     },
     {
-      "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
-      "url": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
-      "source": "The Record",
-      "date": "2026-10-14T21:10:00+00:00"
-    },
-    {
       "title": "Yam Store: The Phishing Network Behind a Billion Messages",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
       "source": "Dark Reading",
       "date": "2026-10-14T20:57:16+00:00"
-    },
-    {
-      "title": "Brooklyn DA’s office disrupts crypto scam targeting Russian community",
-      "url": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
-      "source": "The Record",
-      "date": "2026-10-14T20:33:00+00:00"
     },
     {
       "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
@@ -258,22 +294,10 @@
       "date": "2026-10-14T19:41:43+00:00"
     },
     {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "source": "The Hacker News",
-      "date": "2026-10-14T18:38:56+00:00"
-    },
-    {
       "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
       "source": "BleepingComputer",
       "date": "2026-10-14T17:46:50+00:00"
-    },
-    {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "source": "The Hacker News",
-      "date": "2026-10-14T17:38:31+00:00"
     },
     {
       "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
@@ -300,28 +324,10 @@
       "date": "2026-10-14T14:00:10+00:00"
     },
     {
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "source": "BleepingComputer",
-      "date": "2026-10-14T13:12:52+00:00"
-    },
-    {
       "title": "Russian Influence Operation Widely Targets Latin America",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
       "source": "Dark Reading",
       "date": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "source": "BleepingComputer",
-      "date": "2026-10-14T12:58:07+00:00"
-    },
-    {
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-14T11:41:20+00:00"
     },
     {
       "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
@@ -382,12 +388,6 @@
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "source": "Krebs on Security",
       "date": "2026-10-10T00:17:42+00:00"
-    },
-    {
-      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
-      "source": "Dark Reading",
-      "date": "2026-10-09T20:58:32+00:00"
     },
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
