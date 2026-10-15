@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T01:14:44.708999+00:00",
+  "updated": "2026-10-15T07:03:01.733014+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,30 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
+      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+      "source": "Dark Reading",
+      "date": "2026-10-15T07:00:00+00:00"
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+      "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+      "source": "SecurityWeek",
+      "date": "2026-10-15T06:59:54+00:00"
+    },
+    {
+      "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
+      "url": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+      "source": "SecurityWeek",
+      "date": "2026-10-15T06:34:15+00:00"
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "source": "The Hacker News",
+      "date": "2026-10-15T06:17:58+00:00"
+    },
     {
       "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
@@ -246,18 +270,6 @@
       "date": "2026-10-14T07:26:35+00:00"
     },
     {
-      "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
-      "url": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
-      "source": "SecurityWeek",
-      "date": "2026-10-14T07:16:12+00:00"
-    },
-    {
-      "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
-      "url": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-10-14T06:12:10+00:00"
-    },
-    {
       "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
       "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
       "source": "The Hacker News",
@@ -336,12 +348,6 @@
       "date": "2026-10-13T19:47:30+00:00"
     },
     {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13T18:20:57+00:00"
-    },
-    {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
       "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
       "source": "Dark Reading",
@@ -382,12 +388,6 @@
       "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
       "source": "Dark Reading",
       "date": "2026-10-09T19:26:26+00:00"
-    },
-    {
-      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-      "url": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-      "source": "Dark Reading",
-      "date": "2026-10-09T17:21:00+00:00"
     },
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
