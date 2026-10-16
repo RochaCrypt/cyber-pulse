@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T10:51:18.329408+00:00",
+  "updated": "2026-10-16T15:15:34.498047+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,84 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
+      "url": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+      "source": "The Record",
+      "date": "2026-10-16T14:45:00+00:00"
+    },
+    {
+      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+      "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "source": "SecurityWeek",
+      "date": "2026-10-16T14:09:51+00:00"
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "source": "The Hacker News",
+      "date": "2026-10-16T14:03:04+00:00"
+    },
+    {
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "source": "Dark Reading",
+      "date": "2026-10-16T14:00:00+00:00"
+    },
+    {
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "source": "BleepingComputer",
+      "date": "2026-10-16T13:50:59+00:00"
+    },
+    {
+      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+      "url": "https://therecord.media/russia-datasuckers-hackers-arrested",
+      "source": "The Record",
+      "date": "2026-10-16T13:30:00+00:00"
+    },
+    {
+      "title": "Baltimore suburb confirms August data breach after ransomware claims",
+      "url": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+      "source": "The Record",
+      "date": "2026-10-16T13:05:00+00:00"
+    },
+    {
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "source": "Dark Reading",
+      "date": "2026-10-16T13:00:00+00:00"
+    },
+    {
+      "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
+      "url": "https://therecord.media/beyond-trust-cyberattack-china",
+      "source": "The Record",
+      "date": "2026-10-16T13:00:00+00:00"
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "source": "BleepingComputer",
+      "date": "2026-10-16T12:01:29+00:00"
+    },
+    {
+      "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+      "url": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+      "source": "SecurityWeek",
+      "date": "2026-10-16T11:46:40+00:00"
+    },
+    {
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "source": "The Hacker News",
+      "date": "2026-10-16T11:30:00+00:00"
+    },
+    {
+      "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+      "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+      "source": "SecurityWeek",
+      "date": "2026-10-16T10:53:22+00:00"
+    },
     {
       "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
       "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
@@ -114,12 +192,6 @@
       "date": "2026-10-15T19:48:43+00:00"
     },
     {
-      "title": "Zero-click spyware infecting devices through online ads, researchers say",
-      "url": "https://therecord.media/spyware-citizen-lab-advertising",
-      "source": "The Record",
-      "date": "2026-10-15T19:00:00+00:00"
-    },
-    {
       "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
       "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
       "source": "The Hacker News",
@@ -168,12 +240,6 @@
       "date": "2026-10-15T15:17:18+00:00"
     },
     {
-      "title": "UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978",
-      "url": "https://therecord.media/uk-legal-aid-cyberattack-data",
-      "source": "The Record",
-      "date": "2026-10-15T14:30:00+00:00"
-    },
-    {
       "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
       "url": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
       "source": "SecurityWeek",
@@ -192,12 +258,6 @@
       "date": "2026-10-15T14:01:11+00:00"
     },
     {
-      "title": "Suspected Kazakhstan-linked hackers target governments across former Soviet states",
-      "url": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
-      "source": "The Record",
-      "date": "2026-10-15T13:55:00+00:00"
-    },
-    {
       "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
       "source": "BleepingComputer",
@@ -208,12 +268,6 @@
       "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
       "source": "The Hacker News",
       "date": "2026-10-15T12:58:05+00:00"
-    },
-    {
-      "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-      "url": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "source": "SecurityWeek",
-      "date": "2026-10-15T12:50:42+00:00"
     },
     {
       "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
@@ -246,30 +300,6 @@
       "date": "2026-10-15T11:46:49+00:00"
     },
     {
-      "title": "CikaBika Bot RAT Uses Discord for C&C",
-      "url": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
-      "source": "SecurityWeek",
-      "date": "2026-10-15T11:25:58+00:00"
-    },
-    {
-      "title": "Why AI Confidence Is Not Validation",
-      "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15T11:04:35+00:00"
-    },
-    {
-      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-      "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15T10:42:16+00:00"
-    },
-    {
-      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
-      "url": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
-      "source": "SecurityWeek",
-      "date": "2026-10-15T10:15:32+00:00"
-    },
-    {
       "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
       "source": "BleepingComputer",
@@ -286,12 +316,6 @@
       "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
       "source": "Dark Reading",
       "date": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
-      "url": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
-      "source": "The Record",
-      "date": "2026-10-14T23:00:00+00:00"
     },
     {
       "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
@@ -316,18 +340,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
       "source": "Dark Reading",
       "date": "2026-10-14T20:09:42+00:00"
-    },
-    {
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "source": "BleepingComputer",
-      "date": "2026-10-14T19:41:43+00:00"
-    },
-    {
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "source": "BleepingComputer",
-      "date": "2026-10-14T17:46:50+00:00"
     },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -370,18 +382,6 @@
       "url": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
       "source": "Dark Reading",
       "date": "2026-10-13T20:35:23+00:00"
-    },
-    {
-      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "source": "Dark Reading",
-      "date": "2026-10-12T21:42:42+00:00"
-    },
-    {
-      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-      "url": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "source": "Dark Reading",
-      "date": "2026-10-12T20:00:53+00:00"
     },
     {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
