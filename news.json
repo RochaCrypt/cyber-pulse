@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T06:38:50.341375+00:00",
+  "updated": "2026-10-17T11:25:35.134443+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "source": "SecurityWeek",
+      "date": "2026-10-17T11:00:00+00:00"
+    },
     {
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
@@ -304,12 +310,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
       "source": "Dark Reading",
       "date": "2026-10-15T15:17:18+00:00"
-    },
-    {
-      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-      "url": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "source": "SecurityWeek",
-      "date": "2026-10-15T14:22:34+00:00"
     },
     {
       "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
