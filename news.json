@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T01:06:42.698219+00:00",
+  "updated": "2026-10-17T06:38:50.341375+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "source": "The Hacker News",
+      "date": "2026-10-17T06:16:46+00:00"
+    },
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
       "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
@@ -328,12 +334,6 @@
       "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
       "source": "The Hacker News",
       "date": "2026-10-15T12:58:05+00:00"
-    },
-    {
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15T12:28:13+00:00"
     },
     {
       "title": "Police arrests 95 suspects in international CSAM crackdown action",
