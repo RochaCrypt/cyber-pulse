@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T15:05:32.920865+00:00",
+  "updated": "2026-10-17T18:12:44.958726+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "source": "BleepingComputer",
+      "date": "2026-10-17T15:18:51+00:00"
+    },
     {
       "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
       "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
@@ -340,12 +346,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
       "source": "BleepingComputer",
       "date": "2026-10-15T13:18:36+00:00"
-    },
-    {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "source": "BleepingComputer",
-      "date": "2026-10-15T11:55:38+00:00"
     },
     {
       "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
