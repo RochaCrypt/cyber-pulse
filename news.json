@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:00:28.759468+00:00",
+  "updated": "2026-10-18T17:05:50.511761+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "source": "BleepingComputer",
+      "date": "2026-10-18T14:23:16+00:00"
+    },
     {
       "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
       "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
@@ -340,12 +346,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
       "source": "BleepingComputer",
       "date": "2026-10-15T14:01:11+00:00"
-    },
-    {
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "source": "BleepingComputer",
-      "date": "2026-10-15T13:18:36+00:00"
     },
     {
       "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
