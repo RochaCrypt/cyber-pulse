@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T08:36:45.924458+00:00",
+  "updated": "2026-10-18T13:00:28.759468+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "source": "SecurityWeek",
+      "date": "2026-10-18T11:00:00+00:00"
+    },
+    {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "source": "The Hacker News",
+      "date": "2026-10-18T08:23:02+00:00"
+    },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
@@ -306,12 +318,6 @@
       "date": "2026-10-15T17:12:31+00:00"
     },
     {
-      "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
-      "url": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-      "source": "SecurityWeek",
-      "date": "2026-10-15T16:51:34+00:00"
-    },
-    {
       "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
       "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
       "source": "The Hacker News",
@@ -328,12 +334,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
       "source": "Dark Reading",
       "date": "2026-10-15T15:17:18+00:00"
-    },
-    {
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15T14:11:36+00:00"
     },
     {
       "title": "Is AI pentesting as good as a human pentester?",
