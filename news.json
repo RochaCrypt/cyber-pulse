@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:04:14.976342+00:00",
+  "updated": "2026-10-19T23:22:18.078839+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,54 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "source": "BleepingComputer",
+      "date": "2026-10-19T21:49:48+00:00"
+    },
+    {
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "source": "BleepingComputer",
+      "date": "2026-10-19T21:24:51+00:00"
+    },
+    {
+      "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+      "url": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+      "source": "Dark Reading",
+      "date": "2026-10-19T21:13:41+00:00"
+    },
+    {
+      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+      "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+      "source": "Dark Reading",
+      "date": "2026-10-19T19:55:01+00:00"
+    },
+    {
+      "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
+      "url": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
+      "source": "The Record",
+      "date": "2026-10-19T19:49:00+00:00"
+    },
+    {
+      "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
+      "url": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
+      "source": "The Record",
+      "date": "2026-10-19T19:45:00+00:00"
+    },
+    {
+      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "source": "BleepingComputer",
+      "date": "2026-10-19T19:40:58+00:00"
+    },
+    {
+      "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+      "url": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+      "source": "Dark Reading",
+      "date": "2026-10-19T19:19:33+00:00"
+    },
     {
       "title": "Bullhorn takes staffing platform offline to contain cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
@@ -148,12 +196,6 @@
       "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
       "source": "The Hacker News",
       "date": "2026-10-19T11:50:00+00:00"
-    },
-    {
-      "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
-      "url": "https://therecord.media/russia-cyberattack-firstvds-cloud",
-      "source": "The Record",
-      "date": "2026-10-19T11:45:00+00:00"
     },
     {
       "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
@@ -300,12 +342,6 @@
       "date": "2026-10-16T16:16:44+00:00"
     },
     {
-      "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
-      "url": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
-      "source": "The Record",
-      "date": "2026-10-16T14:45:00+00:00"
-    },
-    {
       "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
       "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
       "source": "The Hacker News",
@@ -318,28 +354,10 @@
       "date": "2026-10-16T14:00:00+00:00"
     },
     {
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16T13:50:59+00:00"
-    },
-    {
       "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
       "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
       "source": "Dark Reading",
       "date": "2026-10-16T13:00:00+00:00"
-    },
-    {
-      "title": "Burger King Japan data breach exposes 11 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16T12:01:29+00:00"
-    },
-    {
-      "title": "Microsoft: October Windows update may break Smart App Control",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16T08:44:22+00:00"
     },
     {
       "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
@@ -358,24 +376,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
       "source": "Dark Reading",
       "date": "2026-10-15T20:43:20+00:00"
-    },
-    {
-      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-      "source": "Dark Reading",
-      "date": "2026-10-15T15:17:18+00:00"
-    },
-    {
-      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
-      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-      "source": "Dark Reading",
-      "date": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-      "source": "Dark Reading",
-      "date": "2026-10-14T21:20:13+00:00"
     },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
