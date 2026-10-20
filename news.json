@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T09:12:08.150023+00:00",
+  "updated": "2026-10-20T14:44:03.674362+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,156 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "DHS bans DeepSeek products across US federal civilian agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+      "source": "BleepingComputer",
+      "date": "2026-10-20T14:19:05+00:00"
+    },
+    {
+      "title": "AOMEI yet to notify customers after hackers hijacked its software updates",
+      "url": "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
+      "source": "The Record",
+      "date": "2026-10-20T14:11:00+00:00"
+    },
+    {
+      "title": "Anti-Putin messages disrupt nationwide school assessments in Russia",
+      "url": "https://therecord.media/anti-putin-messages-disrupt-russian-education-platform",
+      "source": "The Record",
+      "date": "2026-10-20T14:05:00+00:00"
+    },
+    {
+      "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
+      "url": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
+      "source": "SecurityWeek",
+      "date": "2026-10-20T13:51:01+00:00"
+    },
+    {
+      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "source": "BleepingComputer",
+      "date": "2026-10-20T13:51:00+00:00"
+    },
+    {
+      "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
+      "url": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
+      "source": "SecurityWeek",
+      "date": "2026-10-20T13:34:23+00:00"
+    },
+    {
+      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+      "source": "BleepingComputer",
+      "date": "2026-10-20T13:18:36+00:00"
+    },
+    {
+      "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
+      "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
+      "source": "SecurityWeek",
+      "date": "2026-10-20T13:02:18+00:00"
+    },
+    {
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T12:59:44+00:00"
+    },
+    {
+      "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
+      "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
+      "source": "SecurityWeek",
+      "date": "2026-10-20T12:47:22+00:00"
+    },
+    {
+      "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
+      "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
+      "source": "SecurityWeek",
+      "date": "2026-10-20T12:33:12+00:00"
+    },
+    {
+      "title": "Windows Server 2025 gets support for quick machine recovery",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+      "source": "BleepingComputer",
+      "date": "2026-10-20T12:16:32+00:00"
+    },
+    {
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T11:41:06+00:00"
+    },
+    {
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T11:33:04+00:00"
+    },
+    {
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T11:32:59+00:00"
+    },
+    {
+      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "source": "BleepingComputer",
+      "date": "2026-10-20T11:31:22+00:00"
+    },
+    {
+      "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
+      "url": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
+      "source": "SecurityWeek",
+      "date": "2026-10-20T11:30:18+00:00"
+    },
+    {
+      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+      "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+      "source": "BleepingComputer",
+      "date": "2026-10-20T11:18:35+00:00"
+    },
+    {
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T11:06:25+00:00"
+    },
+    {
+      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T10:56:08+00:00"
+    },
+    {
+      "title": "Hackers Steal 1.8 Million Records From Nikkei",
+      "url": "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
+      "source": "SecurityWeek",
+      "date": "2026-10-20T10:35:18+00:00"
+    },
+    {
+      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
+      "url": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
+      "source": "The Record",
+      "date": "2026-10-20T10:00:00+00:00"
+    },
+    {
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "source": "BleepingComputer",
+      "date": "2026-10-20T09:46:44+00:00"
+    },
+    {
+      "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
+      "url": "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/",
+      "source": "SecurityWeek",
+      "date": "2026-10-20T09:33:49+00:00"
+    },
+    {
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T08:21:29+00:00"
+    },
     {
       "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
       "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
@@ -84,12 +234,6 @@
       "date": "2026-10-19T18:51:13+00:00"
     },
     {
-      "title": "Two more Serbian opposition figures targeted with spyware, researchers say",
-      "url": "https://therecord.media/serbia-spyware-pegasus-elections",
-      "source": "The Record",
-      "date": "2026-10-19T18:45:00+00:00"
-    },
-    {
       "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
       "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
       "source": "SecurityWeek",
@@ -108,34 +252,16 @@
       "date": "2026-10-19T17:27:15+00:00"
     },
     {
-      "title": "Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands",
-      "url": "https://therecord.media/ahold-delhaize-cyberattack-grocery",
-      "source": "The Record",
-      "date": "2026-10-19T16:45:00+00:00"
-    },
-    {
       "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
       "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
       "source": "The Hacker News",
       "date": "2026-10-19T16:28:47+00:00"
     },
     {
-      "title": "Russian social media giant VK faces disruptions after data center drone strike",
-      "url": "https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center",
-      "source": "The Record",
-      "date": "2026-10-19T15:55:00+00:00"
-    },
-    {
       "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
       "url": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
       "source": "SecurityWeek",
       "date": "2026-10-19T15:47:50+00:00"
-    },
-    {
-      "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack",
-      "url": "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/",
-      "source": "SecurityWeek",
-      "date": "2026-10-19T15:20:53+00:00"
     },
     {
       "title": "Microsoft fixes game, app crashes caused by recent Windows update",
@@ -180,34 +306,10 @@
       "date": "2026-10-19T13:48:56+00:00"
     },
     {
-      "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
-      "url": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
-      "source": "SecurityWeek",
-      "date": "2026-10-19T13:16:20+00:00"
-    },
-    {
       "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
       "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
       "source": "The Hacker News",
       "date": "2026-10-19T13:05:45+00:00"
-    },
-    {
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19T12:44:44+00:00"
-    },
-    {
-      "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
-      "url": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
-      "source": "SecurityWeek",
-      "date": "2026-10-19T12:44:39+00:00"
-    },
-    {
-      "title": "One Compromised Login Exposed Millions of California Students’ Records",
-      "url": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
-      "source": "SecurityWeek",
-      "date": "2026-10-19T11:55:50+00:00"
     },
     {
       "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
@@ -216,100 +318,10 @@
       "date": "2026-10-19T11:50:00+00:00"
     },
     {
-      "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
-      "url": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
-      "source": "SecurityWeek",
-      "date": "2026-10-19T11:13:23+00:00"
-    },
-    {
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19T10:06:40+00:00"
-    },
-    {
-      "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
-      "url": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-19T09:37:04+00:00"
-    },
-    {
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19T08:58:41+00:00"
-    },
-    {
-      "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
-      "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
-      "source": "SecurityWeek",
-      "date": "2026-10-19T07:45:25+00:00"
-    },
-    {
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19T06:29:44+00:00"
-    },
-    {
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19T06:07:08+00:00"
-    },
-    {
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "source": "BleepingComputer",
-      "date": "2026-10-18T14:23:16+00:00"
-    },
-    {
-      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
-      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
-      "source": "SecurityWeek",
-      "date": "2026-10-18T11:00:00+00:00"
-    },
-    {
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "source": "The Hacker News",
-      "date": "2026-10-18T08:23:02+00:00"
-    },
-    {
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "source": "BleepingComputer",
-      "date": "2026-10-17T15:18:51+00:00"
-    },
-    {
-      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-      "source": "BleepingComputer",
-      "date": "2026-10-17T14:32:48+00:00"
-    },
-    {
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "source": "The Hacker News",
-      "date": "2026-10-17T11:11:56+00:00"
-    },
-    {
-      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "source": "The Hacker News",
-      "date": "2026-10-17T06:16:46+00:00"
-    },
-    {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
       "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
       "source": "Dark Reading",
       "date": "2026-10-16T20:34:37+00:00"
-    },
-    {
-      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16T20:00:59+00:00"
     },
     {
       "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
@@ -334,18 +346,6 @@
       "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
       "source": "Dark Reading",
       "date": "2026-10-16T18:37:50+00:00"
-    },
-    {
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "source": "The Hacker News",
-      "date": "2026-10-16T17:48:45+00:00"
-    },
-    {
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16T17:20:03+00:00"
     },
     {
       "title": "When Your Ransomware Negotiator Works for the Other Side",
