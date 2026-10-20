@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:44:03.674362+00:00",
+  "updated": "2026-10-20T18:57:56.301062+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,6 +12,66 @@
   ],
   "items": [
     {
+      "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
+      "url": "https://therecord.media/23andme-california-data-breach-settlement",
+      "source": "The Record",
+      "date": "2026-10-20T18:32:00+00:00"
+    },
+    {
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "source": "BleepingComputer",
+      "date": "2026-10-20T18:11:03+00:00"
+    },
+    {
+      "title": "Nigerian national given 8-year sentence for tax business hacks",
+      "url": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
+      "source": "The Record",
+      "date": "2026-10-20T17:14:00+00:00"
+    },
+    {
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T17:09:53+00:00"
+    },
+    {
+      "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
+      "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+      "source": "SecurityWeek",
+      "date": "2026-10-20T15:45:00+00:00"
+    },
+    {
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T15:38:52+00:00"
+    },
+    {
+      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
+      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+      "source": "Dark Reading",
+      "date": "2026-10-20T15:35:45+00:00"
+    },
+    {
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T15:32:27+00:00"
+    },
+    {
+      "title": "EU cyber law won’t force fixes for fridge controllers hit in French attack",
+      "url": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
+      "source": "The Record",
+      "date": "2026-10-20T14:55:00+00:00"
+    },
+    {
+      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+      "source": "Dark Reading",
+      "date": "2026-10-20T14:36:05+00:00"
+    },
+    {
       "title": "DHS bans DeepSeek products across US federal civilian agencies",
       "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
       "source": "BleepingComputer",
@@ -22,6 +82,12 @@
       "url": "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
       "source": "The Record",
       "date": "2026-10-20T14:11:00+00:00"
+    },
+    {
+      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20T14:07:17+00:00"
     },
     {
       "title": "Anti-Putin messages disrupt nationwide school assessments in Russia",
@@ -138,12 +204,6 @@
       "date": "2026-10-20T10:35:18+00:00"
     },
     {
-      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
-      "url": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
-      "source": "The Record",
-      "date": "2026-10-20T10:00:00+00:00"
-    },
-    {
       "title": "Revolut outage disrupts online banking operations worldwide",
       "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "source": "BleepingComputer",
@@ -204,18 +264,6 @@
       "date": "2026-10-19T19:55:01+00:00"
     },
     {
-      "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
-      "url": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
-      "source": "The Record",
-      "date": "2026-10-19T19:49:00+00:00"
-    },
-    {
-      "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
-      "url": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
-      "source": "The Record",
-      "date": "2026-10-19T19:45:00+00:00"
-    },
-    {
       "title": "Hackers hijack AOMEI update servers to secretly spread malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
       "source": "BleepingComputer",
@@ -252,18 +300,6 @@
       "date": "2026-10-19T17:27:15+00:00"
     },
     {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19T16:28:47+00:00"
-    },
-    {
-      "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
-      "url": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
-      "source": "SecurityWeek",
-      "date": "2026-10-19T15:47:50+00:00"
-    },
-    {
       "title": "Microsoft fixes game, app crashes caused by recent Windows update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
       "source": "BleepingComputer",
@@ -274,12 +310,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
       "source": "Dark Reading",
       "date": "2026-10-19T14:28:11+00:00"
-    },
-    {
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19T14:14:07+00:00"
     },
     {
       "title": "Inside the Underground Market for Know Your Client Services",
@@ -294,28 +324,10 @@
       "date": "2026-10-19T14:00:00+00:00"
     },
     {
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19T13:49:24+00:00"
-    },
-    {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "source": "Krebs on Security",
       "date": "2026-10-19T13:48:56+00:00"
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19T13:05:45+00:00"
-    },
-    {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19T11:50:00+00:00"
     },
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
@@ -364,18 +376,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
       "source": "Dark Reading",
       "date": "2026-10-15T22:10:08+00:00"
-    },
-    {
-      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
-      "url": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-      "source": "Dark Reading",
-      "date": "2026-10-15T21:55:07+00:00"
-    },
-    {
-      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
-      "url": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-      "source": "Dark Reading",
-      "date": "2026-10-15T20:43:20+00:00"
     },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
