@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T07:09:30.319205+00:00",
+  "updated": "2026-10-21T13:30:33.312308+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,22 +12,148 @@
   ],
   "items": [
     {
+      "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
+      "url": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T13:17:35+00:00"
+    },
+    {
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T13:15:09+00:00"
+    },
+    {
+      "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
+      "source": "Dark Reading",
+      "date": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
+      "url": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T12:57:47+00:00"
+    },
+    {
+      "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
+      "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T12:34:22+00:00"
+    },
+    {
+      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T12:20:34+00:00"
+    },
+    {
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T12:05:00+00:00"
+    },
+    {
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T11:53:34+00:00"
+    },
+    {
+      "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
+      "url": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T11:22:05+00:00"
+    },
+    {
+      "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
+      "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T10:54:49+00:00"
+    },
+    {
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T10:36:53+00:00"
+    },
+    {
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T10:32:40+00:00"
+    },
+    {
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T10:30:27+00:00"
+    },
+    {
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T10:14:53+00:00"
+    },
+    {
+      "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
+      "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T10:03:24+00:00"
+    },
+    {
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T09:05:17+00:00"
+    },
+    {
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T09:01:12+00:00"
+    },
+    {
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T08:36:24+00:00"
+    },
+    {
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T08:04:17+00:00"
+    },
+    {
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T07:44:22+00:00"
+    },
+    {
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T07:26:49+00:00"
+    },
+    {
       "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
       "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
       "source": "SecurityWeek",
       "date": "2026-10-21T07:02:06+00:00"
     },
     {
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T06:05:15+00:00"
+    },
+    {
       "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
       "url": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
       "source": "SecurityWeek",
       "date": "2026-10-21T06:02:27+00:00"
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T04:57:50+00:00"
     },
     {
       "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
@@ -150,28 +276,10 @@
       "date": "2026-10-20T14:19:05+00:00"
     },
     {
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T14:07:17+00:00"
-    },
-    {
-      "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
-      "url": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-      "source": "SecurityWeek",
-      "date": "2026-10-20T13:51:01+00:00"
-    },
-    {
       "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
       "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
       "source": "BleepingComputer",
       "date": "2026-10-20T13:51:00+00:00"
-    },
-    {
-      "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
-      "url": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
-      "source": "SecurityWeek",
-      "date": "2026-10-20T13:34:23+00:00"
     },
     {
       "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
@@ -180,52 +288,10 @@
       "date": "2026-10-20T13:18:36+00:00"
     },
     {
-      "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-      "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-      "source": "SecurityWeek",
-      "date": "2026-10-20T13:02:18+00:00"
-    },
-    {
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T12:59:44+00:00"
-    },
-    {
-      "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
-      "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
-      "source": "SecurityWeek",
-      "date": "2026-10-20T12:47:22+00:00"
-    },
-    {
-      "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
-      "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
-      "source": "SecurityWeek",
-      "date": "2026-10-20T12:33:12+00:00"
-    },
-    {
       "title": "Windows Server 2025 gets support for quick machine recovery",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
       "source": "BleepingComputer",
       "date": "2026-10-20T12:16:32+00:00"
-    },
-    {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T11:41:06+00:00"
-    },
-    {
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T11:33:04+00:00"
-    },
-    {
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T11:32:59+00:00"
     },
     {
       "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
@@ -234,70 +300,16 @@
       "date": "2026-10-20T11:31:22+00:00"
     },
     {
-      "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
-      "url": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
-      "source": "SecurityWeek",
-      "date": "2026-10-20T11:30:18+00:00"
-    },
-    {
       "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
       "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
       "source": "BleepingComputer",
       "date": "2026-10-20T11:18:35+00:00"
     },
     {
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T11:06:25+00:00"
-    },
-    {
-      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T10:56:08+00:00"
-    },
-    {
       "title": "Revolut outage disrupts online banking operations worldwide",
       "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "source": "BleepingComputer",
       "date": "2026-10-20T09:46:44+00:00"
-    },
-    {
-      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T08:21:29+00:00"
-    },
-    {
-      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T07:11:45+00:00"
-    },
-    {
-      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T05:53:16+00:00"
-    },
-    {
-      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-      "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T04:05:58+00:00"
-    },
-    {
-      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19T21:49:48+00:00"
-    },
-    {
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19T21:24:51+00:00"
     },
     {
       "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
@@ -310,12 +322,6 @@
       "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
       "source": "Dark Reading",
       "date": "2026-10-19T19:55:01+00:00"
-    },
-    {
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19T19:40:58+00:00"
     },
     {
       "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
@@ -370,12 +376,6 @@
       "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
       "source": "Dark Reading",
       "date": "2026-10-16T18:37:50+00:00"
-    },
-    {
-      "title": "When Your Ransomware Negotiator Works for the Other Side",
-      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
-      "source": "Dark Reading",
-      "date": "2026-10-16T14:00:00+00:00"
     },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
