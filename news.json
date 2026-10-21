@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T22:12:53.058652+00:00",
+  "updated": "2026-10-21T01:20:24.485066+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T01:01:50+00:00"
+    },
+    {
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T00:46:42+00:00"
+    },
     {
       "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
       "url": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
@@ -300,12 +312,6 @@
       "date": "2026-10-19T19:19:33+00:00"
     },
     {
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19T18:51:13+00:00"
-    },
-    {
       "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
       "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
       "source": "SecurityWeek",
@@ -316,12 +322,6 @@
       "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
       "source": "The Hacker News",
       "date": "2026-10-19T17:32:13+00:00"
-    },
-    {
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19T17:27:15+00:00"
     },
     {
       "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
