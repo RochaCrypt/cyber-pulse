@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T13:30:33.312308+00:00",
+  "updated": "2026-10-21T18:25:36.896413+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,102 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T18:01:57+00:00"
+    },
+    {
+      "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
+      "url": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
+      "source": "The Record",
+      "date": "2026-10-21T17:30:00+00:00"
+    },
+    {
+      "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+      "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T17:00:00+00:00"
+    },
+    {
+      "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+      "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T16:50:40+00:00"
+    },
+    {
+      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
+      "source": "Dark Reading",
+      "date": "2026-10-21T16:50:15+00:00"
+    },
+    {
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T16:33:47+00:00"
+    },
+    {
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T16:26:53+00:00"
+    },
+    {
+      "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
+      "url": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
+      "source": "Dark Reading",
+      "date": "2026-10-21T15:44:48+00:00"
+    },
+    {
+      "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
+      "url": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
+      "source": "Dark Reading",
+      "date": "2026-10-21T15:29:09+00:00"
+    },
+    {
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "source": "Krebs on Security",
+      "date": "2026-10-21T15:26:07+00:00"
+    },
+    {
+      "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+      "url": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T15:00:00+00:00"
+    },
+    {
+      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+      "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T14:45:00+00:00"
+    },
+    {
+      "title": "Hundreds of websites taken offline as concern grows over two PHP vulnerabilities",
+      "url": "https://therecord.media/php-script-vulnerabilities-warnings",
+      "source": "The Record",
+      "date": "2026-10-21T14:17:00+00:00"
+    },
+    {
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T14:07:05+00:00"
+    },
+    {
+      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T14:00:10+00:00"
+    },
+    {
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T14:00:00+00:00"
+    },
     {
       "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
       "url": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
@@ -138,28 +234,10 @@
       "date": "2026-10-21T07:26:49+00:00"
     },
     {
-      "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
-      "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T07:02:06+00:00"
-    },
-    {
       "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
       "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
       "source": "The Hacker News",
       "date": "2026-10-21T06:05:15+00:00"
-    },
-    {
-      "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
-      "url": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T06:02:27+00:00"
-    },
-    {
-      "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
-      "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T04:22:11+00:00"
     },
     {
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
@@ -222,46 +300,10 @@
       "date": "2026-10-20T18:11:03+00:00"
     },
     {
-      "title": "Nigerian national given 8-year sentence for tax business hacks",
-      "url": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
-      "source": "The Record",
-      "date": "2026-10-20T17:14:00+00:00"
-    },
-    {
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T17:09:53+00:00"
-    },
-    {
-      "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
-      "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
-      "source": "SecurityWeek",
-      "date": "2026-10-20T15:45:00+00:00"
-    },
-    {
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T15:38:52+00:00"
-    },
-    {
       "title": "Close Identity Gaps in Software Development Before Unleashing AI",
       "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
       "source": "Dark Reading",
       "date": "2026-10-20T15:35:45+00:00"
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T15:32:27+00:00"
-    },
-    {
-      "title": "EU cyber law won’t force fixes for fridge controllers hit in French attack",
-      "url": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
-      "source": "The Record",
-      "date": "2026-10-20T14:55:00+00:00"
     },
     {
       "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
@@ -292,24 +334,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
       "source": "BleepingComputer",
       "date": "2026-10-20T12:16:32+00:00"
-    },
-    {
-      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T11:31:22+00:00"
-    },
-    {
-      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T11:18:35+00:00"
-    },
-    {
-      "title": "Revolut outage disrupts online banking operations worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T09:46:44+00:00"
     },
     {
       "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
@@ -360,24 +384,6 @@
       "date": "2026-10-16T19:49:30+00:00"
     },
     {
-      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
-      "url": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
-      "source": "Dark Reading",
-      "date": "2026-10-16T19:22:12+00:00"
-    },
-    {
-      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
-      "url": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-      "source": "Dark Reading",
-      "date": "2026-10-16T19:13:59+00:00"
-    },
-    {
-      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
-      "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-      "source": "Dark Reading",
-      "date": "2026-10-16T18:37:50+00:00"
-    },
-    {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
       "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
       "source": "Krebs on Security",
@@ -424,12 +430,6 @@
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "source": "Krebs on Security",
       "date": "2026-09-08T21:44:22+00:00"
-    },
-    {
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "source": "Krebs on Security",
-      "date": "2026-09-01T22:40:28+00:00"
     }
   ]
 }
