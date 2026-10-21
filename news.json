@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T18:25:36.896413+00:00",
+  "updated": "2026-10-21T22:09:07.804445+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,72 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T21:43:27+00:00"
+    },
+    {
+      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+      "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+      "source": "Dark Reading",
+      "date": "2026-10-21T21:15:39+00:00"
+    },
+    {
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T20:31:48+00:00"
+    },
+    {
+      "title": "Meta on the spot for $25 billion under New Mexico privacy ruling",
+      "url": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case",
+      "source": "The Record",
+      "date": "2026-10-21T20:25:00+00:00"
+    },
+    {
+      "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security",
+      "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
+      "source": "Dark Reading",
+      "date": "2026-10-21T20:14:42+00:00"
+    },
+    {
+      "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
+      "url": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
+      "source": "Dark Reading",
+      "date": "2026-10-21T20:03:14+00:00"
+    },
+    {
+      "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
+      "url": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
+      "source": "The Record",
+      "date": "2026-10-21T19:45:00+00:00"
+    },
+    {
+      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+      "url": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
+      "source": "Dark Reading",
+      "date": "2026-10-21T19:19:17+00:00"
+    },
+    {
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T18:57:34+00:00"
+    },
+    {
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T18:34:42+00:00"
+    },
+    {
+      "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
+      "url": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
+      "source": "The Record",
+      "date": "2026-10-21T18:28:00+00:00"
+    },
     {
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
       "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
@@ -234,12 +300,6 @@
       "date": "2026-10-21T07:26:49+00:00"
     },
     {
-      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T06:05:15+00:00"
-    },
-    {
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
       "source": "BleepingComputer",
@@ -264,34 +324,16 @@
       "date": "2026-10-20T20:56:43+00:00"
     },
     {
-      "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
-      "url": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
-      "source": "The Record",
-      "date": "2026-10-20T20:27:00+00:00"
-    },
-    {
       "title": "Zeabur shutting down after second security breach in two months",
       "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
       "source": "BleepingComputer",
       "date": "2026-10-20T19:33:02+00:00"
     },
     {
-      "title": "California warns all public school students of data stolen in contractor breach",
-      "url": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
-      "source": "The Record",
-      "date": "2026-10-20T19:20:00+00:00"
-    },
-    {
       "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
       "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
       "source": "Dark Reading",
       "date": "2026-10-20T19:16:49+00:00"
-    },
-    {
-      "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
-      "url": "https://therecord.media/23andme-california-data-breach-settlement",
-      "source": "The Record",
-      "date": "2026-10-20T18:32:00+00:00"
     },
     {
       "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
@@ -318,24 +360,6 @@
       "date": "2026-10-20T14:19:05+00:00"
     },
     {
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T13:51:00+00:00"
-    },
-    {
-      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T13:18:36+00:00"
-    },
-    {
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T12:16:32+00:00"
-    },
-    {
       "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
       "url": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
       "source": "Dark Reading",
@@ -354,34 +378,10 @@
       "date": "2026-10-19T19:19:33+00:00"
     },
     {
-      "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
-      "source": "Dark Reading",
-      "date": "2026-10-19T14:28:11+00:00"
-    },
-    {
-      "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
-      "source": "Dark Reading",
-      "date": "2026-10-19T14:00:00+00:00"
-    },
-    {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "source": "Krebs on Security",
       "date": "2026-10-19T13:48:56+00:00"
-    },
-    {
-      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
-      "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-      "source": "Dark Reading",
-      "date": "2026-10-16T20:34:37+00:00"
-    },
-    {
-      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-      "url": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-      "source": "Dark Reading",
-      "date": "2026-10-16T19:49:30+00:00"
     },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
