@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T18:21:07.377295+00:00",
+  "updated": "2026-10-22T22:08:58.607835+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,66 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22T21:25:31+00:00"
+    },
+    {
+      "title": "Toronto crime tips org freezes operations after details of data breach come to light",
+      "url": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
+      "source": "The Record",
+      "date": "2026-10-22T20:52:00+00:00"
+    },
+    {
+      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+      "source": "Dark Reading",
+      "date": "2026-10-22T20:42:17+00:00"
+    },
+    {
+      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+      "url": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+      "source": "Dark Reading",
+      "date": "2026-10-22T20:33:10+00:00"
+    },
+    {
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22T20:22:45+00:00"
+    },
+    {
+      "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
+      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+      "source": "Dark Reading",
+      "date": "2026-10-22T19:30:20+00:00"
+    },
+    {
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22T19:12:51+00:00"
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T19:05:35+00:00"
+    },
+    {
+      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T19:05:17+00:00"
+    },
+    {
+      "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
+      "url": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
+      "source": "The Record",
+      "date": "2026-10-22T18:46:00+00:00"
+    },
     {
       "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
       "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
@@ -106,12 +166,6 @@
       "url": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
       "source": "The Record",
       "date": "2026-10-22T12:14:00+00:00"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22T11:45:00+00:00"
     },
     {
       "title": "GitLab warns of new max severity code execution vulnerability",
@@ -228,12 +282,6 @@
       "date": "2026-10-21T20:31:48+00:00"
     },
     {
-      "title": "Meta on the spot for $25 billion under New Mexico privacy ruling",
-      "url": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case",
-      "source": "The Record",
-      "date": "2026-10-21T20:25:00+00:00"
-    },
-    {
       "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security",
       "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
       "source": "Dark Reading",
@@ -244,12 +292,6 @@
       "url": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
       "source": "Dark Reading",
       "date": "2026-10-21T20:03:14+00:00"
-    },
-    {
-      "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
-      "url": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
-      "source": "The Record",
-      "date": "2026-10-21T19:45:00+00:00"
     },
     {
       "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
@@ -268,12 +310,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
       "source": "BleepingComputer",
       "date": "2026-10-21T18:34:42+00:00"
-    },
-    {
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T18:01:57+00:00"
     },
     {
       "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
@@ -318,28 +354,10 @@
       "date": "2026-10-21T14:07:05+00:00"
     },
     {
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T14:00:10+00:00"
-    },
-    {
       "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
       "source": "Dark Reading",
       "date": "2026-10-21T13:00:00+00:00"
-    },
-    {
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T12:20:34+00:00"
-    },
-    {
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T10:14:53+00:00"
     },
     {
       "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
@@ -358,24 +376,6 @@
       "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
       "source": "Dark Reading",
       "date": "2026-10-20T15:35:45+00:00"
-    },
-    {
-      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
-      "source": "Dark Reading",
-      "date": "2026-10-20T14:36:05+00:00"
-    },
-    {
-      "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
-      "url": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
-      "source": "Dark Reading",
-      "date": "2026-10-19T21:13:41+00:00"
-    },
-    {
-      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
-      "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
-      "source": "Dark Reading",
-      "date": "2026-10-19T19:55:01+00:00"
     },
     {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
