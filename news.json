@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:17:10.418471+00:00",
+  "updated": "2026-10-22T07:11:41.582281+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+      "source": "Dark Reading",
+      "date": "2026-10-22T05:00:00+00:00"
+    },
+    {
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T04:21:26+00:00"
+    },
     {
       "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
@@ -300,12 +312,6 @@
       "date": "2026-10-21T07:44:22+00:00"
     },
     {
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T07:26:49+00:00"
-    },
-    {
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
       "source": "BleepingComputer",
@@ -370,12 +376,6 @@
       "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
       "source": "Dark Reading",
       "date": "2026-10-19T19:55:01+00:00"
-    },
-    {
-      "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
-      "url": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
-      "source": "Dark Reading",
-      "date": "2026-10-19T19:19:33+00:00"
     },
     {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
