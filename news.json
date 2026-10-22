@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T22:09:07.804445+00:00",
+  "updated": "2026-10-22T01:17:10.418471+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T22:16:26+00:00"
+    },
     {
       "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
       "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
@@ -352,12 +358,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
       "source": "Dark Reading",
       "date": "2026-10-20T14:36:05+00:00"
-    },
-    {
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T14:19:05+00:00"
     },
     {
       "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
