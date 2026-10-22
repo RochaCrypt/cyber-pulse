@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T07:11:41.582281+00:00",
+  "updated": "2026-10-22T13:31:37.404067+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,120 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22T13:09:12+00:00"
+    },
+    {
+      "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
+      "url": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
+      "source": "SecurityWeek",
+      "date": "2026-10-22T13:00:00+00:00"
+    },
+    {
+      "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
+      "url": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+      "source": "SecurityWeek",
+      "date": "2026-10-22T12:34:31+00:00"
+    },
+    {
+      "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
+      "url": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-10-22T12:20:23+00:00"
+    },
+    {
+      "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
+      "url": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
+      "source": "The Record",
+      "date": "2026-10-22T12:14:00+00:00"
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T11:45:00+00:00"
+    },
+    {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22T11:41:48+00:00"
+    },
+    {
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T11:15:42+00:00"
+    },
+    {
+      "title": "Splunk, SolarWinds Release Fresh Security Updates",
+      "url": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+      "source": "SecurityWeek",
+      "date": "2026-10-22T10:45:24+00:00"
+    },
+    {
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T10:44:05+00:00"
+    },
+    {
+      "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+      "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+      "source": "SecurityWeek",
+      "date": "2026-10-22T10:05:21+00:00"
+    },
+    {
+      "title": "PHP2Shell Exploitation Started Days Before Patches",
+      "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+      "source": "SecurityWeek",
+      "date": "2026-10-22T09:48:58+00:00"
+    },
+    {
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T08:28:48+00:00"
+    },
+    {
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22T08:27:11+00:00"
+    },
+    {
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T07:47:22+00:00"
+    },
+    {
+      "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+      "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+      "source": "SecurityWeek",
+      "date": "2026-10-22T07:38:14+00:00"
+    },
+    {
+      "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+      "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+      "source": "SecurityWeek",
+      "date": "2026-10-22T07:26:54+00:00"
+    },
+    {
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T06:38:31+00:00"
+    },
+    {
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T06:34:10+00:00"
+    },
     {
       "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
       "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
@@ -156,24 +270,6 @@
       "date": "2026-10-21T15:26:07+00:00"
     },
     {
-      "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
-      "url": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T15:00:00+00:00"
-    },
-    {
-      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-      "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T14:45:00+00:00"
-    },
-    {
-      "title": "Hundreds of websites taken offline as concern grows over two PHP vulnerabilities",
-      "url": "https://therecord.media/php-script-vulnerabilities-warnings",
-      "source": "The Record",
-      "date": "2026-10-21T14:17:00+00:00"
-    },
-    {
       "title": "PHP ships emergency patches for critical PHP2Shell flaws",
       "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "source": "BleepingComputer",
@@ -192,12 +288,6 @@
       "date": "2026-10-21T14:00:00+00:00"
     },
     {
-      "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-      "url": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T13:17:35+00:00"
-    },
-    {
       "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
       "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
       "source": "The Hacker News",
@@ -208,18 +298,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
       "source": "Dark Reading",
       "date": "2026-10-21T13:00:00+00:00"
-    },
-    {
-      "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
-      "url": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T12:57:47+00:00"
-    },
-    {
-      "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
-      "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T12:34:22+00:00"
     },
     {
       "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
@@ -240,76 +318,16 @@
       "date": "2026-10-21T11:53:34+00:00"
     },
     {
-      "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
-      "url": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T11:22:05+00:00"
-    },
-    {
-      "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
-      "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T10:54:49+00:00"
-    },
-    {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T10:36:53+00:00"
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T10:32:40+00:00"
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T10:30:27+00:00"
-    },
-    {
       "title": "Microsoft says October updates didn’t actually fix VPN issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
       "source": "BleepingComputer",
       "date": "2026-10-21T10:14:53+00:00"
     },
     {
-      "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
-      "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T10:03:24+00:00"
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T09:05:17+00:00"
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T09:01:12+00:00"
-    },
-    {
       "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
       "source": "BleepingComputer",
       "date": "2026-10-21T08:36:24+00:00"
-    },
-    {
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T08:04:17+00:00"
-    },
-    {
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T07:44:22+00:00"
     },
     {
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
@@ -330,28 +348,10 @@
       "date": "2026-10-20T21:45:47+00:00"
     },
     {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T20:56:43+00:00"
-    },
-    {
-      "title": "Zeabur shutting down after second security breach in two months",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T19:33:02+00:00"
-    },
-    {
       "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
       "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
       "source": "Dark Reading",
       "date": "2026-10-20T19:16:49+00:00"
-    },
-    {
-      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T18:11:03+00:00"
     },
     {
       "title": "Close Identity Gaps in Software Development Before Unleashing AI",
