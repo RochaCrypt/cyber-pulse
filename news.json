@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T13:31:37.404067+00:00",
+  "updated": "2026-10-22T18:21:07.377295+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,72 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T18:12:43+00:00"
+    },
+    {
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T17:45:44+00:00"
+    },
+    {
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22T17:18:22+00:00"
+    },
+    {
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T17:01:53+00:00"
+    },
+    {
+      "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
+      "url": "https://therecord.media/china-cyber-connectwise-ai",
+      "source": "The Record",
+      "date": "2026-10-22T16:30:00+00:00"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T16:12:31+00:00"
+    },
+    {
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22T15:49:32+00:00"
+    },
+    {
+      "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
+      "url": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
+      "source": "SecurityWeek",
+      "date": "2026-10-22T14:31:34+00:00"
+    },
+    {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22T14:02:12+00:00"
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22T13:38:22+00:00"
+    },
+    {
+      "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
+      "url": "https://therecord.media/africa-cybercrime-interpol-arrests",
+      "source": "The Record",
+      "date": "2026-10-22T13:30:00+00:00"
+    },
     {
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
@@ -204,22 +270,10 @@
       "date": "2026-10-21T18:34:42+00:00"
     },
     {
-      "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
-      "url": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
-      "source": "The Record",
-      "date": "2026-10-21T18:28:00+00:00"
-    },
-    {
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
       "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
       "source": "The Hacker News",
       "date": "2026-10-21T18:01:57+00:00"
-    },
-    {
-      "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
-      "url": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
-      "source": "The Record",
-      "date": "2026-10-21T17:30:00+00:00"
     },
     {
       "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
@@ -228,22 +282,10 @@
       "date": "2026-10-21T17:00:00+00:00"
     },
     {
-      "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-      "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T16:50:40+00:00"
-    },
-    {
       "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
       "source": "Dark Reading",
       "date": "2026-10-21T16:50:15+00:00"
-    },
-    {
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-      "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T16:33:47+00:00"
     },
     {
       "title": "OpenAI agents disabled safety monitoring, one lied about it",
@@ -282,18 +324,6 @@
       "date": "2026-10-21T14:00:10+00:00"
     },
     {
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T14:00:00+00:00"
-    },
-    {
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T13:15:09+00:00"
-    },
-    {
       "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
       "source": "Dark Reading",
@@ -306,40 +336,10 @@
       "date": "2026-10-21T12:20:34+00:00"
     },
     {
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T12:05:00+00:00"
-    },
-    {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T11:53:34+00:00"
-    },
-    {
       "title": "Microsoft says October updates didn’t actually fix VPN issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
       "source": "BleepingComputer",
       "date": "2026-10-21T10:14:53+00:00"
-    },
-    {
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T08:36:24+00:00"
-    },
-    {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T01:01:50+00:00"
-    },
-    {
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T00:46:42+00:00"
     },
     {
       "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
