@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T01:16:09.112899+00:00",
+  "updated": "2026-10-23T07:03:21.558012+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+      "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+      "source": "SecurityWeek",
+      "date": "2026-10-23T06:39:29+00:00"
+    },
+    {
+      "title": "State Bank of India Suffers a Customer PII Data Leak",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+      "source": "Dark Reading",
+      "date": "2026-10-23T03:30:00+00:00"
+    },
     {
       "title": "Railway warns devs to rotate secrets after potential breach",
       "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
@@ -312,12 +324,6 @@
       "date": "2026-10-21T18:34:42+00:00"
     },
     {
-      "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
-      "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
-      "source": "SecurityWeek",
-      "date": "2026-10-21T17:00:00+00:00"
-    },
-    {
       "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
       "source": "Dark Reading",
@@ -370,12 +376,6 @@
       "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
       "source": "Dark Reading",
       "date": "2026-10-20T19:16:49+00:00"
-    },
-    {
-      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
-      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
-      "source": "Dark Reading",
-      "date": "2026-10-20T15:35:45+00:00"
     },
     {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
