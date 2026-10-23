@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T18:07:20.528333+00:00",
+  "updated": "2026-10-23T21:52:28.368241+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,36 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+      "source": "Dark Reading",
+      "date": "2026-10-23T20:57:56+00:00"
+    },
+    {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23T20:55:05+00:00"
+    },
+    {
+      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+      "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+      "source": "Dark Reading",
+      "date": "2026-10-23T19:41:23+00:00"
+    },
+    {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23T18:54:41+00:00"
+    },
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23T18:50:13+00:00"
+    },
     {
       "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
       "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
@@ -282,12 +312,6 @@
       "date": "2026-10-22T17:01:53+00:00"
     },
     {
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22T16:12:31+00:00"
-    },
-    {
       "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
       "source": "BleepingComputer",
@@ -324,22 +348,10 @@
       "date": "2026-10-22T11:41:48+00:00"
     },
     {
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22T08:27:11+00:00"
-    },
-    {
       "title": "UAE Transitions 50% of Government Services to Agentic AI",
       "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
       "source": "Dark Reading",
       "date": "2026-10-22T05:00:00+00:00"
-    },
-    {
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T22:16:26+00:00"
     },
     {
       "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
@@ -358,18 +370,6 @@
       "url": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
       "source": "Dark Reading",
       "date": "2026-10-21T20:03:14+00:00"
-    },
-    {
-      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
-      "url": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-      "source": "Dark Reading",
-      "date": "2026-10-21T19:19:17+00:00"
-    },
-    {
-      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
-      "source": "Dark Reading",
-      "date": "2026-10-21T16:50:15+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
