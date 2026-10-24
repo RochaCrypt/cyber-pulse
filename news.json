@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T10:24:53.108544+00:00",
+  "updated": "2026-10-24T14:17:20.171834+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,16 +12,28 @@
   ],
   "items": [
     {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24T11:09:29+00:00"
+    },
+    {
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24T11:03:33+00:00"
+    },
+    {
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24T10:36:33+00:00"
+    },
+    {
       "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
       "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
       "source": "The Hacker News",
       "date": "2026-10-24T09:04:24+00:00"
-    },
-    {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-10-24T08:45:56+00:00"
     },
     {
       "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
@@ -292,18 +304,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
       "source": "BleepingComputer",
       "date": "2026-10-22T19:12:51+00:00"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22T19:05:35+00:00"
-    },
-    {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22T19:05:17+00:00"
     },
     {
       "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
