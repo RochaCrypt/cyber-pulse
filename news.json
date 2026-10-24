@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:17:20.171834+00:00",
+  "updated": "2026-10-24T17:53:42.196856+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "source": "BleepingComputer",
+      "date": "2026-10-24T14:17:32+00:00"
+    },
     {
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
       "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
@@ -340,12 +346,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
       "source": "BleepingComputer",
       "date": "2026-10-22T13:09:12+00:00"
-    },
-    {
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22T11:41:48+00:00"
     },
     {
       "title": "UAE Transitions 50% of Government Services to Agentic AI",
