@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T05:45:38.837995+00:00",
+  "updated": "2026-10-25T10:52:11.590711+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "source": "The Hacker News",
+      "date": "2026-10-25T06:54:29+00:00"
+    },
     {
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
       "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
@@ -244,12 +250,6 @@
       "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
       "source": "SecurityWeek",
       "date": "2026-10-23T07:54:47+00:00"
-    },
-    {
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23T07:40:45+00:00"
     },
     {
       "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
