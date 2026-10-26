@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T03:34:00.899954+00:00",
+  "updated": "2026-10-26T09:48:08.489337+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,13 +12,43 @@
   ],
   "items": [
     {
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "source": "BleepingComputer",
+      "date": "2026-10-26T09:19:57+00:00"
+    },
+    {
+      "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+      "url": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+      "source": "SecurityWeek",
+      "date": "2026-10-26T09:10:03+00:00"
+    },
+    {
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26T08:35:51+00:00"
+    },
+    {
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26T07:49:46+00:00"
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26T06:03:48+00:00"
+    },
+    {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
       "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
       "source": "The Hacker News",
       "date": "2026-10-25T17:44:09+00:00"
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "source": "The Hacker News",
       "date": "2026-10-25T17:19:46+00:00"
@@ -210,18 +240,6 @@
       "date": "2026-10-23T11:38:28+00:00"
     },
     {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23T11:25:43+00:00"
-    },
-    {
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23T11:11:23+00:00"
-    },
-    {
       "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
       "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
       "source": "SecurityWeek",
@@ -232,12 +250,6 @@
       "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
       "source": "SecurityWeek",
       "date": "2026-10-23T09:58:34+00:00"
-    },
-    {
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23T09:36:00+00:00"
     },
     {
       "title": "11 Million Impacted by Capcom Data Breach",
@@ -262,12 +274,6 @@
       "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
       "source": "SecurityWeek",
       "date": "2026-10-23T07:54:47+00:00"
-    },
-    {
-      "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
-      "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
-      "source": "SecurityWeek",
-      "date": "2026-10-23T06:39:29+00:00"
     },
     {
       "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
@@ -340,12 +346,6 @@
       "url": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
       "source": "Dark Reading",
       "date": "2026-10-22T14:21:22+00:00"
-    },
-    {
-      "title": "Machine speed attacks require machine speed detection and response",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22T14:02:12+00:00"
     },
     {
       "title": "UAE Transitions 50% of Government Services to Agentic AI",
