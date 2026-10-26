@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T09:48:08.489337+00:00",
+  "updated": "2026-10-26T16:33:37.378730+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,120 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "source": "BleepingComputer",
+      "date": "2026-10-26T16:27:57+00:00"
+    },
+    {
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "source": "BleepingComputer",
+      "date": "2026-10-26T15:38:24+00:00"
+    },
+    {
+      "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
+      "url": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-10-26T14:52:14+00:00"
+    },
+    {
+      "title": "Genesys Hack Exposes Customer Data From Internal Systems",
+      "url": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+      "source": "SecurityWeek",
+      "date": "2026-10-26T14:40:48+00:00"
+    },
+    {
+      "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
+      "url": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+      "source": "SecurityWeek",
+      "date": "2026-10-26T14:30:09+00:00"
+    },
+    {
+      "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras",
+      "url": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
+      "source": "The Record",
+      "date": "2026-10-26T14:21:00+00:00"
+    },
+    {
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26T14:06:13+00:00"
+    },
+    {
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "source": "BleepingComputer",
+      "date": "2026-10-26T14:00:10+00:00"
+    },
+    {
+      "title": "10 Software Security Practices Built for the Next 250 Years",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+      "source": "Dark Reading",
+      "date": "2026-10-26T14:00:00+00:00"
+    },
+    {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "source": "BleepingComputer",
+      "date": "2026-10-26T13:56:44+00:00"
+    },
+    {
+      "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+      "url": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+      "source": "SecurityWeek",
+      "date": "2026-10-26T13:30:10+00:00"
+    },
+    {
+      "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+      "url": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+      "source": "SecurityWeek",
+      "date": "2026-10-26T12:46:44+00:00"
+    },
+    {
+      "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
+      "url": "https://therecord.media/litellm-hackers-ai-malware",
+      "source": "The Record",
+      "date": "2026-10-26T12:00:00+00:00"
+    },
+    {
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26T11:52:41+00:00"
+    },
+    {
+      "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
+      "url": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
+      "source": "SecurityWeek",
+      "date": "2026-10-26T11:47:52+00:00"
+    },
+    {
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26T11:23:56+00:00"
+    },
+    {
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-26T10:26:52+00:00"
+    },
+    {
+      "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+      "url": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+      "source": "SecurityWeek",
+      "date": "2026-10-26T10:21:57+00:00"
+    },
+    {
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26T09:54:02+00:00"
+    },
     {
       "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
       "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
@@ -108,7 +222,7 @@
       "date": "2026-10-24T06:25:57+00:00"
     },
     {
-      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
       "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
       "source": "Dark Reading",
       "date": "2026-10-23T20:57:56+00:00"
@@ -130,24 +244,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
       "source": "BleepingComputer",
       "date": "2026-10-23T18:54:41+00:00"
-    },
-    {
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23T18:50:13+00:00"
-    },
-    {
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23T17:54:08+00:00"
-    },
-    {
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23T17:50:47+00:00"
     },
     {
       "title": "FCC bans two devices with surveillance chips linked to Huawei",
@@ -198,12 +294,6 @@
       "date": "2026-10-23T14:00:00+00:00"
     },
     {
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23T13:50:56+00:00"
-    },
-    {
       "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
       "url": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
       "source": "Dark Reading",
@@ -228,76 +318,16 @@
       "date": "2026-10-23T12:48:00+00:00"
     },
     {
-      "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
-      "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
-      "source": "SecurityWeek",
-      "date": "2026-10-23T12:45:52+00:00"
-    },
-    {
       "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
       "source": "Dark Reading",
       "date": "2026-10-23T11:38:28+00:00"
     },
     {
-      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-      "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-23T10:31:16+00:00"
-    },
-    {
-      "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-      "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-      "source": "SecurityWeek",
-      "date": "2026-10-23T09:58:34+00:00"
-    },
-    {
-      "title": "11 Million Impacted by Capcom Data Breach",
-      "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-      "source": "SecurityWeek",
-      "date": "2026-10-23T08:34:14+00:00"
-    },
-    {
-      "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
-      "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-      "source": "SecurityWeek",
-      "date": "2026-10-23T08:25:06+00:00"
-    },
-    {
-      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
-      "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-      "source": "SecurityWeek",
-      "date": "2026-10-23T08:10:46+00:00"
-    },
-    {
-      "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
-      "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
-      "source": "SecurityWeek",
-      "date": "2026-10-23T07:54:47+00:00"
-    },
-    {
-      "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
-      "url": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
-      "source": "The Record",
-      "date": "2026-10-23T04:00:00+00:00"
-    },
-    {
       "title": "State Bank of India Suffers a Customer PII Data Leak",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
       "source": "Dark Reading",
       "date": "2026-10-23T03:30:00+00:00"
-    },
-    {
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22T21:25:31+00:00"
-    },
-    {
-      "title": "Toronto crime tips org freezes operations after details of data breach come to light",
-      "url": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
-      "source": "The Record",
-      "date": "2026-10-22T20:52:00+00:00"
     },
     {
       "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
@@ -312,34 +342,10 @@
       "date": "2026-10-22T20:33:10+00:00"
     },
     {
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22T20:22:45+00:00"
-    },
-    {
       "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
       "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
       "source": "Dark Reading",
       "date": "2026-10-22T19:30:20+00:00"
-    },
-    {
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22T19:12:51+00:00"
-    },
-    {
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22T17:18:22+00:00"
-    },
-    {
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22T15:49:32+00:00"
     },
     {
       "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
       "source": "Dark Reading",
       "date": "2026-10-21T20:14:42+00:00"
-    },
-    {
-      "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
-      "url": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
-      "source": "Dark Reading",
-      "date": "2026-10-21T20:03:14+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
