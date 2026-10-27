@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T01:12:53.901141+00:00",
+  "updated": "2026-10-27T07:23:50.337226+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,30 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
+      "url": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
+      "source": "SecurityWeek",
+      "date": "2026-10-27T07:14:27+00:00"
+    },
+    {
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-27T06:34:47+00:00"
+    },
+    {
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "source": "The Hacker News",
+      "date": "2026-10-27T04:37:59+00:00"
+    },
+    {
+      "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+      "url": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+      "source": "SecurityWeek",
+      "date": "2026-10-27T01:30:00+00:00"
+    },
     {
       "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
       "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
@@ -222,12 +246,6 @@
       "date": "2026-10-26T09:19:57+00:00"
     },
     {
-      "title": "Mythos 5 Ignored Real-World Harm in July Attack",
-      "url": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
-      "source": "SecurityWeek",
-      "date": "2026-10-26T09:10:03+00:00"
-    },
-    {
       "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
       "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
       "source": "The Hacker News",
@@ -264,12 +282,6 @@
       "date": "2026-10-25T15:49:38+00:00"
     },
     {
-      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-      "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-      "source": "SecurityWeek",
-      "date": "2026-10-25T11:00:00+00:00"
-    },
-    {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
       "source": "The Hacker News",
@@ -280,18 +292,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
       "source": "BleepingComputer",
       "date": "2026-10-24T14:17:32+00:00"
-    },
-    {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-10-24T11:09:29+00:00"
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "source": "The Hacker News",
-      "date": "2026-10-24T11:03:33+00:00"
     },
     {
       "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
