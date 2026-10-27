@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T14:02:50.542954+00:00",
+  "updated": "2026-10-27T19:51:34.574671+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,84 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
+      "url": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+      "source": "The Record",
+      "date": "2026-10-27T19:30:00+00:00"
+    },
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-27T18:26:46+00:00"
+    },
+    {
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-27T18:20:28+00:00"
+    },
+    {
+      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+      "source": "Dark Reading",
+      "date": "2026-10-27T17:43:07+00:00"
+    },
+    {
+      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants",
+      "url": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+      "source": "Dark Reading",
+      "date": "2026-10-27T16:47:20+00:00"
+    },
+    {
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "source": "BleepingComputer",
+      "date": "2026-10-27T16:15:39+00:00"
+    },
+    {
+      "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+      "url": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+      "source": "SecurityWeek",
+      "date": "2026-10-27T15:26:12+00:00"
+    },
+    {
+      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
+      "url": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
+      "source": "The Record",
+      "date": "2026-10-27T15:07:00+00:00"
+    },
+    {
+      "title": "University of New Mexico hospital diverts ambulances after cyberattack",
+      "url": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
+      "source": "The Record",
+      "date": "2026-10-27T14:57:00+00:00"
+    },
+    {
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "source": "BleepingComputer",
+      "date": "2026-10-27T14:09:46+00:00"
+    },
+    {
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "source": "BleepingComputer",
+      "date": "2026-10-27T14:01:11+00:00"
+    },
+    {
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "source": "The Hacker News",
+      "date": "2026-10-27T13:59:48+00:00"
+    },
+    {
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "source": "The Hacker News",
+      "date": "2026-10-27T13:59:09+00:00"
+    },
     {
       "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes",
       "url": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
@@ -30,22 +108,10 @@
       "date": "2026-10-27T13:20:00+00:00"
     },
     {
-      "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
-      "url": "https://therecord.media/php-vulnerabilities-cisa-kev",
-      "source": "The Record",
-      "date": "2026-10-27T13:16:00+00:00"
-    },
-    {
       "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
       "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
       "source": "SecurityWeek",
       "date": "2026-10-27T13:13:58+00:00"
-    },
-    {
-      "title": "Australia’s spies are sharing intelligence with hacking targets — and want them to share back",
-      "url": "https://therecord.media/australia-spies-share-intel-and-want-victims-to-share-back",
-      "source": "The Record",
-      "date": "2026-10-27T13:13:00+00:00"
     },
     {
       "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
@@ -180,12 +246,6 @@
       "date": "2026-10-26T21:08:28+00:00"
     },
     {
-      "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
-      "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
-      "source": "The Record",
-      "date": "2026-10-26T21:03:00+00:00"
-    },
-    {
       "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
       "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
       "source": "Dark Reading",
@@ -196,12 +256,6 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
       "source": "BleepingComputer",
       "date": "2026-10-26T20:46:49+00:00"
-    },
-    {
-      "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
-      "url": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
-      "source": "SecurityWeek",
-      "date": "2026-10-26T20:20:56+00:00"
     },
     {
       "title": "DreamHost forces password resets in ongoing \"incident\"",
@@ -270,48 +324,6 @@
       "date": "2026-10-26T13:56:44+00:00"
     },
     {
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "source": "The Hacker News",
-      "date": "2026-10-26T11:52:41+00:00"
-    },
-    {
-      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-      "source": "The Hacker News",
-      "date": "2026-10-26T11:23:56+00:00"
-    },
-    {
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "source": "BleepingComputer",
-      "date": "2026-10-26T10:26:52+00:00"
-    },
-    {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "source": "The Hacker News",
-      "date": "2026-10-26T09:54:02+00:00"
-    },
-    {
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "source": "BleepingComputer",
-      "date": "2026-10-26T09:19:57+00:00"
-    },
-    {
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "source": "BleepingComputer",
-      "date": "2026-10-25T15:49:38+00:00"
-    },
-    {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "source": "BleepingComputer",
-      "date": "2026-10-24T14:17:32+00:00"
-    },
-    {
       "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
       "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
       "source": "Dark Reading",
@@ -358,18 +370,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
       "source": "Dark Reading",
       "date": "2026-10-22T20:42:17+00:00"
-    },
-    {
-      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
-      "url": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
-      "source": "Dark Reading",
-      "date": "2026-10-22T20:33:10+00:00"
-    },
-    {
-      "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
-      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
-      "source": "Dark Reading",
-      "date": "2026-10-22T19:30:20+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
