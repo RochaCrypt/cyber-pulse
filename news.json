@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:33:10.801243+00:00",
+  "updated": "2026-10-28T04:23:21.707494+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "source": "BleepingComputer",
+      "date": "2026-10-27T23:35:51+00:00"
+    },
     {
       "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
@@ -316,12 +322,6 @@
       "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
       "source": "The Hacker News",
       "date": "2026-10-26T17:45:57+00:00"
-    },
-    {
-      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-      "source": "BleepingComputer",
-      "date": "2026-10-26T16:27:57+00:00"
     },
     {
       "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
