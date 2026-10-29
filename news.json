@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T02:09:27.238533+00:00",
+  "updated": "2026-10-29T09:28:39.177750+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,42 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+      "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+      "source": "SecurityWeek",
+      "date": "2026-10-29T08:27:16+00:00"
+    },
+    {
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29T08:24:22+00:00"
+    },
+    {
+      "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+      "url": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+      "source": "SecurityWeek",
+      "date": "2026-10-29T08:01:05+00:00"
+    },
+    {
+      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+      "source": "Dark Reading",
+      "date": "2026-10-29T08:00:00+00:00"
+    },
+    {
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29T06:22:33+00:00"
+    },
+    {
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29T05:50:17+00:00"
+    },
     {
       "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
       "url": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
@@ -216,18 +252,6 @@
       "date": "2026-10-28T09:43:15+00:00"
     },
     {
-      "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
-      "url": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
-      "source": "SecurityWeek",
-      "date": "2026-10-28T09:14:23+00:00"
-    },
-    {
-      "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
-      "url": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
-      "source": "SecurityWeek",
-      "date": "2026-10-28T08:37:24+00:00"
-    },
-    {
       "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
       "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
       "source": "The Hacker News",
@@ -246,28 +270,10 @@
       "date": "2026-10-28T07:13:21+00:00"
     },
     {
-      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-      "url": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T06:20:37+00:00"
-    },
-    {
-      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T06:04:58+00:00"
-    },
-    {
       "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
       "url": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
       "source": "Dark Reading",
       "date": "2026-10-28T06:00:00+00:00"
-    },
-    {
-      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T05:42:26+00:00"
     },
     {
       "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
       "source": "Dark Reading",
       "date": "2026-10-23T20:57:56+00:00"
-    },
-    {
-      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
-      "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-      "source": "Dark Reading",
-      "date": "2026-10-23T19:41:23+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
