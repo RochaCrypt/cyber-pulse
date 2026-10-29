@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T16:39:56.817141+00:00",
+  "updated": "2026-10-29T21:34:42.929668+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,6 +12,48 @@
   ],
   "items": [
     {
+      "title": "Limited reports of PHP bug exploitation emerge",
+      "url": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
+      "source": "The Record",
+      "date": "2026-10-29T20:01:25+00:00"
+    },
+    {
+      "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
+      "url": "https://therecord.media/general-motors-lawsuit-privacy",
+      "source": "The Record",
+      "date": "2026-10-29T19:45:00+00:00"
+    },
+    {
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29T19:23:41+00:00"
+    },
+    {
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29T19:11:58+00:00"
+    },
+    {
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29T18:38:26+00:00"
+    },
+    {
+      "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
+      "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+      "source": "Dark Reading",
+      "date": "2026-10-29T18:15:59+00:00"
+    },
+    {
+      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+      "url": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+      "source": "SecurityWeek",
+      "date": "2026-10-29T16:30:00+00:00"
+    },
+    {
       "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
       "url": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
       "source": "The Record",
@@ -22,6 +64,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
       "source": "BleepingComputer",
       "date": "2026-10-29T16:10:31+00:00"
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29T15:57:05+00:00"
     },
     {
       "title": "Threat Modeling With 4 Simple Questions on a White Board",
@@ -94,12 +142,6 @@
       "url": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
       "source": "The Record",
       "date": "2026-10-29T13:31:00+00:00"
-    },
-    {
-      "title": "University of New Mexico restores hospital systems, urges no contact with hackers",
-      "url": "https://therecord.media/new-mexico-cyberattack-hospital",
-      "source": "The Record",
-      "date": "2026-10-29T13:30:00+00:00"
     },
     {
       "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
@@ -192,12 +234,6 @@
       "date": "2026-10-29T09:05:39+00:00"
     },
     {
-      "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
-      "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T08:27:16+00:00"
-    },
-    {
       "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
       "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
       "source": "The Hacker News",
@@ -222,19 +258,13 @@
       "date": "2026-10-29T05:50:17+00:00"
     },
     {
-      "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
-      "url": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
-      "source": "The Record",
-      "date": "2026-10-28T20:50:00+00:00"
-    },
-    {
       "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
       "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
       "source": "BleepingComputer",
       "date": "2026-10-28T20:47:22+00:00"
     },
     {
-      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
       "source": "Dark Reading",
       "date": "2026-10-28T19:39:00+00:00"
@@ -252,22 +282,10 @@
       "date": "2026-10-28T18:08:33+00:00"
     },
     {
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T17:08:09+00:00"
-    },
-    {
       "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
       "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
       "source": "BleepingComputer",
       "date": "2026-10-28T16:45:47+00:00"
-    },
-    {
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T16:23:34+00:00"
     },
     {
       "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
@@ -306,18 +324,6 @@
       "date": "2026-10-28T13:50:59+00:00"
     },
     {
-      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T12:19:57+00:00"
-    },
-    {
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T10:46:23+00:00"
-    },
-    {
       "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
       "url": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
       "source": "Dark Reading",
@@ -354,7 +360,7 @@
       "date": "2026-10-27T16:47:20+00:00"
     },
     {
-      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+      "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
       "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
       "source": "Dark Reading",
       "date": "2026-10-27T00:26:50+00:00"
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
       "source": "Dark Reading",
       "date": "2026-10-26T21:44:33+00:00"
-    },
-    {
-      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
-      "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
-      "source": "Dark Reading",
-      "date": "2026-10-26T20:59:26+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
