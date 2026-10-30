@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:36:52.996708+00:00",
+  "updated": "2026-10-30T08:09:47.659338+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,24 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+      "url": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
+      "source": "Dark Reading",
+      "date": "2026-10-30T08:00:00+00:00"
+    },
+    {
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T07:27:05+00:00"
+    },
+    {
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T04:14:59+00:00"
+    },
     {
       "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
@@ -294,12 +312,6 @@
       "date": "2026-10-29T06:22:33+00:00"
     },
     {
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29T05:50:17+00:00"
-    },
-    {
       "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
       "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
       "source": "BleepingComputer",
@@ -316,12 +328,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
       "source": "BleepingComputer",
       "date": "2026-10-28T18:44:16+00:00"
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T18:08:33+00:00"
     },
     {
       "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
       "source": "Dark Reading",
       "date": "2026-10-27T17:43:07+00:00"
-    },
-    {
-      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants",
-      "url": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
-      "source": "Dark Reading",
-      "date": "2026-10-27T16:47:20+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
