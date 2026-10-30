@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T15:37:00.735793+00:00",
+  "updated": "2026-10-30T20:27:31.591699+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,42 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Fashion retailer Resolve says hackers stole payment card information",
+      "url": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
+      "source": "The Record",
+      "date": "2026-10-30T19:00:00+00:00"
+    },
+    {
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T16:58:44+00:00"
+    },
+    {
+      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30T15:58:20+00:00"
+    },
+    {
+      "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
+      "url": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
+      "source": "The Record",
+      "date": "2026-10-30T15:54:00+00:00"
+    },
+    {
+      "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
+      "source": "Dark Reading",
+      "date": "2026-10-30T15:39:54+00:00"
+    },
+    {
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T15:17:28+00:00"
+    },
     {
       "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
       "url": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
@@ -40,6 +76,12 @@
       "url": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
       "source": "Dark Reading",
       "date": "2026-10-30T14:10:37+00:00"
+    },
+    {
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T14:08:14+00:00"
     },
     {
       "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
@@ -94,18 +136,6 @@
       "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
       "source": "The Hacker News",
       "date": "2026-10-30T11:58:53+00:00"
-    },
-    {
-      "title": "Polymarket confirms cyberattack on third-party provider after outages",
-      "url": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
-      "source": "The Record",
-      "date": "2026-10-30T11:33:00+00:00"
-    },
-    {
-      "title": "Russian popular home goods chain faces days of disruption following cyberattack",
-      "url": "https://therecord.media/russian-home-goods-chain-faces-disruptions",
-      "source": "The Record",
-      "date": "2026-10-30T11:30:00+00:00"
     },
     {
       "title": "Microsoft finally fixes VPN issues caused by September updates",
@@ -288,12 +318,6 @@
       "date": "2026-10-29T15:20:29+00:00"
     },
     {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T14:35:40+00:00"
-    },
-    {
       "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
       "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
       "source": "The Hacker News",
@@ -304,24 +328,6 @@
       "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
       "source": "The Hacker News",
       "date": "2026-10-29T11:39:41+00:00"
-    },
-    {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29T11:39:18+00:00"
-    },
-    {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29T11:33:41+00:00"
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29T11:33:15+00:00"
     },
     {
       "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
@@ -364,12 +370,6 @@
       "url": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
       "source": "Dark Reading",
       "date": "2026-10-27T21:15:03+00:00"
-    },
-    {
-      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "source": "Dark Reading",
-      "date": "2026-10-27T20:42:40+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
