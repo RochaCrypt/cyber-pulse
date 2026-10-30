@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:34:42.929668+00:00",
+  "updated": "2026-10-30T01:36:52.996708+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,48 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29T23:35:52+00:00"
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29T22:45:23+00:00"
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29T22:09:24+00:00"
+    },
+    {
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29T22:08:04+00:00"
+    },
+    {
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29T21:47:25+00:00"
+    },
+    {
+      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+      "source": "Dark Reading",
+      "date": "2026-10-29T21:21:56+00:00"
+    },
+    {
+      "title": "Rethinking Cybersecurity Awareness in the AI Era",
+      "url": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+      "source": "Dark Reading",
+      "date": "2026-10-29T20:15:37+00:00"
+    },
     {
       "title": "Limited reports of PHP bug exploitation emerge",
       "url": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
@@ -282,46 +324,16 @@
       "date": "2026-10-28T18:08:33+00:00"
     },
     {
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T16:45:47+00:00"
-    },
-    {
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T16:00:00+00:00"
-    },
-    {
       "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
       "source": "Dark Reading",
       "date": "2026-10-28T15:29:06+00:00"
     },
     {
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T14:48:32+00:00"
-    },
-    {
       "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
       "url": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
       "source": "Dark Reading",
       "date": "2026-10-28T14:37:52+00:00"
-    },
-    {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T14:00:00+00:00"
-    },
-    {
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T13:50:59+00:00"
     },
     {
       "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
@@ -358,18 +370,6 @@
       "url": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
       "source": "Dark Reading",
       "date": "2026-10-27T16:47:20+00:00"
-    },
-    {
-      "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-      "source": "Dark Reading",
-      "date": "2026-10-27T00:26:50+00:00"
-    },
-    {
-      "title": "Risks &amp; Rewards: How AI Is Redefining the CISO's Role",
-      "url": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-      "source": "Dark Reading",
-      "date": "2026-10-26T21:44:33+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
