@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T08:09:47.659338+00:00",
+  "updated": "2026-10-30T15:37:00.735793+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,10 +12,172 @@
   ],
   "items": [
     {
+      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
+      "url": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T15:09:25+00:00"
+    },
+    {
+      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
+      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T14:41:35+00:00"
+    },
+    {
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30T14:36:54+00:00"
+    },
+    {
+      "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
+      "url": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
+      "source": "The Record",
+      "date": "2026-10-30T14:24:00+00:00"
+    },
+    {
+      "title": "Undead Software Projects Continue to Raise Security Risks",
+      "url": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+      "source": "Dark Reading",
+      "date": "2026-10-30T14:10:37+00:00"
+    },
+    {
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30T14:00:10+00:00"
+    },
+    {
+      "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
+      "url": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
+      "url": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T13:36:12+00:00"
+    },
+    {
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30T13:00:32+00:00"
+    },
+    {
+      "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
+      "url": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
+      "source": "The Record",
+      "date": "2026-10-30T12:52:00+00:00"
+    },
+    {
+      "title": "Hackers target government Windows systems in Asia with new malware",
+      "url": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
+      "source": "The Record",
+      "date": "2026-10-30T12:36:00+00:00"
+    },
+    {
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T12:21:56+00:00"
+    },
+    {
+      "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
+      "url": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T12:04:13+00:00"
+    },
+    {
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T11:58:53+00:00"
+    },
+    {
+      "title": "Polymarket confirms cyberattack on third-party provider after outages",
+      "url": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
+      "source": "The Record",
+      "date": "2026-10-30T11:33:00+00:00"
+    },
+    {
+      "title": "Russian popular home goods chain faces days of disruption following cyberattack",
+      "url": "https://therecord.media/russian-home-goods-chain-faces-disruptions",
+      "source": "The Record",
+      "date": "2026-10-30T11:30:00+00:00"
+    },
+    {
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30T11:20:26+00:00"
+    },
+    {
+      "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
+      "url": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T11:07:11+00:00"
+    },
+    {
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T10:40:45+00:00"
+    },
+    {
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30T10:16:07+00:00"
+    },
+    {
+      "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+      "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T09:41:36+00:00"
+    },
+    {
+      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+      "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T09:32:27+00:00"
+    },
+    {
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30T09:18:13+00:00"
+    },
+    {
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T08:55:47+00:00"
+    },
+    {
+      "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
+      "url": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T08:44:49+00:00"
+    },
+    {
+      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+      "url": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T08:16:26+00:00"
+    },
+    {
       "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
       "url": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
       "source": "Dark Reading",
       "date": "2026-10-30T08:00:00+00:00"
+    },
+    {
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T07:45:30+00:00"
     },
     {
       "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
@@ -72,16 +234,10 @@
       "date": "2026-10-29T20:15:37+00:00"
     },
     {
-      "title": "Limited reports of PHP bug exploitation emerge",
-      "url": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
-      "source": "The Record",
-      "date": "2026-10-29T20:01:25+00:00"
-    },
-    {
-      "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
-      "url": "https://therecord.media/general-motors-lawsuit-privacy",
-      "source": "The Record",
-      "date": "2026-10-29T19:45:00+00:00"
+      "title": "Why CTF Competitions May Be More Important Than Ever",
+      "url": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
+      "source": "Dark Reading",
+      "date": "2026-10-29T19:56:44+00:00"
     },
     {
       "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
@@ -108,18 +264,6 @@
       "date": "2026-10-29T18:15:59+00:00"
     },
     {
-      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
-      "url": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T16:30:00+00:00"
-    },
-    {
-      "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
-      "url": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
-      "source": "The Record",
-      "date": "2026-10-29T16:13:00+00:00"
-    },
-    {
       "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
       "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
       "source": "BleepingComputer",
@@ -144,82 +288,16 @@
       "date": "2026-10-29T15:20:29+00:00"
     },
     {
-      "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
-      "url": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T15:01:00+00:00"
-    },
-    {
-      "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
-      "url": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T15:00:00+00:00"
-    },
-    {
       "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
       "source": "BleepingComputer",
       "date": "2026-10-29T14:35:40+00:00"
     },
     {
-      "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
-      "url": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T14:18:03+00:00"
-    },
-    {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T14:00:10+00:00"
-    },
-    {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T13:59:48+00:00"
-    },
-    {
-      "title": "FTC to probe major companies over personalized pricing and pay",
-      "url": "https://therecord.media/ftc-rideshare-airlines-data",
-      "source": "The Record",
-      "date": "2026-10-29T13:45:00+00:00"
-    },
-    {
-      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T13:42:52+00:00"
-    },
-    {
       "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
       "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
       "source": "The Hacker News",
       "date": "2026-10-29T13:42:40+00:00"
-    },
-    {
-      "title": "Cyberattack disrupts Belgian tax services before filing deadline",
-      "url": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
-      "source": "The Record",
-      "date": "2026-10-29T13:31:00+00:00"
-    },
-    {
-      "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
-      "url": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T13:26:49+00:00"
-    },
-    {
-      "title": "Over 41,000 DHS Employee Records Leaked Online",
-      "url": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T12:54:14+00:00"
-    },
-    {
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T12:00:07+00:00"
     },
     {
       "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
@@ -246,58 +324,10 @@
       "date": "2026-10-29T11:33:15+00:00"
     },
     {
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T11:10:13+00:00"
-    },
-    {
-      "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
-      "url": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T11:00:00+00:00"
-    },
-    {
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29T10:44:46+00:00"
-    },
-    {
-      "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
-      "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T10:29:25+00:00"
-    },
-    {
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29T10:26:33+00:00"
-    },
-    {
       "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
       "url": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
       "source": "Dark Reading",
       "date": "2026-10-29T10:00:00+00:00"
-    },
-    {
-      "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
-      "url": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
-      "source": "SecurityWeek",
-      "date": "2026-10-29T09:47:10+00:00"
-    },
-    {
-      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29T09:05:39+00:00"
-    },
-    {
-      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29T08:24:22+00:00"
     },
     {
       "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
@@ -306,28 +336,10 @@
       "date": "2026-10-29T08:00:00+00:00"
     },
     {
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29T06:22:33+00:00"
-    },
-    {
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T20:47:22+00:00"
-    },
-    {
       "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
       "source": "Dark Reading",
       "date": "2026-10-28T19:39:00+00:00"
-    },
-    {
-      "title": "Discord to let search engines index public server messages",
-      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T18:44:16+00:00"
     },
     {
       "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
@@ -358,18 +370,6 @@
       "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
       "source": "Dark Reading",
       "date": "2026-10-27T20:42:40+00:00"
-    },
-    {
-      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
-      "url": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-      "source": "Dark Reading",
-      "date": "2026-10-27T19:58:06+00:00"
-    },
-    {
-      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
-      "source": "Dark Reading",
-      "date": "2026-10-27T17:43:07+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
