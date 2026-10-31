@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:27:31.591699+00:00",
+  "updated": "2026-10-31T00:27:58.375317+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,30 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30T21:09:46+00:00"
+    },
+    {
+      "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
+      "url": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
+      "source": "The Record",
+      "date": "2026-10-30T20:45:00+00:00"
+    },
+    {
+      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+      "source": "Dark Reading",
+      "date": "2026-10-30T20:05:58+00:00"
+    },
+    {
+      "title": "Behind the Scenes of How Operation Blackout Went Down",
+      "url": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+      "source": "Dark Reading",
+      "date": "2026-10-30T19:46:08+00:00"
+    },
     {
       "title": "Fashion retailer Resolve says hackers stole payment card information",
       "url": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
@@ -112,12 +136,6 @@
       "url": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
       "source": "The Record",
       "date": "2026-10-30T12:52:00+00:00"
-    },
-    {
-      "title": "Hackers target government Windows systems in Asia with new malware",
-      "url": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
-      "source": "The Record",
-      "date": "2026-10-30T12:36:00+00:00"
     },
     {
       "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
@@ -294,12 +312,6 @@
       "date": "2026-10-29T18:15:59+00:00"
     },
     {
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T16:10:31+00:00"
-    },
-    {
       "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
       "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
       "source": "The Hacker News",
@@ -358,18 +370,6 @@
       "url": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
       "source": "Dark Reading",
       "date": "2026-10-28T14:37:52+00:00"
-    },
-    {
-      "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-      "url": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-      "source": "Dark Reading",
-      "date": "2026-10-28T06:00:00+00:00"
-    },
-    {
-      "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
-      "url": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-      "source": "Dark Reading",
-      "date": "2026-10-27T21:15:03+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
