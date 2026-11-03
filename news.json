@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T00:38:00.661633+00:00",
+  "updated": "2026-11-03T07:38:27.557291+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,24 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03T05:34:41+00:00"
+    },
+    {
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03T05:34:37+00:00"
+    },
+    {
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "source": "Krebs on Security",
+      "date": "2026-11-03T02:24:31+00:00"
+    },
     {
       "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
       "url": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
@@ -132,7 +150,7 @@
       "date": "2026-11-02T13:57:29+00:00"
     },
     {
-      "title": "Revolve Data Breach Impacts at Least 180,000 People",
+      "title": "Revolve Data Breach Impacts at Least 200,000 People",
       "url": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
       "source": "SecurityWeek",
       "date": "2026-11-02T13:35:21+00:00"
@@ -288,18 +306,6 @@
       "date": "2026-10-31T12:01:56+00:00"
     },
     {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "source": "The Hacker News",
-      "date": "2026-10-31T08:27:43+00:00"
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "source": "The Hacker News",
-      "date": "2026-10-31T05:33:41+00:00"
-    },
-    {
       "title": "Investors Dish on New Startups &amp; What They'd Back Next",
       "url": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
       "source": "Dark Reading",
@@ -424,12 +430,6 @@
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "source": "Krebs on Security",
       "date": "2026-09-16T18:14:22+00:00"
-    },
-    {
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "source": "Krebs on Security",
-      "date": "2026-09-08T21:44:22+00:00"
     }
   ]
 }
