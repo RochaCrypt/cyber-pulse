@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T15:53:24.215788+00:00",
+  "updated": "2026-11-03T21:32:50.346171+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,10 +12,88 @@
   ],
   "items": [
     {
+      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "source": "BleepingComputer",
+      "date": "2026-11-03T21:28:44+00:00"
+    },
+    {
+      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+      "source": "BleepingComputer",
+      "date": "2026-11-03T20:05:50+00:00"
+    },
+    {
+      "title": "Google dismantles massive botnet hidden in Android TV boxes",
+      "url": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
+      "source": "The Record",
+      "date": "2026-11-03T19:48:00+00:00"
+    },
+    {
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "source": "BleepingComputer",
+      "date": "2026-11-03T18:51:04+00:00"
+    },
+    {
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03T18:46:38+00:00"
+    },
+    {
+      "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
+      "url": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
+      "source": "The Record",
+      "date": "2026-11-03T18:44:00+00:00"
+    },
+    {
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03T18:16:19+00:00"
+    },
+    {
+      "title": "British businesses caught in Europe-wide supermarket fridge attacks",
+      "url": "https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks",
+      "source": "The Record",
+      "date": "2026-11-03T17:43:00+00:00"
+    },
+    {
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03T16:55:58+00:00"
+    },
+    {
+      "title": "Binance CEO says ‘months-long campaign’ led to $6.3 billion theft as N. Korea denies responsibility",
+      "url": "https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea",
+      "source": "The Record",
+      "date": "2026-11-03T16:42:00+00:00"
+    },
+    {
+      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03T15:59:19+00:00"
+    },
+    {
       "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
       "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
       "source": "The Hacker News",
       "date": "2026-11-03T15:41:53+00:00"
+    },
+    {
+      "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
+      "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
+      "source": "Dark Reading",
+      "date": "2026-11-03T15:38:20+00:00"
+    },
+    {
+      "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
+      "url": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
+      "source": "Dark Reading",
+      "date": "2026-11-03T15:35:50+00:00"
     },
     {
       "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
@@ -64,12 +142,6 @@
       "url": "https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three",
       "source": "The Record",
       "date": "2026-11-03T13:50:00+00:00"
-    },
-    {
-      "title": "Russia-linked cyber spies target Ukraine's war crimes investigations, military aid routes",
-      "url": "https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support",
-      "source": "The Record",
-      "date": "2026-11-03T13:39:00+00:00"
     },
     {
       "title": "Police seizes over 100 servers in investment scam crackdown",
@@ -180,34 +252,16 @@
       "date": "2026-11-03T02:24:31+00:00"
     },
     {
-      "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
-      "url": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
-      "source": "The Record",
-      "date": "2026-11-03T00:01:00+00:00"
-    },
-    {
       "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
       "source": "Dark Reading",
       "date": "2026-11-02T22:27:24+00:00"
     },
     {
-      "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
-      "url": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
-      "source": "The Record",
-      "date": "2026-11-02T21:42:00+00:00"
-    },
-    {
       "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
       "source": "BleepingComputer",
       "date": "2026-11-02T21:40:14+00:00"
-    },
-    {
-      "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
-      "url": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
-      "source": "The Record",
-      "date": "2026-11-02T19:54:00+00:00"
     },
     {
       "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
@@ -226,12 +280,6 @@
       "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
       "source": "The Hacker News",
       "date": "2026-11-02T16:57:56+00:00"
-    },
-    {
-      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02T15:50:26+00:00"
     },
     {
       "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
@@ -258,12 +306,6 @@
       "date": "2026-11-02T15:00:00+00:00"
     },
     {
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02T14:46:05+00:00"
-    },
-    {
       "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
       "url": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
       "source": "SecurityWeek",
@@ -280,36 +322,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
       "source": "Dark Reading",
       "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "title": "Microsoft fixes Smart App Control broken by October Windows update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-      "source": "BleepingComputer",
-      "date": "2026-11-02T13:57:29+00:00"
-    },
-    {
-      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-11-02T12:47:00+00:00"
-    },
-    {
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02T11:50:00+00:00"
-    },
-    {
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02T11:30:00+00:00"
-    },
-    {
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-11-02T11:28:42+00:00"
     },
     {
       "title": "Investors Dish on New Startups &amp; What They'd Back Next",
@@ -364,18 +376,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
       "source": "Dark Reading",
       "date": "2026-10-29T19:56:44+00:00"
-    },
-    {
-      "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
-      "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-      "source": "Dark Reading",
-      "date": "2026-10-29T18:15:59+00:00"
-    },
-    {
-      "title": "Threat Modeling With 4 Simple Questions on a White Board",
-      "url": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-      "source": "Dark Reading",
-      "date": "2026-10-29T15:44:04+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
