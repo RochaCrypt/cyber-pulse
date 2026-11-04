@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T16:53:43.429442+00:00",
+  "updated": "2026-11-04T22:27:12.093251+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,7 +12,73 @@
   ],
   "items": [
     {
-      "title": "Google, Partners Disrupts 1.3 Million-Device-Strong XCPE Botnet",
+      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+      "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+      "source": "Dark Reading",
+      "date": "2026-11-04T21:48:18+00:00"
+    },
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-04T21:31:18+00:00"
+    },
+    {
+      "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+      "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+      "source": "The Record",
+      "date": "2026-11-04T21:30:00+00:00"
+    },
+    {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "source": "BleepingComputer",
+      "date": "2026-11-04T20:58:19+00:00"
+    },
+    {
+      "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
+      "url": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
+      "source": "The Record",
+      "date": "2026-11-04T19:17:00+00:00"
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "source": "BleepingComputer",
+      "date": "2026-11-04T19:05:19+00:00"
+    },
+    {
+      "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
+      "url": "https://therecord.media/french-bank-confirms-cyber-heist",
+      "source": "The Record",
+      "date": "2026-11-04T18:58:00+00:00"
+    },
+    {
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "source": "BleepingComputer",
+      "date": "2026-11-04T18:02:56+00:00"
+    },
+    {
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04T17:00:46+00:00"
+    },
+    {
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04T17:00:38+00:00"
+    },
+    {
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "source": "BleepingComputer",
+      "date": "2026-11-04T16:58:46+00:00"
+    },
+    {
+      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
       "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
       "source": "Dark Reading",
       "date": "2026-11-04T16:24:08+00:00"
@@ -22,6 +88,12 @@
       "url": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
       "source": "The Record",
       "date": "2026-11-04T16:15:00+00:00"
+    },
+    {
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04T16:06:43+00:00"
     },
     {
       "title": "mSecure password manager hack prompts password reset warnings",
@@ -76,12 +148,6 @@
       "url": "https://therecord.media/russia-cyberattack-beget-cloud",
       "source": "The Record",
       "date": "2026-11-04T14:00:00+00:00"
-    },
-    {
-      "title": "French blood service hit by Europe-wide cyberattacks on refrigeration",
-      "url": "https://therecord.media/france-cyberattack-blood-refrigeration",
-      "source": "The Record",
-      "date": "2026-11-04T13:45:00+00:00"
     },
     {
       "title": "US charges two Canadians accused of hacking US universities",
@@ -228,12 +294,6 @@
       "date": "2026-11-03T20:05:50+00:00"
     },
     {
-      "title": "Google dismantles massive botnet hidden in Android TV boxes",
-      "url": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
-      "source": "The Record",
-      "date": "2026-11-03T19:48:00+00:00"
-    },
-    {
       "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
       "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
       "source": "BleepingComputer",
@@ -244,12 +304,6 @@
       "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
       "source": "The Hacker News",
       "date": "2026-11-03T18:46:38+00:00"
-    },
-    {
-      "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
-      "url": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
-      "source": "The Record",
-      "date": "2026-11-03T18:44:00+00:00"
     },
     {
       "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
@@ -270,12 +324,6 @@
       "date": "2026-11-03T15:59:19+00:00"
     },
     {
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03T15:41:53+00:00"
-    },
-    {
       "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
       "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
       "source": "Dark Reading",
@@ -288,52 +336,10 @@
       "date": "2026-11-03T15:35:50+00:00"
     },
     {
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03T15:16:32+00:00"
-    },
-    {
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03T15:06:16+00:00"
-    },
-    {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03T15:00:10+00:00"
-    },
-    {
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03T14:00:00+00:00"
-    },
-    {
       "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
       "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
       "source": "Dark Reading",
       "date": "2026-11-03T14:00:00+00:00"
-    },
-    {
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03T13:33:49+00:00"
-    },
-    {
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03T12:05:52+00:00"
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03T11:23:53+00:00"
     },
     {
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
@@ -370,12 +376,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
       "source": "Dark Reading",
       "date": "2026-10-30T20:05:58+00:00"
-    },
-    {
-      "title": "Behind the Scenes of How Operation Blackout Went Down",
-      "url": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-      "source": "Dark Reading",
-      "date": "2026-10-30T19:46:08+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
