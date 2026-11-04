@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T01:56:44.218140+00:00",
+  "updated": "2026-11-04T08:50:12.964471+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,24 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+      "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+      "source": "SecurityWeek",
+      "date": "2026-11-04T08:27:05+00:00"
+    },
+    {
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04T05:43:11+00:00"
+    },
+    {
+      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+      "source": "Dark Reading",
+      "date": "2026-11-04T02:00:00+00:00"
+    },
     {
       "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
@@ -294,12 +312,6 @@
       "date": "2026-11-02T18:16:34+00:00"
     },
     {
-      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02T16:57:56+00:00"
-    },
-    {
       "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
       "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
       "source": "BleepingComputer",
@@ -322,12 +334,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
       "source": "Dark Reading",
       "date": "2026-11-02T15:00:00+00:00"
-    },
-    {
-      "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
-      "url": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
-      "source": "SecurityWeek",
-      "date": "2026-11-02T14:44:18+00:00"
     },
     {
       "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
@@ -370,12 +376,6 @@
       "url": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
       "source": "Dark Reading",
       "date": "2026-10-30T08:00:00+00:00"
-    },
-    {
-      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-      "source": "Dark Reading",
-      "date": "2026-10-29T21:21:56+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
