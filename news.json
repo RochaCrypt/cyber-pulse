@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:55:32.124814+00:00",
+  "updated": "2026-11-05T19:37:36.575170+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,102 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-05T19:24:26+00:00"
+    },
+    {
+      "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
+      "url": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
+      "source": "The Record",
+      "date": "2026-11-05T19:15:00+00:00"
+    },
+    {
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "source": "BleepingComputer",
+      "date": "2026-11-05T17:45:29+00:00"
+    },
+    {
+      "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+      "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+      "source": "SecurityWeek",
+      "date": "2026-11-05T17:32:37+00:00"
+    },
+    {
+      "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
+      "url": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
+      "source": "The Record",
+      "date": "2026-11-05T17:00:00+00:00"
+    },
+    {
+      "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+      "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+      "source": "Dark Reading",
+      "date": "2026-11-05T16:48:36+00:00"
+    },
+    {
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "source": "BleepingComputer",
+      "date": "2026-11-05T16:24:26+00:00"
+    },
+    {
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "source": "BleepingComputer",
+      "date": "2026-11-05T16:12:46+00:00"
+    },
+    {
+      "title": "Closing the Identity Gap at the Service Desk",
+      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "source": "BleepingComputer",
+      "date": "2026-11-05T15:00:10+00:00"
+    },
+    {
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05T14:41:10+00:00"
+    },
+    {
+      "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+      "url": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+      "source": "SecurityWeek",
+      "date": "2026-11-05T13:22:12+00:00"
+    },
+    {
+      "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+      "url": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+      "source": "SecurityWeek",
+      "date": "2026-11-05T12:58:32+00:00"
+    },
+    {
+      "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
+      "url": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+      "source": "SecurityWeek",
+      "date": "2026-11-05T12:33:49+00:00"
+    },
+    {
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05T12:25:00+00:00"
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05T12:08:54+00:00"
+    },
+    {
+      "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+      "url": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+      "source": "SecurityWeek",
+      "date": "2026-11-05T11:15:00+00:00"
+    },
     {
       "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
       "url": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
@@ -78,20 +174,14 @@
       "date": "2026-11-05T04:36:17+00:00"
     },
     {
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05T04:31:16+00:00"
-    },
-    {
-      "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
-      "url": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
+      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
+      "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
       "source": "The Record",
       "date": "2026-11-05T00:00:00+00:00"
     },
     {
-      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-      "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+      "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
+      "url": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
       "source": "The Record",
       "date": "2026-11-05T00:00:00+00:00"
     },
@@ -120,22 +210,10 @@
       "date": "2026-11-04T20:58:19+00:00"
     },
     {
-      "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
-      "url": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
-      "source": "The Record",
-      "date": "2026-11-04T19:17:00+00:00"
-    },
-    {
       "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "source": "BleepingComputer",
       "date": "2026-11-04T19:05:19+00:00"
-    },
-    {
-      "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
-      "url": "https://therecord.media/french-bank-confirms-cyber-heist",
-      "source": "The Record",
-      "date": "2026-11-04T18:58:00+00:00"
     },
     {
       "title": "Cyberattack disrupts blood storage refrigeration systems in France",
@@ -204,46 +282,16 @@
       "date": "2026-11-04T14:27:52+00:00"
     },
     {
-      "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
-      "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-      "source": "SecurityWeek",
-      "date": "2026-11-04T14:24:54+00:00"
-    },
-    {
       "title": "Incidents Move Too Fast for Pen &amp; Paper",
       "url": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
       "source": "Dark Reading",
       "date": "2026-11-04T14:17:00+00:00"
     },
     {
-      "title": "Agentic Data Security Firm Sentra Raises $150 Million",
-      "url": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
-      "source": "SecurityWeek",
-      "date": "2026-11-04T14:09:20+00:00"
-    },
-    {
       "title": "US charges two Canadians accused of hacking US universities",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
       "source": "BleepingComputer",
       "date": "2026-11-04T13:13:20+00:00"
-    },
-    {
-      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-      "source": "SecurityWeek",
-      "date": "2026-11-04T12:43:20+00:00"
-    },
-    {
-      "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
-      "url": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
-      "source": "SecurityWeek",
-      "date": "2026-11-04T12:27:58+00:00"
-    },
-    {
-      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-11-04T12:11:05+00:00"
     },
     {
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
@@ -264,30 +312,6 @@
       "date": "2026-11-04T11:34:20+00:00"
     },
     {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "source": "The Hacker News",
-      "date": "2026-11-04T11:24:31+00:00"
-    },
-    {
-      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
-      "url": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
-      "source": "SecurityWeek",
-      "date": "2026-11-04T10:54:48+00:00"
-    },
-    {
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "source": "BleepingComputer",
-      "date": "2026-11-04T09:39:54+00:00"
-    },
-    {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "source": "The Hacker News",
-      "date": "2026-11-04T08:17:11+00:00"
-    },
-    {
       "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
       "source": "Dark Reading",
@@ -300,12 +324,6 @@
       "date": "2026-11-04T01:05:40+00:00"
     },
     {
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03T22:18:50+00:00"
-    },
-    {
       "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
       "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
       "source": "Dark Reading",
@@ -316,18 +334,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
       "source": "Dark Reading",
       "date": "2026-11-03T21:57:12+00:00"
-    },
-    {
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03T21:28:44+00:00"
-    },
-    {
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03T20:05:50+00:00"
     },
     {
       "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
@@ -376,12 +382,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
       "source": "Dark Reading",
       "date": "2026-10-30T21:08:25+00:00"
-    },
-    {
-      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-      "source": "Dark Reading",
-      "date": "2026-10-30T20:05:58+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
