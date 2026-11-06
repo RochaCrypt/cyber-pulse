@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:37:36.575170+00:00",
+  "updated": "2026-11-06T00:49:29.973149+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,54 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+      "url": "https://therecord.media/queens-library-ransomware-causes-disruptions",
+      "source": "The Record",
+      "date": "2026-11-05T22:08:00+00:00"
+    },
+    {
+      "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+      "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+      "source": "Dark Reading",
+      "date": "2026-11-05T21:35:05+00:00"
+    },
+    {
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "source": "BleepingComputer",
+      "date": "2026-11-05T21:30:30+00:00"
+    },
+    {
+      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+      "source": "Dark Reading",
+      "date": "2026-11-05T21:00:47+00:00"
+    },
+    {
+      "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
+      "url": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
+      "source": "The Record",
+      "date": "2026-11-05T20:48:00+00:00"
+    },
+    {
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "source": "BleepingComputer",
+      "date": "2026-11-05T20:15:08+00:00"
+    },
+    {
+      "title": "US issues more sanctions against Prince Group scam center affiliates",
+      "url": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+      "source": "The Record",
+      "date": "2026-11-05T20:11:00+00:00"
+    },
+    {
+      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+      "source": "Dark Reading",
+      "date": "2026-11-05T20:05:39+00:00"
+    },
     {
       "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
       "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
@@ -46,6 +94,18 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
       "source": "Dark Reading",
       "date": "2026-11-05T16:48:36+00:00"
+    },
+    {
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05T16:42:46+00:00"
+    },
+    {
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05T16:42:32+00:00"
     },
     {
       "title": "Hackers backdoor Linux servers using trojanized CWP web server",
@@ -174,18 +234,6 @@
       "date": "2026-11-05T04:36:17+00:00"
     },
     {
-      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-      "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-      "source": "The Record",
-      "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-      "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
-      "url": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
-      "source": "The Record",
-      "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
       "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
       "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
       "source": "Dark Reading",
@@ -196,12 +244,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
       "source": "BleepingComputer",
       "date": "2026-11-04T21:31:18+00:00"
-    },
-    {
-      "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
-      "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
-      "source": "The Record",
-      "date": "2026-11-04T21:30:00+00:00"
     },
     {
       "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
@@ -264,12 +306,6 @@
       "date": "2026-11-04T15:00:10+00:00"
     },
     {
-      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "source": "BleepingComputer",
-      "date": "2026-11-04T14:42:25+00:00"
-    },
-    {
       "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
       "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
       "source": "SecurityWeek",
@@ -288,28 +324,10 @@
       "date": "2026-11-04T14:17:00+00:00"
     },
     {
-      "title": "US charges two Canadians accused of hacking US universities",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-      "source": "BleepingComputer",
-      "date": "2026-11-04T13:13:20+00:00"
-    },
-    {
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
       "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
       "source": "The Hacker News",
       "date": "2026-11-04T12:07:04+00:00"
-    },
-    {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "source": "The Hacker News",
-      "date": "2026-11-04T11:46:27+00:00"
-    },
-    {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "source": "The Hacker News",
-      "date": "2026-11-04T11:34:20+00:00"
     },
     {
       "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
@@ -364,24 +382,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
       "source": "Dark Reading",
       "date": "2026-11-02T22:27:24+00:00"
-    },
-    {
-      "title": "Microsoft's AI Risk Report Misses This Key Detail",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
-      "source": "Dark Reading",
-      "date": "2026-11-02T15:00:00+00:00"
-    },
-    {
-      "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
-      "source": "Dark Reading",
-      "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "title": "Investors Dish on New Startups &amp; What They'd Back Next",
-      "url": "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
-      "source": "Dark Reading",
-      "date": "2026-10-30T21:08:25+00:00"
     },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
