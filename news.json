@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T21:19:23.266847+00:00",
+  "updated": "2026-11-07T01:39:47.852783+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,24 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-07T00:00:55+00:00"
+    },
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "source": "BleepingComputer",
+      "date": "2026-11-06T22:27:25+00:00"
+    },
+    {
+      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "source": "Dark Reading",
+      "date": "2026-11-06T21:27:36+00:00"
+    },
     {
       "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
       "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
@@ -228,6 +246,12 @@
       "date": "2026-11-06T00:00:00+00:00"
     },
     {
+      "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+      "source": "Dark Reading",
+      "date": "2026-11-05T22:13:23+00:00"
+    },
+    {
       "title": "US Government Email Systems Open to Abuse Thanks to Typos",
       "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
       "source": "Dark Reading",
@@ -286,18 +310,6 @@
       "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
       "source": "The Hacker News",
       "date": "2026-11-05T16:42:32+00:00"
-    },
-    {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "source": "BleepingComputer",
-      "date": "2026-11-05T16:24:26+00:00"
-    },
-    {
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "source": "BleepingComputer",
-      "date": "2026-11-05T16:12:46+00:00"
     },
     {
       "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
@@ -364,18 +376,6 @@
       "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
       "source": "Dark Reading",
       "date": "2026-11-03T22:16:49+00:00"
-    },
-    {
-      "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
-      "url": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
-      "source": "Dark Reading",
-      "date": "2026-11-03T21:57:12+00:00"
-    },
-    {
-      "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
-      "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
-      "source": "Dark Reading",
-      "date": "2026-11-03T15:38:20+00:00"
     },
     {
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
