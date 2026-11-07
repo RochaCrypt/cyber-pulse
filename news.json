@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T15:28:10.210030+00:00",
+  "updated": "2026-11-07T19:55:41.939637+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "source": "BleepingComputer",
+      "date": "2026-11-07T15:25:35+00:00"
+    },
     {
       "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
       "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
@@ -292,12 +298,6 @@
       "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
       "source": "Dark Reading",
       "date": "2026-11-05T20:05:39+00:00"
-    },
-    {
-      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-      "source": "BleepingComputer",
-      "date": "2026-11-05T19:24:26+00:00"
     },
     {
       "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
