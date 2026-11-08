@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T11:44:40.627859+00:00",
+  "updated": "2026-11-08T17:41:18.214409+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "source": "BleepingComputer",
+      "date": "2026-11-08T15:43:08+00:00"
+    },
+    {
+      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+      "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+      "source": "SecurityWeek",
+      "date": "2026-11-08T12:14:00+00:00"
+    },
     {
       "title": "Hackers pull off $133 million French bank heist via service provider",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -216,12 +228,6 @@
       "date": "2026-11-06T11:30:00+00:00"
     },
     {
-      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-      "source": "SecurityWeek",
-      "date": "2026-11-06T09:33:51+00:00"
-    },
-    {
       "title": "MetaMask says recent attack didn't affect wallet infrastructure",
       "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
       "source": "BleepingComputer",
@@ -286,12 +292,6 @@
       "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
       "source": "Dark Reading",
       "date": "2026-11-05T21:00:47+00:00"
-    },
-    {
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "source": "BleepingComputer",
-      "date": "2026-11-05T20:15:08+00:00"
     },
     {
       "title": "APT29's Watering Holes Target Thousands of Mobile Users",
