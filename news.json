@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:56:43.647566+00:00",
+  "updated": "2026-11-11T23:22:55.549741+00:00",
   "count": 70,
   "sources": [
     "The Hacker News",
@@ -12,6 +12,60 @@
   ],
   "items": [
     {
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11T23:01:31+00:00"
+    },
+    {
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11T22:56:21+00:00"
+    },
+    {
+      "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+      "url": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+      "source": "Dark Reading",
+      "date": "2026-11-11T21:44:04+00:00"
+    },
+    {
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11T21:27:40+00:00"
+    },
+    {
+      "title": "AI Raises the Stakes for Cyber Resilience",
+      "url": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+      "source": "Dark Reading",
+      "date": "2026-11-11T21:20:41+00:00"
+    },
+    {
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11T20:54:20+00:00"
+    },
+    {
+      "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+      "url": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+      "source": "Dark Reading",
+      "date": "2026-11-11T20:05:18+00:00"
+    },
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "source": "Krebs on Security",
+      "date": "2026-11-11T18:06:01+00:00"
+    },
+    {
+      "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+      "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+      "source": "The Record",
+      "date": "2026-11-11T16:57:00+00:00"
+    },
+    {
       "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
       "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
       "source": "SecurityWeek",
@@ -22,6 +76,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
       "source": "BleepingComputer",
       "date": "2026-11-11T16:24:18+00:00"
+    },
+    {
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11T16:12:46+00:00"
     },
     {
       "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
@@ -264,22 +324,10 @@
       "date": "2026-11-10T19:19:39+00:00"
     },
     {
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10T19:07:36+00:00"
-    },
-    {
       "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
       "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
       "source": "Dark Reading",
       "date": "2026-11-10T18:46:22+00:00"
-    },
-    {
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10T18:33:26+00:00"
     },
     {
       "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
@@ -294,34 +342,10 @@
       "date": "2026-11-10T17:43:23+00:00"
     },
     {
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10T16:17:16+00:00"
-    },
-    {
-      "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-      "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-      "source": "The Record",
-      "date": "2026-11-10T16:08:00+00:00"
-    },
-    {
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
       "source": "The Hacker News",
       "date": "2026-11-10T16:00:55+00:00"
-    },
-    {
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10T15:59:19+00:00"
-    },
-    {
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10T15:58:44+00:00"
     },
     {
       "title": "AI Makes Reverse Engineering Mainstream Software &amp; Malware Far Easier",
@@ -358,24 +382,6 @@
       "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
       "source": "Dark Reading",
       "date": "2026-11-09T18:08:30+00:00"
-    },
-    {
-      "title": "PwC's CISO on AI, Robots &amp; What's Next for Security",
-      "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
-      "source": "Dark Reading",
-      "date": "2026-11-09T17:17:23+00:00"
-    },
-    {
-      "title": "NIST: Solo Shouldn't Mean Less Secure",
-      "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
-      "source": "Dark Reading",
-      "date": "2026-11-09T15:46:10+00:00"
-    },
-    {
-      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-      "source": "Dark Reading",
-      "date": "2026-11-06T21:27:36+00:00"
     },
     {
       "title": "Want to Rent an Internet Address at the White House?",
@@ -424,12 +430,6 @@
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "source": "Krebs on Security",
       "date": "2026-10-07T13:48:45+00:00"
-    },
-    {
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "source": "Krebs on Security",
-      "date": "2026-09-28T15:08:57+00:00"
     }
   ]
 }
