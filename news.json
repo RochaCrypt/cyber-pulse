@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T22:04:48.762115+00:00",
+  "updated": "2026-11-13T03:11:43.570905+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,30 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+      "url": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T02:28:21+00:00"
+    },
+    {
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-12T22:53:10+00:00"
+    },
+    {
+      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
+      "url": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
+      "source": "Dark Reading",
+      "date": "2026-11-12T22:46:05+00:00"
+    },
+    {
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "source": "BleepingComputer",
+      "date": "2026-11-12T22:25:30+00:00"
+    },
     {
       "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
       "url": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
@@ -276,12 +300,6 @@
       "date": "2026-11-12T09:23:21+00:00"
     },
     {
-      "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-      "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
-      "source": "SecurityWeek",
-      "date": "2026-11-12T08:38:47+00:00"
-    },
-    {
       "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
       "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
       "source": "The Hacker News",
@@ -348,12 +366,6 @@
       "date": "2026-11-11T21:20:41+00:00"
     },
     {
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "source": "BleepingComputer",
-      "date": "2026-11-11T20:54:20+00:00"
-    },
-    {
       "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
       "url": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
       "source": "Dark Reading",
@@ -364,12 +376,6 @@
       "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
       "source": "Krebs on Security",
       "date": "2026-11-11T18:06:01+00:00"
-    },
-    {
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "source": "BleepingComputer",
-      "date": "2026-11-11T16:24:18+00:00"
     },
     {
       "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
@@ -406,12 +412,6 @@
       "url": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
       "source": "Dark Reading",
       "date": "2026-11-10T20:18:43+00:00"
-    },
-    {
-      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
-      "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-      "source": "Dark Reading",
-      "date": "2026-11-10T18:46:22+00:00"
     },
     {
       "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
