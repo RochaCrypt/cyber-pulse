@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:54:18.166706+00:00",
+  "updated": "2026-11-13T19:17:45.805041+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,132 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
+      "url": "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
+      "source": "The Record",
+      "date": "2026-11-13T18:35:00+00:00"
+    },
+    {
+      "title": "German military drone operations disrupted by cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "source": "BleepingComputer",
+      "date": "2026-11-13T17:31:56+00:00"
+    },
+    {
+      "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
+      "url": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
+      "source": "The Record",
+      "date": "2026-11-13T17:26:00+00:00"
+    },
+    {
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13T16:53:08+00:00"
+    },
+    {
+      "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
+      "url": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
+      "source": "The Record",
+      "date": "2026-11-13T16:32:00+00:00"
+    },
+    {
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "source": "BleepingComputer",
+      "date": "2026-11-13T16:21:43+00:00"
+    },
+    {
+      "title": "DOJ: Gootloader used in at least 44 ransomware attacks costing $29 million since 2018",
+      "url": "https://therecord.media/gootloader-ransomware-doj-details",
+      "source": "The Record",
+      "date": "2026-11-13T15:59:00+00:00"
+    },
+    {
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13T15:27:05+00:00"
+    },
+    {
+      "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+      "url": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T15:20:00+00:00"
+    },
+    {
+      "title": "TSMC confirms employee data breach tied to cloud service provider",
+      "url": "https://therecord.media/tsmc-confirms-employee-data-breach-cloud-provider",
+      "source": "The Record",
+      "date": "2026-11-13T15:06:00+00:00"
+    },
+    {
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "source": "BleepingComputer",
+      "date": "2026-11-13T15:01:11+00:00"
+    },
+    {
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13T14:28:58+00:00"
+    },
+    {
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13T13:54:20+00:00"
+    },
+    {
+      "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+      "url": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T13:47:42+00:00"
+    },
+    {
+      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+      "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+      "source": "Dark Reading",
+      "date": "2026-11-13T13:00:00+00:00"
+    },
+    {
+      "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+      "url": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T12:41:01+00:00"
+    },
+    {
+      "title": "Microsoft says November security updates cause printing issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+      "source": "BleepingComputer",
+      "date": "2026-11-13T12:27:40+00:00"
+    },
+    {
+      "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+      "url": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T12:20:28+00:00"
+    },
+    {
+      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13T11:52:31+00:00"
+    },
+    {
+      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+      "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13T11:10:40+00:00"
+    },
+    {
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13T10:55:03+00:00"
+    },
     {
       "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
       "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
@@ -78,18 +204,6 @@
       "date": "2026-11-13T05:43:28+00:00"
     },
     {
-      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
-      "url": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
-      "source": "SecurityWeek",
-      "date": "2026-11-13T02:28:21+00:00"
-    },
-    {
-      "title": "NATO issues and then withdraws Russian taxi app travel advice for defense industry conference",
-      "url": "https://therecord.media/nato-issues-and-withdraws-guidance-over-russian-taxi-app",
-      "source": "The Record",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
       "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
       "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
       "source": "BleepingComputer",
@@ -108,22 +222,10 @@
       "date": "2026-11-12T22:25:30+00:00"
     },
     {
-      "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
-      "url": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
-      "source": "The Record",
-      "date": "2026-11-12T21:42:00+00:00"
-    },
-    {
       "title": "Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox",
       "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
       "source": "Dark Reading",
       "date": "2026-11-12T21:18:52+00:00"
-    },
-    {
-      "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-      "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-      "source": "SecurityWeek",
-      "date": "2026-11-12T20:55:30+00:00"
     },
     {
       "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
@@ -144,22 +246,10 @@
       "date": "2026-11-12T19:51:16+00:00"
     },
     {
-      "title": "United to block customers from using AI agents, citing cyber threats",
-      "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
-      "source": "The Record",
-      "date": "2026-11-12T19:20:00+00:00"
-    },
-    {
       "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
       "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
       "source": "BleepingComputer",
       "date": "2026-11-12T19:12:55+00:00"
-    },
-    {
-      "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
-      "url": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
-      "source": "The Record",
-      "date": "2026-11-12T18:28:00+00:00"
     },
     {
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
@@ -186,12 +276,6 @@
       "date": "2026-11-12T16:27:01+00:00"
     },
     {
-      "title": "European authorities take down SteaIC malware servers for second time this year",
-      "url": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
-      "source": "The Record",
-      "date": "2026-11-12T16:21:00+00:00"
-    },
-    {
       "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
       "source": "BleepingComputer",
@@ -202,12 +286,6 @@
       "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
       "source": "The Hacker News",
       "date": "2026-11-12T15:38:49+00:00"
-    },
-    {
-      "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
-      "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-      "source": "SecurityWeek",
-      "date": "2026-11-12T15:38:31+00:00"
     },
     {
       "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
@@ -226,36 +304,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
       "source": "BleepingComputer",
       "date": "2026-11-12T15:00:10+00:00"
-    },
-    {
-      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-      "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T14:36:47+00:00"
-    },
-    {
-      "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-11-12T13:42:09+00:00"
-    },
-    {
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-      "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T13:08:28+00:00"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T12:11:11+00:00"
-    },
-    {
-      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T12:09:14+00:00"
     },
     {
       "title": "Siemens Desigo, Gridscale",
@@ -288,52 +336,10 @@
       "date": "2026-11-12T12:00:00+00:00"
     },
     {
-      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-      "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T11:51:43+00:00"
-    },
-    {
-      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T11:51:31+00:00"
-    },
-    {
-      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T11:33:15+00:00"
-    },
-    {
       "title": "Inside an AI Attack Against a US Retailer",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
       "source": "Dark Reading",
       "date": "2026-11-12T11:00:00+00:00"
-    },
-    {
-      "title": "Microsoft confirms Windows security updates installation issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T10:24:07+00:00"
-    },
-    {
-      "title": "Hackers plant GSocket on Linux servers for persistent access",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T09:38:00+00:00"
-    },
-    {
-      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T09:25:00+00:00"
-    },
-    {
-      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T08:20:37+00:00"
     },
     {
       "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
@@ -364,6 +370,12 @@
       "url": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
       "source": "Dark Reading",
       "date": "2026-11-11T21:20:41+00:00"
+    },
+    {
+      "title": "As Test Takers Turn to AI for Answers, Exam Security Must Catch Up",
+      "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
+      "source": "Dark Reading",
+      "date": "2026-11-11T20:27:00+00:00"
     },
     {
       "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
@@ -400,18 +412,6 @@
       "url": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
       "source": "Dark Reading",
       "date": "2026-11-10T20:41:45+00:00"
-    },
-    {
-      "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
-      "url": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
-      "source": "Dark Reading",
-      "date": "2026-11-10T20:35:34+00:00"
-    },
-    {
-      "title": "How to Assess OT Incident Response Preparedness",
-      "url": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
-      "source": "Dark Reading",
-      "date": "2026-11-10T20:18:43+00:00"
     },
     {
       "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
