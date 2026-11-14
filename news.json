@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T14:49:21.906717+00:00",
+  "updated": "2026-11-14T19:45:07.668349+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,24 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "source": "BleepingComputer",
+      "date": "2026-11-14T17:27:25+00:00"
+    },
+    {
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "source": "BleepingComputer",
+      "date": "2026-11-14T15:15:49+00:00"
+    },
+    {
+      "title": "Is AI Making Us Worse at Cybersecurity?",
+      "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+      "source": "SecurityWeek",
+      "date": "2026-11-14T14:00:00+00:00"
+    },
     {
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
@@ -204,12 +222,6 @@
       "date": "2026-11-13T09:36:18+00:00"
     },
     {
-      "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-      "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-      "source": "SecurityWeek",
-      "date": "2026-11-13T09:21:01+00:00"
-    },
-    {
       "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
       "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
       "source": "BleepingComputer",
@@ -300,22 +312,10 @@
       "date": "2026-11-12T16:27:01+00:00"
     },
     {
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T16:04:00+00:00"
-    },
-    {
       "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
       "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
       "source": "The Hacker News",
       "date": "2026-11-12T15:38:49+00:00"
-    },
-    {
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T15:07:20+00:00"
     },
     {
       "title": "Siemens Desigo, Gridscale",
