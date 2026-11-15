@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T13:32:25.307429+00:00",
+  "updated": "2026-11-15T19:35:19.572143+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-15T18:29:53+00:00"
+    },
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "source": "BleepingComputer",
+      "date": "2026-11-15T15:23:48+00:00"
+    },
     {
       "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
       "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
@@ -286,18 +298,6 @@
       "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
       "source": "Dark Reading",
       "date": "2026-11-12T20:09:41+00:00"
-    },
-    {
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T19:51:16+00:00"
-    },
-    {
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T19:12:55+00:00"
     },
     {
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
