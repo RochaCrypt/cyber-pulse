@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T05:10:02.779299+00:00",
+  "updated": "2026-11-15T13:32:25.307429+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,30 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "source": "SecurityWeek",
+      "date": "2026-11-15T12:51:33+00:00"
+    },
+    {
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "source": "The Hacker News",
+      "date": "2026-11-15T11:27:31+00:00"
+    },
+    {
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "source": "The Hacker News",
+      "date": "2026-11-15T08:22:04+00:00"
+    },
+    {
+      "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+      "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+      "source": "SecurityWeek",
+      "date": "2026-11-14T19:00:00+00:00"
+    },
     {
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
       "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
@@ -198,22 +222,10 @@
       "date": "2026-11-13T10:55:03+00:00"
     },
     {
-      "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
-      "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
-      "source": "SecurityWeek",
-      "date": "2026-11-13T10:48:40+00:00"
-    },
-    {
       "title": "Check Point warns of zero-day flaw exploited for root access",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
       "source": "BleepingComputer",
       "date": "2026-11-13T10:44:22+00:00"
-    },
-    {
-      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
-      "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-11-13T09:36:56+00:00"
     },
     {
       "title": "Microsoft confirms Windows activation failures after November updates",
@@ -304,18 +316,6 @@
       "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
       "source": "The Hacker News",
       "date": "2026-11-12T17:50:27+00:00"
-    },
-    {
-      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T16:27:01+00:00"
-    },
-    {
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T15:38:49+00:00"
     },
     {
       "title": "Siemens Desigo, Gridscale",
