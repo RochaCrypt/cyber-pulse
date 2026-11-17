@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T23:43:02.463072+00:00",
+  "updated": "2026-11-17T06:53:39.507874+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,30 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Uber says nearly 150,000 impacted by third-party breach",
+      "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+      "source": "The Record",
+      "date": "2026-11-18T01:20:00+00:00"
+    },
+    {
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "source": "The Hacker News",
+      "date": "2026-11-17T06:29:27+00:00"
+    },
+    {
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "source": "The Hacker News",
+      "date": "2026-11-17T05:00:34+00:00"
+    },
+    {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "source": "BleepingComputer",
+      "date": "2026-11-17T02:12:17+00:00"
+    },
     {
       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
       "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
@@ -82,12 +106,6 @@
       "url": "https://therecord.media/uk-national-cyber-force-headquarters-opens",
       "source": "The Record",
       "date": "2026-11-16T17:22:00+00:00"
-    },
-    {
-      "title": "Russia denies intercepting Romanian government emails",
-      "url": "https://therecord.media/romania-russia-cyberattack-espionage",
-      "source": "The Record",
-      "date": "2026-11-16T17:00:00+00:00"
     },
     {
       "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
@@ -252,12 +270,6 @@
       "date": "2026-11-15T18:29:53+00:00"
     },
     {
-      "title": "TSMC employee data breach linked to cloud provider",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "source": "BleepingComputer",
-      "date": "2026-11-15T15:23:48+00:00"
-    },
-    {
       "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
       "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
       "source": "The Hacker News",
@@ -300,12 +312,6 @@
       "date": "2026-11-13T14:28:58+00:00"
     },
     {
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "source": "The Hacker News",
-      "date": "2026-11-13T13:54:20+00:00"
-    },
-    {
       "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
       "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
       "source": "Dark Reading",
@@ -316,12 +322,6 @@
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "source": "CISA Advisories",
       "date": "2026-11-13T12:00:00+00:00"
-    },
-    {
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "source": "The Hacker News",
-      "date": "2026-11-13T11:52:31+00:00"
     },
     {
       "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
