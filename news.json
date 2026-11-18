@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:13:50.793657+00:00",
+  "updated": "2026-11-18T16:14:09.871258+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -12,10 +12,178 @@
   ],
   "items": [
     {
-      "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+      "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+      "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T15:30:42+00:00"
+    },
+    {
+      "title": "Russian cyber-espionage group used stolen cloud data to hack into organizations, Google says",
+      "url": "https://therecord.media/russia-cyber-espionage-google",
+      "source": "The Record",
+      "date": "2026-11-18T15:15:00+00:00"
+    },
+    {
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18T15:00:10+00:00"
+    },
+    {
+      "title": "British hacker gets 6 year sentence for $11.6M crypto theft scheme",
+      "url": "https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider",
+      "source": "The Record",
+      "date": "2026-11-18T14:48:00+00:00"
+    },
+    {
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18T14:11:28+00:00"
+    },
+    {
+      "title": "Major Brazilian Signature Apps Enable RCE &amp; Fraud",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
+      "source": "Dark Reading",
+      "date": "2026-11-18T14:00:00+00:00"
+    },
+    {
+      "title": "Ice hockey governing body website defaced amid dispute over Russia's exclusion",
+      "url": "https://therecord.media/russia-hockey-cyberattack-championships",
+      "source": "The Record",
+      "date": "2026-11-18T13:45:00+00:00"
+    },
+    {
+      "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+      "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T13:33:47+00:00"
+    },
+    {
+      "title": "Cyberattack hits Norwegian energy giant Equinor, disrupting internal services",
+      "url": "https://therecord.media/norway-equinor-cyberattack-energy",
+      "source": "The Record",
+      "date": "2026-11-18T13:30:00+00:00"
+    },
+    {
+      "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+      "url": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T13:19:32+00:00"
+    },
+    {
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18T12:28:30+00:00"
+    },
+    {
+      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+      "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18T12:15:00+00:00"
+    },
+    {
+      "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+      "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T12:14:23+00:00"
+    },
+    {
+      "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+      "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T12:00:00+00:00"
+    },
+    {
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
       "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
       "source": "The Hacker News",
-      "date": "2026-11-18T04:27:41+00:00"
+      "date": "2026-11-18T11:55:49+00:00"
+    },
+    {
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18T11:50:25+00:00"
+    },
+    {
+      "title": "Chrome 158 Patches 204 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T11:43:22+00:00"
+    },
+    {
+      "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+      "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T11:05:39+00:00"
+    },
+    {
+      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+      "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18T11:03:57+00:00"
+    },
+    {
+      "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T10:37:08+00:00"
+    },
+    {
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18T10:35:05+00:00"
+    },
+    {
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18T09:24:31+00:00"
+    },
+    {
+      "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+      "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T08:47:18+00:00"
+    },
+    {
+      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18T08:24:31+00:00"
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18T08:24:23+00:00"
+    },
+    {
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18T08:24:18+00:00"
+    },
+    {
+      "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
+      "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T07:43:34+00:00"
+    },
+    {
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18T06:45:26+00:00"
+    },
+    {
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18T05:58:04+00:00"
     },
     {
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -24,10 +192,10 @@
       "date": "2026-11-18T02:52:04+00:00"
     },
     {
-      "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
-      "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
-      "source": "SecurityWeek",
-      "date": "2026-11-18T02:15:07+00:00"
+      "title": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500",
+      "url": "https://therecord.media/cisa-issues-java4shell-alert",
+      "source": "The Record",
+      "date": "2026-11-18T00:00:00+00:00"
     },
     {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
@@ -46,12 +214,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
       "source": "BleepingComputer",
       "date": "2026-11-17T21:27:17+00:00"
-    },
-    {
-      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
-      "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
-      "source": "The Record",
-      "date": "2026-11-17T21:20:00+00:00"
     },
     {
       "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
@@ -78,19 +240,7 @@
       "date": "2026-11-17T19:24:07+00:00"
     },
     {
-      "title": "Kazakh ransomware hacking suspect extradited from Italy",
-      "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
-      "source": "The Record",
-      "date": "2026-11-17T19:09:00+00:00"
-    },
-    {
-      "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
-      "url": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
-      "source": "The Record",
-      "date": "2026-11-17T18:50:00+00:00"
-    },
-    {
-      "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+      "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
       "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
       "source": "Dark Reading",
       "date": "2026-11-17T18:38:37+00:00"
@@ -102,28 +252,10 @@
       "date": "2026-11-17T18:21:24+00:00"
     },
     {
-      "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
-      "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T18:16:17+00:00"
-    },
-    {
       "title": "Tor releases emergency update amid ongoing DDoS attack",
       "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
       "source": "BleepingComputer",
       "date": "2026-11-17T18:04:15+00:00"
-    },
-    {
-      "title": "California fines Hertz $1.5 million for breaking state data privacy law",
-      "url": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
-      "source": "The Record",
-      "date": "2026-11-17T17:13:00+00:00"
-    },
-    {
-      "title": "NSA Net, agency’s classified internal network, faces unspecified disruptions",
-      "url": "https://therecord.media/nsa-net-disruptions",
-      "source": "The Record",
-      "date": "2026-11-17T16:21:00+00:00"
     },
     {
       "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
@@ -150,52 +282,10 @@
       "date": "2026-11-17T15:01:11+00:00"
     },
     {
-      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
-      "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T14:55:30+00:00"
-    },
-    {
-      "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-      "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T14:14:24+00:00"
-    },
-    {
-      "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-      "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T14:00:00+00:00"
-    },
-    {
-      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-      "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T13:24:43+00:00"
-    },
-    {
       "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
       "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
       "source": "Dark Reading",
       "date": "2026-11-17T13:12:56+00:00"
-    },
-    {
-      "title": "Access Dental Management Data Breach Impacts Over 340,000",
-      "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T12:59:04+00:00"
-    },
-    {
-      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-      "url": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T12:51:54+00:00"
-    },
-    {
-      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-      "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T12:28:45+00:00"
     },
     {
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -208,12 +298,6 @@
       "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
       "source": "The Hacker News",
       "date": "2026-11-17T12:14:36+00:00"
-    },
-    {
-      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-      "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T12:00:00+00:00"
     },
     {
       "title": "Siemens ROS#",
@@ -306,70 +390,16 @@
       "date": "2026-11-17T11:19:51+00:00"
     },
     {
-      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-      "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17T11:07:31+00:00"
-    },
-    {
       "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
       "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
       "source": "BleepingComputer",
       "date": "2026-11-17T09:44:22+00:00"
     },
     {
-      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17T08:35:42+00:00"
-    },
-    {
-      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17T07:25:44+00:00"
-    },
-    {
-      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-      "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17T07:12:13+00:00"
-    },
-    {
-      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-      "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17T06:29:27+00:00"
-    },
-    {
-      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-      "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17T05:00:34+00:00"
-    },
-    {
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17T02:12:17+00:00"
-    },
-    {
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "source": "BleepingComputer",
-      "date": "2026-11-16T22:54:00+00:00"
-    },
-    {
       "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
       "url": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
       "source": "Dark Reading",
       "date": "2026-11-16T22:08:20+00:00"
-    },
-    {
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "source": "BleepingComputer",
-      "date": "2026-11-16T21:31:44+00:00"
     },
     {
       "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
@@ -394,30 +424,6 @@
       "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
       "source": "Dark Reading",
       "date": "2026-11-16T14:22:15+00:00"
-    },
-    {
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16T13:27:20+00:00"
-    },
-    {
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16T12:34:21+00:00"
-    },
-    {
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16T12:33:18+00:00"
     },
     {
       "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
@@ -454,12 +460,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
       "source": "Dark Reading",
       "date": "2026-11-12T21:18:52+00:00"
-    },
-    {
-      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-      "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-      "source": "Dark Reading",
-      "date": "2026-11-12T20:09:41+00:00"
     },
     {
       "title": "Siemens RUGGEDCOM APE1808",
