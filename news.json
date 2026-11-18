@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T23:46:17.728946+00:00",
+  "updated": "2026-11-18T06:13:50.793657+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,24 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18T04:27:41+00:00"
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "source": "Krebs on Security",
+      "date": "2026-11-18T02:52:04+00:00"
+    },
+    {
+      "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+      "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+      "source": "SecurityWeek",
+      "date": "2026-11-18T02:15:07+00:00"
+    },
     {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
@@ -294,12 +312,6 @@
       "date": "2026-11-17T11:07:31+00:00"
     },
     {
-      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-      "url": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T10:22:20+00:00"
-    },
-    {
       "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
       "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
       "source": "BleepingComputer",
@@ -408,12 +420,6 @@
       "date": "2026-11-16T12:33:18+00:00"
     },
     {
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16T09:32:57+00:00"
-    },
-    {
       "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
       "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
       "source": "Dark Reading",
@@ -484,12 +490,6 @@
       "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
       "source": "Krebs on Security",
       "date": "2026-11-03T02:24:31+00:00"
-    },
-    {
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "source": "Krebs on Security",
-      "date": "2026-10-21T15:26:07+00:00"
     }
   ]
 }
