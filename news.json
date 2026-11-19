@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:17:22.886239+00:00",
+  "updated": "2026-11-19T06:15:07.526433+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -12,13 +12,25 @@
   ],
   "items": [
     {
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19T04:33:46+00:00"
+    },
+    {
+      "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+      "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+      "source": "SecurityWeek",
+      "date": "2026-11-19T03:25:23+00:00"
+    },
+    {
       "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
       "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
       "source": "BleepingComputer",
       "date": "2026-11-18T23:08:33+00:00"
     },
     {
-      "title": "Cold Relic Turns One Cloud Breach Into Another",
+      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
       "source": "Dark Reading",
       "date": "2026-11-18T21:59:46+00:00"
@@ -246,12 +258,6 @@
       "date": "2026-11-18T08:24:18+00:00"
     },
     {
-      "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-      "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-      "source": "SecurityWeek",
-      "date": "2026-11-18T07:43:34+00:00"
-    },
-    {
       "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
       "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
       "source": "The Hacker News",
@@ -334,12 +340,6 @@
       "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
       "source": "The Hacker News",
       "date": "2026-11-17T15:17:36+00:00"
-    },
-    {
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17T15:17:28+00:00"
     },
     {
       "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
