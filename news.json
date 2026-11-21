@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T03:47:53.574461+00:00",
+  "updated": "2026-11-21T12:11:59.638009+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,42 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "source": "SecurityWeek",
+      "date": "2026-11-21T12:08:50+00:00"
+    },
+    {
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21T11:53:07+00:00"
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21T11:05:53+00:00"
+    },
+    {
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21T11:03:17+00:00"
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21T08:49:20+00:00"
+    },
+    {
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21T08:49:13+00:00"
+    },
     {
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -282,34 +318,10 @@
       "date": "2026-11-19T18:20:01+00:00"
     },
     {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T16:59:56+00:00"
-    },
-    {
       "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
       "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
       "source": "BleepingComputer",
       "date": "2026-11-19T16:28:23+00:00"
-    },
-    {
-      "title": "PHP Patches Seven Critical RCE Vulnerabilities",
-      "url": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-11-19T15:54:20+00:00"
-    },
-    {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T15:18:07+00:00"
-    },
-    {
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T15:11:06+00:00"
     },
     {
       "title": "Five warning signs of ransomware breach before encryption or data theft",
@@ -322,12 +334,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
       "source": "BleepingComputer",
       "date": "2026-11-19T14:57:24+00:00"
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T14:33:06+00:00"
     },
     {
       "title": "Why Holiday Security Can't Wait for Black Friday",
@@ -352,12 +358,6 @@
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
       "source": "CISA Advisories",
       "date": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T11:52:23+00:00"
     },
     {
       "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
