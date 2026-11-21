@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T22:30:22.968796+00:00",
+  "updated": "2026-11-21T03:47:53.574461+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "date": "2026-11-21T00:36:39+00:00"
+    },
     {
       "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
       "url": "https://therecord.media/west-virginia-legislature-cyberattack",
@@ -484,12 +490,6 @@
       "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
       "source": "Krebs on Security",
       "date": "2026-11-05T04:36:17+00:00"
-    },
-    {
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "source": "Krebs on Security",
-      "date": "2026-11-03T02:24:31+00:00"
     }
   ]
 }
