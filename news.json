@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T00:14:28.288172+00:00",
+  "updated": "2026-11-22T07:48:52.012107+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,24 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "source": "The Hacker News",
+      "date": "2026-11-22T05:06:55+00:00"
+    },
+    {
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "source": "The Hacker News",
+      "date": "2026-11-22T05:03:41+00:00"
+    },
+    {
+      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+      "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+      "source": "SecurityWeek",
+      "date": "2026-11-22T00:53:02+00:00"
+    },
     {
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
       "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
@@ -34,6 +52,12 @@
       "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
       "source": "BleepingComputer",
       "date": "2026-11-21T14:26:04+00:00"
+    },
+    {
+      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+      "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+      "source": "SecurityWeek",
+      "date": "2026-11-21T13:00:00+00:00"
     },
     {
       "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
@@ -264,22 +288,10 @@
       "date": "2026-11-20T09:08:35+00:00"
     },
     {
-      "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
-      "url": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
-      "source": "SecurityWeek",
-      "date": "2026-11-20T07:35:46+00:00"
-    },
-    {
       "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
       "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
       "source": "The Hacker News",
       "date": "2026-11-20T07:11:39+00:00"
-    },
-    {
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "source": "The Hacker News",
-      "date": "2026-11-20T05:30:01+00:00"
     },
     {
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
@@ -322,18 +334,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
       "source": "Dark Reading",
       "date": "2026-11-19T19:46:44+00:00"
-    },
-    {
-      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-      "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-      "source": "SecurityWeek",
-      "date": "2026-11-19T19:21:06+00:00"
-    },
-    {
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T18:47:58+00:00"
     },
     {
       "title": "Why Holiday Security Can't Wait for Black Friday",
