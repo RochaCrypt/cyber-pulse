@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T15:58:24.856256+00:00",
+  "updated": "2026-11-22T21:40:20.894522+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "source": "BleepingComputer",
+      "date": "2026-11-22T18:45:37+00:00"
+    },
     {
       "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
       "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
@@ -304,12 +310,6 @@
       "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
       "source": "The Hacker News",
       "date": "2026-11-20T07:11:39+00:00"
-    },
-    {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "source": "BleepingComputer",
-      "date": "2026-11-20T00:26:25+00:00"
     },
     {
       "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
