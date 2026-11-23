@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T21:40:20.894522+00:00",
+  "updated": "2026-11-23T02:18:50.063406+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -216,6 +216,12 @@
       "date": "2026-11-20T14:56:23+00:00"
     },
     {
+      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+      "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+      "source": "Dark Reading",
+      "date": "2026-11-20T13:51:30+00:00"
+    },
+    {
       "title": "N-able says recent security breach led to major service outage",
       "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
       "source": "BleepingComputer",
@@ -406,12 +412,6 @@
       "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
       "source": "Krebs on Security",
       "date": "2026-11-18T02:52:04+00:00"
-    },
-    {
-      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-      "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "source": "Dark Reading",
-      "date": "2026-11-17T22:34:22+00:00"
     },
     {
       "title": "Siemens Simcenter Femap",
