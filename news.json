@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:28:30.915153+00:00",
+  "updated": "2026-11-24T08:44:16.873272+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24T06:02:57+00:00"
+    },
+    {
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24T06:02:45+00:00"
+    },
     {
       "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
       "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
@@ -120,7 +132,7 @@
       "date": "2026-11-23T15:10:48+00:00"
     },
     {
-      "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+      "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
       "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
       "source": "SecurityWeek",
       "date": "2026-11-23T15:06:49+00:00"
@@ -304,18 +316,6 @@
       "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
       "source": "The Hacker News",
       "date": "2026-11-21T11:03:17+00:00"
-    },
-    {
-      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-      "source": "The Hacker News",
-      "date": "2026-11-21T08:49:20+00:00"
-    },
-    {
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "source": "The Hacker News",
-      "date": "2026-11-21T08:49:13+00:00"
     },
     {
       "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
