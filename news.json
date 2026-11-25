@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T19:58:44.295385+00:00",
+  "updated": "2026-11-25T03:29:26.463687+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,48 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+      "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+      "source": "SecurityWeek",
+      "date": "2026-11-24T22:41:58+00:00"
+    },
+    {
+      "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+      "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+      "source": "Dark Reading",
+      "date": "2026-11-24T22:05:34+00:00"
+    },
+    {
+      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+      "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+      "source": "Dark Reading",
+      "date": "2026-11-24T21:48:06+00:00"
+    },
+    {
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24T21:37:30+00:00"
+    },
+    {
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "source": "Dark Reading",
+      "date": "2026-11-24T21:36:11+00:00"
+    },
+    {
+      "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+      "url": "https://therecord.media/mycolorado-app-down-data-breach",
+      "source": "The Record",
+      "date": "2026-11-24T20:52:00+00:00"
+    },
+    {
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24T20:21:20+00:00"
+    },
     {
       "title": "California privacy agency director Kemp to leave after two-year tenure",
       "url": "https://therecord.media/california-privacy-agency-kemp",
@@ -108,12 +150,6 @@
       "date": "2026-11-24T14:09:37+00:00"
     },
     {
-      "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks",
-      "url": "https://therecord.media/cyberattacks-uk-artificial-intelligence",
-      "source": "The Record",
-      "date": "2026-11-24T13:45:00+00:00"
-    },
-    {
       "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
       "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
       "source": "BleepingComputer",
@@ -162,14 +198,20 @@
       "date": "2026-11-24T12:01:54+00:00"
     },
     {
-      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "source": "CISA Advisories",
       "date": "2026-11-24T12:00:00+00:00"
     },
     {
       "title": "Danfoss AK-SM 8xxA Series",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "source": "CISA Advisories",
+      "date": "2026-11-24T12:00:00+00:00"
+    },
+    {
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
       "source": "CISA Advisories",
       "date": "2026-11-24T12:00:00+00:00"
     },
@@ -276,12 +318,6 @@
       "date": "2026-11-23T17:45:15+00:00"
     },
     {
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "source": "BleepingComputer",
-      "date": "2026-11-23T16:50:01+00:00"
-    },
-    {
       "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
       "source": "Dark Reading",
@@ -298,18 +334,6 @@
       "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
       "source": "The Hacker News",
       "date": "2026-11-23T15:10:48+00:00"
-    },
-    {
-      "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
-      "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-      "source": "SecurityWeek",
-      "date": "2026-11-23T15:06:49+00:00"
-    },
-    {
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "source": "BleepingComputer",
-      "date": "2026-11-23T15:00:10+00:00"
     },
     {
       "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
@@ -390,24 +414,6 @@
       "date": "2026-11-19T22:40:03+00:00"
     },
     {
-      "title": "Second Norwegian Energy Company Breached in 2 Days",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
-      "source": "Dark Reading",
-      "date": "2026-11-19T20:14:15+00:00"
-    },
-    {
-      "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
-      "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
-      "source": "Dark Reading",
-      "date": "2026-11-19T19:57:31+00:00"
-    },
-    {
-      "title": "Navigating Vulnerability Hysteria in the AI Era",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
-      "source": "Dark Reading",
-      "date": "2026-11-19T19:46:44+00:00"
-    },
-    {
       "title": "Elecbrakes EB2, VM1, ELBC2000",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
       "source": "CISA Advisories",
@@ -438,14 +444,20 @@
       "date": "2026-11-18T02:52:04+00:00"
     },
     {
-      "title": "Siemens SIMATIC WinCC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
       "source": "CISA Advisories",
       "date": "2026-11-17T12:00:00+00:00"
     },
     {
       "title": "Dorsett Controls InfoScan",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+      "source": "CISA Advisories",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
       "source": "CISA Advisories",
       "date": "2026-11-17T12:00:00+00:00"
     },
@@ -458,18 +470,6 @@
     {
       "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
-      "source": "CISA Advisories",
-      "date": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "source": "CISA Advisories",
-      "date": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "Siemens Industrial Software Products",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
       "source": "CISA Advisories",
       "date": "2026-11-17T12:00:00+00:00"
     },
