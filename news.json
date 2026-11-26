@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T14:45:51.902102+00:00",
+  "updated": "2026-11-26T23:30:32.577080+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,48 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "source": "BleepingComputer",
+      "date": "2026-11-26T21:06:22+00:00"
+    },
+    {
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "source": "The Hacker News",
+      "date": "2026-11-26T19:39:57+00:00"
+    },
+    {
+      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+      "source": "BleepingComputer",
+      "date": "2026-11-26T17:58:42+00:00"
+    },
+    {
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "source": "BleepingComputer",
+      "date": "2026-11-26T17:15:27+00:00"
+    },
+    {
+      "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+      "url": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+      "source": "SecurityWeek",
+      "date": "2026-11-26T17:06:55+00:00"
+    },
+    {
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "source": "BleepingComputer",
+      "date": "2026-11-26T15:23:28+00:00"
+    },
+    {
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "source": "The Hacker News",
+      "date": "2026-11-26T15:13:41+00:00"
+    },
     {
       "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
       "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
@@ -252,12 +294,6 @@
       "date": "2026-11-25T09:06:59+00:00"
     },
     {
-      "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-      "url": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
-      "source": "SecurityWeek",
-      "date": "2026-11-25T09:05:13+00:00"
-    },
-    {
       "title": "Microsoft confirms authentication issues after November updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
       "source": "BleepingComputer",
@@ -282,12 +318,6 @@
       "date": "2026-11-25T06:37:06+00:00"
     },
     {
-      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-      "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T06:21:12+00:00"
-    },
-    {
       "title": "Satellites Have a Ground-Level Cybersecurity Problem",
       "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
       "source": "Dark Reading",
@@ -300,40 +330,10 @@
       "date": "2026-11-24T21:48:06+00:00"
     },
     {
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24T21:37:30+00:00"
-    },
-    {
       "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
       "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
       "source": "Dark Reading",
       "date": "2026-11-24T21:36:11+00:00"
-    },
-    {
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24T20:21:20+00:00"
-    },
-    {
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24T18:59:52+00:00"
-    },
-    {
-      "title": "Radware discloses breach exposing customer cloud access keys",
-      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24T17:49:05+00:00"
-    },
-    {
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "source": "The Hacker News",
-      "date": "2026-11-24T16:54:07+00:00"
     },
     {
       "title": "How Southeastern University Got a Handle on Its Data",
