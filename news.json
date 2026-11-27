@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T23:30:32.577080+00:00",
+  "updated": "2026-11-27T07:02:53.947131+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,18 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "source": "The Hacker News",
+      "date": "2026-11-27T06:04:20+00:00"
+    },
+    {
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "source": "The Hacker News",
+      "date": "2026-11-27T05:48:20+00:00"
+    },
     {
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
@@ -304,18 +316,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
       "source": "BleepingComputer",
       "date": "2026-11-25T07:45:03+00:00"
-    },
-    {
-      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T06:50:19+00:00"
-    },
-    {
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T06:37:06+00:00"
     },
     {
       "title": "Satellites Have a Ground-Level Cybersecurity Problem",
