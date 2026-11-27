@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T07:02:53.947131+00:00",
+  "updated": "2026-11-27T17:52:43.860475+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -12,6 +12,132 @@
   ],
   "items": [
     {
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T17:06:13+00:00"
+    },
+    {
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "source": "The Hacker News",
+      "date": "2026-11-27T16:36:11+00:00"
+    },
+    {
+      "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+      "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+      "source": "Dark Reading",
+      "date": "2026-11-27T15:27:20+00:00"
+    },
+    {
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T15:09:40+00:00"
+    },
+    {
+      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+      "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T15:00:10+00:00"
+    },
+    {
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T14:22:06+00:00"
+    },
+    {
+      "title": "Japan’s education ministry discloses breach of government procurement system",
+      "url": "https://therecord.media/japan-education-ministry-cyberattack",
+      "source": "The Record",
+      "date": "2026-11-27T14:15:00+00:00"
+    },
+    {
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "source": "Dark Reading",
+      "date": "2026-11-27T14:00:00+00:00"
+    },
+    {
+      "title": "Software giant SAP confirms cyber incident amid reports of source code breach",
+      "url": "https://therecord.media/sap-germany-cyberattack-github",
+      "source": "The Record",
+      "date": "2026-11-27T13:15:00+00:00"
+    },
+    {
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "source": "The Hacker News",
+      "date": "2026-11-27T11:49:34+00:00"
+    },
+    {
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T11:18:36+00:00"
+    },
+    {
+      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+      "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-11-27T11:00:00+00:00"
+    },
+    {
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "source": "The Hacker News",
+      "date": "2026-11-27T10:32:18+00:00"
+    },
+    {
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T10:10:15+00:00"
+    },
+    {
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T09:56:36+00:00"
+    },
+    {
+      "title": "100,000 Potentially Impacted by Colorado Data Breach",
+      "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+      "source": "SecurityWeek",
+      "date": "2026-11-27T09:30:54+00:00"
+    },
+    {
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "source": "The Hacker News",
+      "date": "2026-11-27T09:29:30+00:00"
+    },
+    {
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T09:08:16+00:00"
+    },
+    {
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T08:06:58+00:00"
+    },
+    {
+      "title": "Hex Package Manager Warns of Potential Data Breach",
+      "url": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+      "source": "SecurityWeek",
+      "date": "2026-11-27T07:44:49+00:00"
+    },
+    {
+      "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+      "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+      "source": "SecurityWeek",
+      "date": "2026-11-27T07:36:14+00:00"
+    },
+    {
       "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
       "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
       "source": "The Hacker News",
@@ -22,6 +148,18 @@
       "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
       "source": "The Hacker News",
       "date": "2026-11-27T05:48:20+00:00"
+    },
+    {
+      "title": "Cyberattack disrupts global news distribution platform at France’s AFP",
+      "url": "https://therecord.media/france-afp-hit-by-cyberattack",
+      "source": "The Record",
+      "date": "2026-11-27T00:00:00+00:00"
+    },
+    {
+      "title": "British government takes services offline following ‘cyber incident’",
+      "url": "https://therecord.media/uk-department-work-pensions-cyber-incident",
+      "source": "The Record",
+      "date": "2026-11-27T00:00:00+00:00"
     },
     {
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
@@ -144,48 +282,6 @@
       "date": "2026-11-25T22:05:09+00:00"
     },
     {
-      "title": "1Password customer data stolen after employee GitHub account breach",
-      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T21:33:33+00:00"
-    },
-    {
-      "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
-      "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
-      "source": "The Record",
-      "date": "2026-11-25T21:18:00+00:00"
-    },
-    {
-      "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
-      "url": "https://therecord.media/fifa-data-breach-limited",
-      "source": "The Record",
-      "date": "2026-11-25T20:40:00+00:00"
-    },
-    {
-      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T19:39:31+00:00"
-    },
-    {
-      "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
-      "url": "https://therecord.media/ransomware-doj-indictment-recovery",
-      "source": "The Record",
-      "date": "2026-11-25T17:30:00+00:00"
-    },
-    {
-      "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
-      "url": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
-      "source": "The Record",
-      "date": "2026-11-25T17:07:00+00:00"
-    },
-    {
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T16:13:40+00:00"
-    },
-    {
       "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
       "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
       "source": "Dark Reading",
@@ -204,46 +300,16 @@
       "date": "2026-11-25T15:20:27+00:00"
     },
     {
-      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T15:00:10+00:00"
-    },
-    {
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T15:00:00+00:00"
-    },
-    {
       "title": "Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'",
       "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
       "source": "Dark Reading",
       "date": "2026-11-25T15:00:00+00:00"
     },
     {
-      "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
-      "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
-      "source": "SecurityWeek",
-      "date": "2026-11-25T14:15:25+00:00"
-    },
-    {
       "title": "Latin America Sees Cyberattacks on Ports, Pipelines &amp; Manufacturing",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
       "source": "Dark Reading",
       "date": "2026-11-25T14:00:00+00:00"
-    },
-    {
-      "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
-      "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
-      "source": "SecurityWeek",
-      "date": "2026-11-25T13:39:21+00:00"
-    },
-    {
-      "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
-      "url": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
-      "source": "SecurityWeek",
-      "date": "2026-11-25T13:30:00+00:00"
     },
     {
       "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
@@ -264,60 +330,6 @@
       "date": "2026-11-25T12:00:00+00:00"
     },
     {
-      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-      "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T11:51:48+00:00"
-    },
-    {
-      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-      "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T11:23:26+00:00"
-    },
-    {
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T11:16:32+00:00"
-    },
-    {
-      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-      "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T10:43:07+00:00"
-    },
-    {
-      "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
-      "url": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
-      "source": "SecurityWeek",
-      "date": "2026-11-25T10:40:07+00:00"
-    },
-    {
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T10:10:20+00:00"
-    },
-    {
-      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T09:06:59+00:00"
-    },
-    {
-      "title": "Microsoft confirms authentication issues after November updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T09:02:57+00:00"
-    },
-    {
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T07:45:03+00:00"
-    },
-    {
       "title": "Satellites Have a Ground-Level Cybersecurity Problem",
       "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
       "source": "Dark Reading",
@@ -328,12 +340,6 @@
       "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
       "source": "Dark Reading",
       "date": "2026-11-24T21:48:06+00:00"
-    },
-    {
-      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
-      "source": "Dark Reading",
-      "date": "2026-11-24T21:36:11+00:00"
     },
     {
       "title": "How Southeastern University Got a Handle on Its Data",
@@ -400,12 +406,6 @@
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "source": "CISA Advisories",
       "date": "2026-11-23T12:00:00+00:00"
-    },
-    {
-      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
-      "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
-      "source": "Dark Reading",
-      "date": "2026-11-21T01:31:23+00:00"
     },
     {
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
