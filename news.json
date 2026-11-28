@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:11:43.419344+00:00",
+  "updated": "2026-11-28T09:52:02.556761+00:00",
   "count": 80,
   "sources": [
     "The Hacker News",
@@ -11,6 +11,12 @@
     "CISA Advisories"
   ],
   "items": [
+    {
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "source": "The Hacker News",
+      "date": "2026-11-28T08:08:11+00:00"
+    },
     {
       "title": "pCloud confirms password manager hack after suspicious login alerts",
       "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
@@ -322,12 +328,6 @@
       "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
       "source": "The Hacker News",
       "date": "2026-11-25T12:48:54+00:00"
-    },
-    {
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T12:30:08+00:00"
     },
     {
       "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
